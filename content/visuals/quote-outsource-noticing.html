@@ -1,0 +1,49 @@
+<!doctype html><meta charset="utf-8"><style>
+  @font-face{font-family:Mont;src:url('fonts/m1.ttf');font-weight:500}
+  @font-face{font-family:Mont;src:url('fonts/m2.ttf');font-weight:600}
+  @font-face{font-family:Mont;src:url('fonts/m3.ttf');font-weight:700}
+  @font-face{font-family:Mont;src:url('fonts/m4.ttf');font-weight:800}
+  :root{
+    --navy:#0B1A2E; --wedge:#132840; --gold:#C9A227;
+    --white:#FFFFFF; --slate:#8FA3BF; --slate-bright:#C6D2E3; --margin:90px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  .inner > *{flex:0 0 auto}
+  html,body{width:1080px;height:1080px}
+  body{background:var(--navy);font-family:Mont,'Liberation Sans',sans-serif;
+       position:relative;overflow:hidden}
+  .wedge{position:absolute;top:0;right:0;width:520px;height:520px;
+         background:var(--wedge);clip-path:polygon(100% 0,100% 100%,0 0);opacity:.85}
+  .inner{position:relative;height:100%;padding:0 var(--margin);
+         display:flex;flex-direction:column}
+  .footer .hr{height:2px;background:var(--slate);opacity:.45;margin-bottom:30px}
+  .footer .co{font-weight:700;letter-spacing:.045em;color:var(--white)}
+  .footer .cred{font-weight:500;letter-spacing:.035em;color:var(--slate)}
+
+  .mark{margin-top:96px}
+  .quote{margin-top:auto;padding-bottom:200px}
+  .line{font-weight:800;font-size:74px;line-height:1.14;color:var(--white);
+        letter-spacing:-.015em}
+  .land{margin-top:30px;font-weight:700;font-size:54px;line-height:1.22;
+        color:var(--gold);letter-spacing:-.005em}
+  .footer{padding-bottom:74px}
+  .footer .co{font-size:27px}
+  .footer .cred{margin-top:10px;font-size:22px}
+</style>
+<div class="wedge"></div>
+<div class="inner">
+  <div class="mark">
+  <svg width="96" height="50" viewBox="0 0 118 62" style="flex:0 0 auto" fill="none">
+    <path d="M0 24 L59 0 L118 24 L118 40 L59 16 L0 40 Z" fill="#C9A227"/>
+    <path d="M0 46 L59 22 L118 46 L118 62 L59 38 L0 62 Z" fill="#C9A227"/>
+  </svg></div>
+  <div class="quote">
+    <div class="line">You can’t outsource noticing.</div>
+    <div class="land">Smaller roster. Real attention.</div>
+  </div>
+  <div class="footer">
+    <div class="hr"></div>
+    <div class="co">NOW TIME HEALTH + FITNESS</div>
+    <div class="cred">USMC Veteran-Owned &nbsp;·&nbsp; nowtimehf.com</div>
+  </div>
+</div>

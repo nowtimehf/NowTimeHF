@@ -93,6 +93,47 @@ part of the same set as card 01.
 
 ---
 
+## System C — Quote cards (current, for social)
+
+The consumer sibling of System A. Same brand family, different job: these run on
+Facebook and Instagram in the individual voice, where the reader is a person
+managing their own health, not an HR director evaluating a purchase.
+
+Built from `quotes.json` by the same script:
+`node content/visuals/build-cards.js quote`
+
+### What carries over from System A
+Navy ground `#0B1A2E`, corner wedge, brass gold `#C9A227`, slate `#8FA3BF`,
+Montserrat in two weights, 1080×1080, left alignment, generous negative space —
+and critically, **white states, gold lands.** The opening line is white; the
+line that turns it is gold. Same logic as white-asks/gold-answers.
+
+### What changes, and why
+| | System A (objection) | System C (quote) |
+|---|---|---|
+| Top mark | gold tick bar + numbered eyebrow | gold chevron alone |
+| Series number | yes, sequential | none — these aren't a set to collect |
+| Labels | "THE ANSWER" | none |
+| Credential line | USMC · **SDVOSB** · nowtimehf.com | USMC · nowtimehf.com |
+| Text anchor | flows from the top | **bottom-anchored** |
+
+**SDVOSB is dropped on purpose.** It's a federal procurement credential. It
+earns trust with an HR director evaluating a vendor and means nothing to an
+individual on Facebook — carrying it there is noise that makes a warm post look
+like a capability statement. USMC Veteran-Owned stays: that's identity, not
+paperwork.
+
+**The quote block is bottom-anchored**, not centered. Every card in the set ends
+its text at the same baseline regardless of length, so a grid view or a scroll
+reads as one system. Centering made short quotes float and long ones sit low.
+
+### Sizing
+Defaults are 74px for the white line, 54px for the gold. Long quotes override
+downward per-card in `quotes.json` (`lineSize` / `landSize`). The builder warns
+if text passes 880px — reduce the override rather than eating the lower space.
+
+---
+
 ## System B — Pull-quote posters (2025–early 2026, superseded)
 
 The graphics attached to the 52 posts in `past-posts.md`. PNG ~1.3 MB, produced
