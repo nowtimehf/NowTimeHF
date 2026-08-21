@@ -45,18 +45,18 @@
 ## Platforms
 - **Instagram**
   - Handle: @loganfit.mike
-  - Format notes: *(needs input)*
-  - Cadence: *(needs input)*
+  - Format notes: Short, punchy caption paired with a graphic or carousel — visual-first, not long-form text.
+  - Cadence: 3x/week.
 - **LinkedIn**
   - Handle: https://www.linkedin.com/in/michael-logan-nowtime
-  - Format notes: *(needs input)*
-  - Cadence: *(needs input)*
+  - Format notes: Long-form native text post (roughly 200–400 words), data-heavy, no external image required to perform well.
+  - Cadence: 3x/week.
 - **Facebook**
   - Handle: /mikeloganfit
-  - Format notes: *(needs input)*
-  - Cadence: *(needs input)*
+  - Format notes: Short caption paired with a graphic or carousel, same visual-first approach as Instagram.
+  - Cadence: 3x/week.
 
-> Note: the live handles above are the founder's personal-brand accounts (Michael Logan), not a separate "@nowtimehf" account — confirm whether that's intentional going forward or whether a dedicated NowTimeHF account is planned.
+> Note: the accounts above are the founder's personal-brand accounts (Michael Logan), confirmed as the intended long-term primary presence for NowTimeHF content — no separate "@nowtimehf" account is planned.
 
 ## Competitors / Inspiration
 - **Limeade** — employee wellbeing/engagement platform with data-driven positioning, worth studying for how they frame engagement metrics.
