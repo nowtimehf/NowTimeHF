@@ -150,9 +150,18 @@ Retained for reference only. New work follows System A.
 
 ## Rule for /generate-visuals
 
-Default to **System A** and follow the spec above exactly — palette, layout
-order, two-weight type, white-asks/gold-answers. State that hex values are
-eyeballed approximations if exact brand matching matters.
+**Pick the system from the post's voice, not its topic:**
 
-Only use System B if a post is explicitly reflective/organic in the
-`past-posts.md` register, and say so when proposing it.
+- LinkedIn / buyer voice → **System A**. Add an entry to `cards.json` and run
+  `node content/visuals/build-cards.js objection`.
+- Facebook / Instagram / individual voice → **System C**. Add an entry to
+  `quotes.json` and run `node content/visuals/build-cards.js quote`.
+- **System B** only if a post is deliberately in the retired reflective
+  register — say so when proposing it.
+
+These are built in code, not generated. An image model approximates type; the
+browser renders it exactly and reproducibly. Don't spend generation credits on
+a fixed typographic layout.
+
+State that hex values are eyeballed approximations whenever exact brand
+matching matters.
