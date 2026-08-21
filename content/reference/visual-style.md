@@ -1,90 +1,117 @@
 # Visual Style
 
-Two distinct graphic systems are in use. Match the system to the post's job —
-don't blend them.
+**System A below is the brand standard going forward.** It is the current,
+in-house objection-card system, confirmed against the live posts. System B is
+retained as history — earlier outsourced work, not the direction.
 
 ---
 
-## System A — Objection cards (current, in-house)
+## System A — Objection cards (current standard)
 
-Source: `01-classpass.png` … `06-free-trials.png`, paired with
-`objection-crusher-pack.md`. Owned by the NowTimeHF account, ~60 KB each.
+Square 1:1 (1080×1080), flat vector, text-only. No photography.
 
-**The template is fixed and verified.** Text layout, read off the files:
+### Palette
 
-```
-OBJECTION 0N/ WHAT HR DIRECTORS ASK
-
-"[the objection, in quotation marks]"
-
-THE ANSWER
-
-[one-line reframe]
-
-NOW TIME HEALTH + FITNESS
-USMC Veteran-Owned
-SDVOSB Certified            nowtimehf.com
-```
-
-Two confirmed instances:
-
-| File | Objection | Answer |
+| Role | Approx. hex | Used for |
 |---|---|---|
-| `01-classpass.png` | "Why not just give everyone ClassPass?" | Access isn't the problem. Accountability is. |
-| `03-roi.png` | "How do I know the actual ROI?" | I don't sell engagement promises. I sell engagement reporting. |
+| Ground | `#0B1A2E` deep navy | full background |
+| Ground highlight | `#132840` | subtle diagonal wedge, top-right corner only |
+| Accent | `#C9A227` brass/gold | top rule, chevron mark, "THE ANSWER" label, the answer text |
+| Primary text | `#FFFFFF` | the objection quote, company name |
+| Muted | `#8FA3BF` slate blue | "WHAT HR DIRECTORS ASK", hairlines, credential line |
 
-Notes:
-- **Numbered series** (`OBJECTION 01/`, `03/`) — reads as a collectable set,
-  which is why they work as a rotating campaign.
-- **Every card carries the credential block**: company name, USMC Veteran-Owned,
-  SDVOSB Certified, nowtimehf.com. The trust markers are in the graphic, not
-  left to the caption.
-- The answer line on the card is the same line that anchors the post — the card
-  is the post's thesis, extracted.
-- Auto-labels ("Website; Mobile device; Text; Screenshot") suggest a clean,
-  flat, text-forward design rather than photography.
+Two-color discipline: **white asks, gold answers.** The objection is always
+white; the reframe is always gold. That contrast is the whole idea — don't
+invert it or introduce a third text color.
 
-**To extend the series**, follow the template exactly and keep the numbering
-sequential. The structure is the brand asset here.
+> Hexes are read by eye off the rendered PNGs, not sampled from source. Close
+> enough to design against; confirm from the original file if you need an exact
+> match for print.
+
+### Layout, top to bottom
+
+1. **Short thick gold rule**, top-left — roughly 120 px wide, a tick mark
+2. **Eyebrow**: `OBJECTION 06  /  WHAT HR DIRECTORS ASK` — small, heavily
+   letterspaced caps. Number in white, the rest in slate blue, separated by a
+   spaced slash
+3. **The objection** — large bold white, in curly quotes, sentence case, wraps
+   to 2 lines
+4. **Divider band** — gold double-chevron (USMC rank insignia) at left, thin
+   slate hairline running right to the margin
+5. **`THE ANSWER`** — small letterspaced gold caps
+6. **The answer** — large bold gold, sentence case, 2–3 lines
+7. **Deliberate empty space** — roughly the bottom quarter stays blank. Don't
+   fill it; the breathing room is what makes these read as confident
+8. **Slate hairline**, full width
+9. **Footer** — `NOW TIME HEALTH + FITNESS` in white bold caps, then
+   `USMC Veteran-Owned · SDVOSB Certified · nowtimehf.com` in slate, separated
+   by middots
+
+Generous left margin, consistent across every element. Everything is
+left-aligned — nothing centered.
+
+### Typography
+
+Geometric sans throughout, Montserrat-like (double-story `a`, straight-tail
+`y`, circular `o`). Two weights only: **Bold** for the quote, answer, and
+company name; **Medium/Regular** with wide tracking for the eyebrow, "THE
+ANSWER", and credential line. Confirm the exact face with whoever built the
+template before commissioning new cards.
+
+### Card copy is tighter than the source pack
+
+The cards compress the lines from `objection-crusher-pack.md`. This is an
+editorial rule, not drift — **the card gets the shortest version that survives.**
+
+| # | Card says | Source pack says |
+|---|---|---|
+| 02 | You don't have a benefits problem. You have a usage problem. | You don't have a *fitness benefit* problem… |
+| 04 | Most wellness perks don't touch burnout. They decorate it. | Most *corporate wellness doesn't* touch burnout. *It decorates* it. |
+| 05 | Vague goals protect vendors. Specific goals protect you. | (same, but the card's *question* is trimmed to "How do you even define success?") |
+| 06 | A free app is a tool. You're hiring the contractor. | A free app is a tool. *I'm a contractor.* |
+
+Note 06 flips to second person on the card — "**you're** hiring the contractor"
+puts the reader in the sentence. Worth copying.
+
+### Confirmed set
+
+| # | File | Objection | Answer |
+|---|---|---|---|
+| 01 | `01-classpass.png` | "Why not just give everyone ClassPass?" | Access isn't the problem. Accountability is. |
+| 02 | `02-gym-membership.png` | "Why not just get gym memberships?" | You don't have a benefits problem. You have a usage problem. |
+| 03 | `03-roi.png` | "How do I know the actual ROI?" | I don't sell engagement promises. I sell engagement reporting. |
+| 04 | `04-burnout.png` | "How does this actually fix burnout?" | Most wellness perks don't touch burnout. They decorate it. |
+| 05 | `05-success.png` | "How do you even define success?" | Vague goals protect vendors. Specific goals protect you. |
+| 06 | `06-free-trials.png` | "Other apps have free trials. Why you?" | A free app is a tool. You're hiring the contractor. |
+
+### Extending the series
+
+Keep numbering sequential (`OBJECTION 07 /` next). The eyebrow, chevron,
+footer, and palette are fixed furniture — only the two text blocks change. The
+constraint is the point: a scrolling HR director should recognize card 09 as
+part of the same set as card 01.
 
 ---
 
-## System B — Pull-quote posters (2025–early 2026, outsourced)
+## System B — Pull-quote posters (2025–early 2026, superseded)
 
-Source: the graphics attached to the 52 posts in `past-posts.md`. PNG, ~1.3 MB,
-produced by an outside content writer (an external contractor, not in-house).
+The graphics attached to the 52 posts in `past-posts.md`. PNG ~1.3 MB, produced
+by an external contractor, not in-house.
 
-- **Type:** one line lifted near-verbatim from the caption, set large in **all
-  caps** over workplace/office imagery.
-- **The quote is the payoff line, not the hook.** Confirmed — the Feb 10 post's
-  card uses the caption's resolution:
+- One line lifted near-verbatim from the caption, set large in all caps over
+  workplace/office photography
+- The quote is the caption's **payoff line, not its hook**
+- No credential block — mood pieces, not sales assets
 
-  > CARE AT WORK DOESN'T MEAN LOWERING EXPECTATIONS OR DOING LESS. IT MEANS
-  > HELPING PEOPLE WORK IN A WAY THAT DOESN'T DRAIN THEM OVER TIME.
-
-- No credential block — these are mood pieces, not sales assets.
-- Produced externally, so matching this style in-house may not be practical.
+Retained for reference only. New work follows System A.
 
 ---
 
-## Still unverified (both systems)
+## Rule for /generate-visuals
 
-Not readable from the files available — most PNGs returned no extractable text,
-and the images themselves can't be viewed from this toolchain:
+Default to **System A** and follow the spec above exactly — palette, layout
+order, two-weight type, white-asks/gold-answers. State that hex values are
+eyeballed approximations if exact brand matching matters.
 
-- Exact color palette, and whether it's consistent
-- Typeface
-- Logo mark (as opposed to the wordmark, which System A clearly carries)
-- Aspect ratio — LinkedIn-native 1200×627 vs. square
-
-**To close these:** commit 2–3 representative PNGs into this folder, or paste
-hex values and the font name.
-
-## Working rule for /generate-visuals
-
-- Sales/objection content → **System A**. Follow the template above verbatim,
-  including the credential block. This is safe to generate.
-- Reflective/organic content → **System B**. Propose an all-caps pull-quote from
-  the caption's payoff line over workplace imagery.
-- In either case, state that palette and typeface are unverified rather than
-  inventing brand colors.
+Only use System B if a post is explicitly reflective/organic in the
+`past-posts.md` register, and say so when proposing it.

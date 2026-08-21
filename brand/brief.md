@@ -58,6 +58,27 @@
 
 > Note: the accounts above are the founder's personal-brand accounts (Michael Logan), confirmed as the intended long-term primary presence for NowTimeHF content — no separate "@nowtimehf" account is planned.
 
+## Visual Identity
+Standard as of 2026-08-21: the **objection-card system**. Full spec, layout
+order, and the confirmed card set live in `content/reference/visual-style.md` —
+that file governs; this is the summary.
+
+- **Palette:** deep navy ground `#0B1A2E`, brass/gold accent `#C9A227`, white
+  primary text, slate blue `#8FA3BF` for labels and hairlines. (Hexes are
+  eyeballed from the rendered PNGs — confirm from source for print.)
+- **Core rule:** white asks, gold answers. Two text colors, never a third.
+- **Format:** square 1:1, flat vector, text-only. No photography.
+- **Type:** geometric sans (Montserrat-like), two weights — bold for statements,
+  wide-tracked medium for labels.
+- **Every card carries the credential block:** NOW TIME HEALTH + FITNESS /
+  USMC Veteran-Owned · SDVOSB Certified · nowtimehf.com. The trust markers live
+  in the graphic, not the caption.
+- **Leave the bottom quarter empty.** The whitespace is doing work.
+
+The older photo-backed pull-quote posters (external contractor, 2025–early 2026)
+are superseded. Don't produce new work in that style without a decision to
+revive it.
+
 ## Competitors / Inspiration
 - **Limeade** — employee wellbeing/engagement platform with data-driven positioning, worth studying for how they frame engagement metrics.
 
