@@ -9,10 +9,12 @@
 ## Identity
 - **Brand / creator name:** Now Time Health + Fitness, LLC (NowTimeHF)
 - **One-line positioning:** A veteran-owned corporate wellness company (Springfield, VA; serving the DC/MD/VA metro market and beyond) that designs, delivers, and sustains employee wellness programs for mid-size organizations (50–200 employees) — an accountability-driven performance program combining live facilitated workshops with a white-labeled digital wellness platform, measuring *engagement*, not just access.
+- **What the name means:** **NOW = No Other Way. TIME = Time Is My Everything.** Started as a workout program Mike created; the idea is that we don't have time to waste. Largely untold publicly — see `content/reference/brand-foundations.md`.
+- **Core values (founder's words):** "Training the body and strengthening the mind. Building a community that will support one another."
 - **Mission / why this exists:** Workplace stress/burnout is a current-quarter P&L problem for mid-size employers, not a future one — costing $300B+/year industry-wide in absenteeism, productivity loss, and turnover. Most corporate wellness spend is wasted on programs nobody uses (6–8% participation industry average). NowTimeHF exists to be the proven partner that shows up, drives real engagement, and proves results with data — not another unused perk or app.
 
 ## Audience
-- **Primary audience:** HR leaders and benefits directors at mid-size companies (50–200 employees) in the DC/MD/VA metro area and beyond.
+- **Primary audience:** HR leaders and benefits directors at mid-size companies (50–200 employees) in the DC/MD/VA metro area and beyond. **Prioritize hybrid/remote-first companies** — a mobile-first program serves distributed teams best, and the 2024 brand questionnaire named this filter explicitly before later documents dropped it.
 - **Their top pain points:**
   - Workplace stress costs U.S. employers $300B+/year (absenteeism, lost productivity, turnover).
   - Burned-out employees are 63% more likely to take sick days, 23% more likely to visit the ER — both hit insurance costs and team throughput directly.
@@ -21,14 +23,53 @@
 - **Where they hang out (platforms):** Instagram, LinkedIn, Facebook.
 
 ## Voice & Tone
-- **Voice adjectives (with concrete rules):**
-  - **Data-driven / authoritative** — every post includes a concrete stat or dollar figure; speak like a P&L-literate consultant, not a wellness cheerleader.
-  - **Direct / no-fluff** — short, declarative sentences; state the problem bluntly before offering the solution (e.g. "This is not a perk. This is a current-quarter P&L problem.").
-  - **Warm / people-first** — acknowledge real employee wellbeing alongside the business case; the data serves the human problem, it doesn't replace it.
-  - **Military-adjacent / disciplined** — lean into the veteran-owned identity: accountability, mission, execution language ("we show up, we deliver, we prove it with data").
-- **Sentence/style rules:** Short declarative sentences over long compound ones. Data points formatted as call-out bullets (▸) when leading with multiple stats. No emoji-heavy or casual slang tone — professional B2B register throughout.
-- **Words/phrases we always use:** Concrete dollar figures and stats in (nearly) every post.
-- **Words/phrases we never use:** "Perk," "gym reimbursement" (never describe NowTimeHF's own offer this way — that's the category we're positioned against). Vague wellness-app buzzwords ("journey," "self-care," "holistic") unless paired with a concrete data point or action.
+
+**Voice is set by platform, because the audiences are different people.** This
+resolves what looked like conflicting voices across the archive — it wasn't
+drift, it was two jobs. Decided 2026-08-21.
+
+### LinkedIn — the buyer voice (primary)
+Audience: HR and benefits leaders evaluating a purchase.
+
+- **Direct / no-fluff.** Short declarative sentences. Name the problem bluntly
+  before offering the solution.
+- **Data-driven, but sourced.** A stat in most posts, always attributed, and
+  **only from `content/reference/stats.md`.** Never an unsourced number.
+- **First person.** "What I sell," "the audit I run," "I personally intervene."
+  Mike is the product; the company is the vehicle.
+- **Concede before you win.** "Fair question." "Best objection I get." "Weight
+  loss? Sometimes." Credibility comes from what we decline to claim — never
+  make medical claims.
+- **Military-adjacent, earned not asserted.** Reference USMC service where it
+  explains a method (stress under pressure, structure, accountability), not as
+  a credential drop.
+- CTA: a **DM keyword** (AUDIT / TIME / DATA / PILOT). See Offers below.
+
+### Facebook & Instagram — the individual voice
+Audience: individuals, not buyers. Warmer, personal, Coach Mike speaking.
+
+- Second person, encouraging, plain language. Mindset and discipline over P&L.
+- Practical and immediately usable — a 60-second technique beats a statistic.
+- Low-friction engagement asks ("drop a ✅", "what's your one non-negotiable?").
+- Light emoji acceptable here; not on LinkedIn.
+
+### Retired: the reflective register
+The 52 posts in `content/reference/past-posts.md` (Aug 2025 – Feb 2026) are
+gentle, observational, stat-free, hashtag-blocked and CTA-less. Good writing,
+but it builds audience rather than pipeline. **Not the default going forward.**
+Keep for occasional culture posts; don't generate new work in it by default.
+
+### Always
+- A stat only if it's in `stats.md`, and named.
+- Concrete over abstract. Specific numbers, named mechanisms, real examples.
+
+### Never
+- **"Perk" or "gym reimbursement" for our own offer** — that's the category we
+  attack. (Using the word *about competitors' offerings* is correct and frequent.)
+- Wellness buzzwords ("journey," "self-care," "holistic") without a concrete
+  action attached.
+- An unsourced or unverified number — see the do-not-use list in `stats.md`.
+- Medical claims. We are not a medical provider.
 
 ## Content Pillars
 1. **The Business Case** — the dollar cost of stress, burnout, and turnover; insurance premium impact.
@@ -38,9 +79,22 @@
 5. **HR Leader Playbook** — practical, tactical tips for HR/benefits leaders managing wellness spend and burnout risk.
 
 ## Offers / Calls to Action
-- **Primary offer:** Corporate wellness program (live facilitated workshops + white-labeled digital wellness platform) for mid-size employers.
-- **Default CTA for most posts:** Book a consultation/demo.
-- **Link(s) to drive traffic to:** nowtimehf.com/contact
+
+Full detail in `content/reference/offers.md`. Decided 2026-08-21:
+
+- **Entry offer (lead with this): The Pilot Sprint** — one 60-min live workshop
+  + 30-day platform access + engagement report. **$1,500–$2,500 one-time, no
+  long-term commitment.** It's the easiest yes and it generates the data that
+  makes the next conversation easy. "Small yes first. Earn the big yes."
+- **Scale offers:** Quarterly Performance Program → Enterprise Wellness
+  Partnership.
+- **Default social CTA: a DM keyword**, not a link. LinkedIn suppresses
+  outbound links, and the keyword pattern is already proven in the archive
+  (AUDIT / TIME / DATA / RESILIENCE / METRICS / PILOT / READY). Every keyword
+  comment goes into the tracker as a hot lead same day.
+- **Discovery call = 15 minutes.** (The capability statement says 20; the newer
+  Pilot Sprint one-pager says 15. Standardizing on 15 — lower friction.)
+- **Link when a link is needed:** nowtimehf.com/contact
 
 ## Platforms
 - **Instagram**
@@ -80,7 +134,12 @@ are superseded. Don't produce new work in that style without a decision to
 revive it.
 
 ## Competitors / Inspiration
-- **Limeade** — employee wellbeing/engagement platform with data-driven positioning, worth studying for how they frame engagement metrics.
+Per the founder's own brand questionnaire (2024):
+- **Nuvita** — "more of a brand for coaches to use. I am personal and run the business."
+- **Goomi** — "does not have an app."
+
+> Correction: an earlier draft of this brief listed **Limeade**. That came from a
+> Q&A prompt, not from any source document, and has been removed.
 
 ## Do / Don't
 - **Always:** Lead with or include a concrete stat or dollar figure. Frame wellness as a P&L/business problem, not just an employee nice-to-have.
