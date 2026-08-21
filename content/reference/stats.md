@@ -19,9 +19,12 @@ source in the post.** If a number isn't here, don't post it.
 
 ## ⛔ Do not use
 
+**Confirmed by Mike Logan, 2026-08-21.** These are barred, not merely questioned.
+If either is corrected with a real source, move it to the Approved table above.
+
 | Figure | Why |
 |---|---|
-| **"$1.75+ per employee per month in avoidable healthcare and absenteeism costs"** | Works out to ~$21/employee/year — trivially small, and it argues *against* buying anything. Contradicts the brand's own $300B framing (≈$1,800/employee/year). Almost certainly a lost order of magnitude. Appears in the Cost-of-Inaction cold openers; **fix those before reuse.** |
+| **"$1.75+ per employee per month in avoidable healthcare and absenteeism costs"** | Works out to ~$21/employee/year — trivially small, and it argues *against* buying anything. Contradicts the brand's own $300B framing (≈$1,800/employee/year). Almost certainly a lost order of magnitude. Appears in the Cost-of-Inaction cold openers; **those openers must be rewritten before reuse.** |
 | **"a real coach in every employee's pocket for about $50/month"** | A per-employee price that reconciles with nothing else in the material and undercuts the Pilot Sprint's $1,500–$2,500 flat fee. Don't quote a price publicly until it's confirmed. |
 
 ## ⚠️ Use with care
@@ -36,9 +39,9 @@ source in the post.** If a number isn't here, don't post it.
   used, show the division openly and call it an average. A CFO will do this math
   themselves and catch an unstated assumption.
 
-## Preferred framing
+## Preferred framing — approved 2026-08-21
 
-Lead with **76%** (the scale of the problem), land on **6–9 months of salary**
+**This is the standard sequence for a cost-of-inaction post.** Lead with **76%** (the scale of the problem), land on **6–9 months of salary**
 (the cost of ignoring it), and close on **6–8% participation** (why the current
 spend isn't fixing it). That sequence moves from felt experience → money →
 the gap NowTime fills, and every number in it is sourced.
