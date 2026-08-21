@@ -46,6 +46,7 @@ output quality depends on it being specific rather than generic.
 
 ```
 brand/brief.md            source of truth for voice/audience/pillars
+content/reference/        past posts + visual style examples the commands imitate
 content/drafts/           post drafts written by /post-writer
 content/repurposed/       platform variants from /repurpose
 content/visuals/          visual concepts/prompts from /generate-visuals

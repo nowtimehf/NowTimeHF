@@ -5,7 +5,7 @@ argument-hint: <topic or angle> [-- count: default 10]
 
 Generate hook options for: `$ARGUMENTS`
 
-Read `brand/brief.md` for voice rules and audience pain points — hooks must sound like the brand, not generic virality bait.
+Read `brand/brief.md` for voice rules and audience pain points — hooks must sound like the brand, not generic virality bait. Also check `content/reference/` for past posts: the opening lines that already worked are the best available signal for what this audience responds to.
 
 ## Formulas to draw from (mix several, don't use one formula for every hook)
 - **Contrarian**: state the belief everyone holds, then flatly reject it.

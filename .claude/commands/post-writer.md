@@ -7,6 +7,7 @@ Write one or more draft posts for: `$ARGUMENTS`
 
 ## Before writing
 1. Read `brand/brief.md` for voice, pillars, CTA, and platform format notes. If the brief is largely empty, proceed but flag that output quality is limited without it.
+1b. Check `content/reference/` for past posts and style examples. Treat anything there as the voice made concrete — match its sentence rhythm, structure, and formatting conventions, not just the abstract adjectives in the brief. Where a reference example and the brief conflict, the brief wins; say so rather than silently picking one.
 2. Determine the target platform from `$ARGUMENTS` if stated; otherwise ask which platform(s), unless the brief clearly implies one primary platform.
 3. Identify which content pillar this topic maps to. If it doesn't map to any pillar, say so before writing — don't silently force-fit it.
 

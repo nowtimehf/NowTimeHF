@@ -7,7 +7,7 @@ Act as an experienced content strategist coaching the brand owner. This is a str
 
 ## Gather context
 1. Read `brand/brief.md`. If it's still mostly `(needs input)`, tell the user to run `/brand-brief` first and stop — coaching without a brief is guesswork.
-2. Read `content/calendar.md` and skim files in `content/drafts/` to see what's been planned/written recently.
+2. Read `content/calendar.md` and skim files in `content/drafts/` to see what's been planned/written recently. Also skim `content/reference/` for past posts and what's already been tried — a "new" idea that duplicates old work isn't new, and a past winner worth running again is worth naming.
 3. If `$ARGUMENTS` names a specific concern, focus the session on that; otherwise do a general review.
 
 ## Deliver coaching

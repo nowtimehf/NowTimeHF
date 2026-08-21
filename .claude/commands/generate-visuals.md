@@ -7,7 +7,7 @@ Produce visual concepts for: `$ARGUMENTS`
 
 ## Steps
 1. Resolve the source post: if `$ARGUMENTS` is a path, read it from `content/drafts/` or `content/repurposed/`; otherwise treat it as the topic/text directly.
-2. Read `brand/brief.md` for any visual/brand style notes (colors, mood, do/don't) — if none are recorded, ask once for the brand's visual style (photo vs. illustration vs. typographic, color palette, mood) and suggest adding it to the brief.
+2. Read `brand/brief.md` for any visual/brand style notes (colors, mood, do/don't), then check `content/reference/` (especially `visual-style.md`) for past graphics, image prompts, and layout patterns to stay consistent with. If neither records a visual style, ask once for it (photo vs. illustration vs. typographic, color palette, mood) and suggest adding it to `content/reference/visual-style.md`.
 3. Draft the number of visual concepts requested (default 3), each with:
    - **Concept**: one line describing the shot/composition and why it fits the post's message.
    - **Prompt**: a detailed, ready-to-use image-generation prompt (subject, composition, lighting, style, aspect ratio suited to the target platform).
