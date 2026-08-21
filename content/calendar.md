@@ -44,10 +44,56 @@ that pillar would mean inventing proof, which is the one thing this brand cannot
 afford given it sells on measurement. **This is the highest-value gap to close:**
 one real engagement report from one Pilot Sprint unlocks an entire pillar.
 
-**Not yet scheduled: Facebook and Instagram.** The brief calls for 3x/week
-there too, in the individual voice — a different job from these. Run
-`/repurpose` on the Business Case and Playbook posts, or commission a separate
-batch in the register modelled by `content/reference/content-week-1.md`.
+## September 2026 — Facebook + Instagram
+
+Cadence: 3x/week (Tue/Thu/Sat), interleaved with LinkedIn so something ships
+six days a week without two posts landing the same day.
+
+**Written in the individual voice, not the buyer voice.** These are not
+translations of the LinkedIn posts — same underlying idea where one exists,
+rewritten for a reader who is a person managing their own health, not an HR
+director evaluating a purchase. Two run standalone because the LinkedIn post
+that week (committed budget, leadership sign-off) has no honest consumer
+analogue; forcing one would have produced filler.
+
+Format per the brief is identical for both platforms — short caption plus a
+graphic — so each draft serves both.
+
+| Date | Day | Title / Hook | Draft | Pairs with (LinkedIn) |
+|------|-----|--------------|-------|----------------------|
+| Sep 2 | Tue | You don't need an hour | `fb-no-hour-social.md` | Sep 1 — no time |
+| Sep 4 | Thu | Burnout doesn't announce itself | `fb-burnout-quiet-social.md` | Sep 3 — 76% |
+| Sep 6 | Sat | What NOW TIME actually means | `fb-now-time-meaning-social.md` | Sep 5 — No Other Way |
+| Sep 9 | Tue | You don't have to wait until it's bad | `fb-before-it-gets-bad-social.md` | Sep 8 — EAP |
+| Sep 11 | Thu | Say it out loud | `fb-say-something-social.md` | Sep 10 — 42% silent |
+| Sep 13 | Sat | Three questions for your own routine | `fb-three-questions-social.md` | Sep 12 — the audit |
+| Sep 16 | Tue | The cheapest thing you can do | `fb-cheapest-thing-social.md` | standalone |
+| Sep 18 | Thu | Working from home is quietly hard | `fb-working-from-home-social.md` | Sep 17 — remote |
+| Sep 20 | Sat | Why it didn't stick last time | `fb-why-you-quit-social.md` | Sep 19 — 6–8% |
+| Sep 23 | Tue | 60 seconds to reset | `fb-box-breathing-social.md` | standalone |
+| Sep 25 | Thu | I answer my own messages | `fb-i-answer-my-own-social.md` | Sep 24 — one-person |
+| Sep 27 | Sat | Marine. Coach. Founder. | `fb-marine-coach-founder-social.md` | Sep 26 — same theme |
+
+### Notes on the social track
+
+**No statistics.** Deliberately. The individual voice earns trust through
+recognition, not evidence — "you're still hitting deadlines, you're just not
+enjoying any of it" does the work a percentage would do on LinkedIn. This also
+sidesteps the sourcing problem entirely on the channel where citations read
+as stiff.
+
+**Every post ends with a real question**, not a pitch. Only two mention the
+program at all, and neither links out. The social track's job is reach and
+warmth; LinkedIn carries the selling.
+
+**Graphics still needed.** These are captions; the objection-card system is
+wrong for this voice (it's a B2B sales asset). Simple quote cards in the same
+palette would work — spec them with `/generate-visuals` before scheduling.
+
+## Full-month view
+
+Six posting days a week: LinkedIn Mon/Wed/Fri, Facebook + Instagram Tue/Thu/Sat.
+24 posts total, 6 objection cards, both voices covered.
 
 ## Before publishing
 
