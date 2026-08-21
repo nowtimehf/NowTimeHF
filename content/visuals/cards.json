@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "07-no-time",
+    "eyebrowLead": "OBJECTION 07",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“We tried this. Nobody had the time.”",
+    "label": "THE ANSWER",
+    "answer": "Then it wasn’t built for them. Ours fits a lunch break.",
+    "alt": "Navy card, Objection 07 of the What HR Directors Ask series. Question: We tried this. Nobody had the time. Answer: Then it wasn't built for them. Ours fits a lunch break."
+  },
+  {
+    "slug": "08-eap",
+    "eyebrowLead": "OBJECTION 08",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“We already have an EAP.”",
+    "label": "THE ANSWER",
+    "answer": "An EAP waits for a crisis. We work to prevent one.",
+    "alt": "Navy card, Objection 08 of the What HR Directors Ask series. Question: We already have an EAP. Answer: An EAP waits for a crisis. We work to prevent one."
+  },
+  {
+    "slug": "09-budget",
+    "eyebrowLead": "OBJECTION 09",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“Our budget is already committed this year.”",
+    "label": "THE ANSWER",
+    "answer": "Then don’t buy a program. Buy one workshop.",
+    "questionSize": 60,
+    "alt": "Navy card, Objection 09 of the What HR Directors Ask series. Question: Our budget is already committed this year. Answer: Then don't buy a program. Buy one workshop."
+  },
+  {
+    "slug": "10-remote",
+    "eyebrowLead": "OBJECTION 10",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“We’re fully remote. This won’t work.”",
+    "label": "THE ANSWER",
+    "answer": "Remote teams are exactly why it’s built on a phone.",
+    "alt": "Navy card, Objection 10 of the What HR Directors Ask series. Question: We're fully remote. This won't work. Answer: Remote teams are exactly why it's built on a phone."
+  },
+  {
+    "slug": "11-leadership-buy-in",
+    "eyebrowLead": "OBJECTION 11",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“Leadership won’t sign off on this.”",
+    "label": "THE ANSWER",
+    "answer": "Leadership doesn’t buy wellness. They buy the report.",
+    "alt": "Navy card, Objection 11 of the What HR Directors Ask series. Question: Leadership won't sign off on this. Answer: Leadership doesn't buy wellness. They buy the report."
+  },
+  {
+    "slug": "12-one-person",
+    "eyebrowLead": "OBJECTION 12",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“You’re a one-person company.”",
+    "label": "THE ANSWER",
+    "answer": "One person is accountable. That’s the product.",
+    "alt": "Navy card, Objection 12 of the What HR Directors Ask series. Question: You're a one-person company. Answer: One person is accountable. That's the product."
+  }
+]

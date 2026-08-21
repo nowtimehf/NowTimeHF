@@ -3,7 +3,13 @@ topic: The $300B cost of workplace stress, made concrete per-headcount
 platform: LinkedIn
 pillar: The Business Case
 created: 2026-08-21
-status: draft
+status: on-hold
+hold-reason: >
+  The $1,800/employee and $270,000 figures are arithmetic (300B divided across
+  the US workforce), not a published stat. Permitted by content/reference/stats.md
+  only if the division is shown openly — it is — but the SHRM "6-9 months of
+  salary" framing is stronger and fully sourced. Superseded for September by
+  stat-76-percent-linkedin.md. Revive only with a decision on the extrapolation.
 ---
 
 $300 billion. That's the annual bill U.S. employers pay for workplace stress, according to the American Institute of Stress.
