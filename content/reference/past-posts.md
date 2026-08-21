@@ -1125,22 +1125,22 @@ That’s why people stay. Not for pressure or promises but for presence.
 
 ## Voice conflict with brand/brief.md
 
-These 52 published posts and the brief describe **different voices**. The brief
-was built from a founder Q&A that drew on the capability statement (sales
-collateral); these posts are what actually ran on LinkedIn.
+**Three registers are now documented across this folder** — see the full voice
+map in `objection-crusher-pack.md`. These 52 posts are the *reflective social*
+register. The brief describes a blend of the other two and applies it to every
+platform, which does not match the record.
 
-| | brand/brief.md says | These posts actually do |
+| | brand/brief.md says | These 52 posts actually do |
 |---|---|---|
 | Stats | a dollar figure or stat in nearly every post | essentially none — no $300B, no percentages |
-| Opening | lead with the number | lead with a quiet observation or a moment |
+| Opening | lead with the number | a quiet observation or a moment |
 | Tone | direct, blunt, P&L-literate consultant | reflective, warm, unhurried |
-| Formatting | `▸` call-out bullets | short paragraphs, heavy white space, occasional ✔/🟢 |
+| Formatting | `▸` call-out bullets | short paragraphs, heavy white space |
 | CTA | book a consultation + nowtimehf.com/contact | usually none; sometimes a soft question |
 | "Perks" | never use the word | used often, as the foil ("it's not about perks") |
 | Hashtags | not mentioned | always a 5–8 tag block |
 | Cadence | 3x/week | ~2x/week |
 
-Both are legitimate registers — the data-heavy voice fits sales collateral and
-the reflective voice fits organic social. The brief currently claims the first
-one governs all platforms, which does not match the published record.
-Resolve this before generating more posts.
+Each register is legitimate for its own job. The open question is which one
+governs LinkedIn, and whether the feed is meant to build audience or convert.
+Resolve in the brief before generating more posts.

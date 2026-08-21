@@ -1,45 +1,90 @@
 # Visual Style
 
-Source: the graphics attached to each post in the social content calendar. Every
-one of the 52 catalogued LinkedIn posts ships with a paired graphic — **a post
-without a graphic is the exception, not the norm.**
+Two distinct graphic systems are in use. Match the system to the post's job —
+don't blend them.
 
-## Verified pattern
+---
 
-- **Format:** PNG, roughly 1.3 MB, produced ahead of the post.
-- **Type:** typographic pull-quote poster. The graphic carries one line lifted
-  near-verbatim from the caption, set large in **all caps**, over a background
-  image.
-- **The quote is the payoff line, not the opening line.** Confirmed example —
-  the Feb 10 "What care at work actually looks like" post uses the caption's
-  resolution, not its hook:
+## System A — Objection cards (current, in-house)
+
+Source: `01-classpass.png` … `06-free-trials.png`, paired with
+`objection-crusher-pack.md`. Owned by the NowTimeHF account, ~60 KB each.
+
+**The template is fixed and verified.** Text layout, read off the files:
+
+```
+OBJECTION 0N/ WHAT HR DIRECTORS ASK
+
+"[the objection, in quotation marks]"
+
+THE ANSWER
+
+[one-line reframe]
+
+NOW TIME HEALTH + FITNESS
+USMC Veteran-Owned
+SDVOSB Certified            nowtimehf.com
+```
+
+Two confirmed instances:
+
+| File | Objection | Answer |
+|---|---|---|
+| `01-classpass.png` | "Why not just give everyone ClassPass?" | Access isn't the problem. Accountability is. |
+| `03-roi.png` | "How do I know the actual ROI?" | I don't sell engagement promises. I sell engagement reporting. |
+
+Notes:
+- **Numbered series** (`OBJECTION 01/`, `03/`) — reads as a collectable set,
+  which is why they work as a rotating campaign.
+- **Every card carries the credential block**: company name, USMC Veteran-Owned,
+  SDVOSB Certified, nowtimehf.com. The trust markers are in the graphic, not
+  left to the caption.
+- The answer line on the card is the same line that anchors the post — the card
+  is the post's thesis, extracted.
+- Auto-labels ("Website; Mobile device; Text; Screenshot") suggest a clean,
+  flat, text-forward design rather than photography.
+
+**To extend the series**, follow the template exactly and keep the numbering
+sequential. The structure is the brand asset here.
+
+---
+
+## System B — Pull-quote posters (2025–early 2026, outsourced)
+
+Source: the graphics attached to the 52 posts in `past-posts.md`. PNG, ~1.3 MB,
+produced by an outside content writer (an external contractor, not in-house).
+
+- **Type:** one line lifted near-verbatim from the caption, set large in **all
+  caps** over workplace/office imagery.
+- **The quote is the payoff line, not the hook.** Confirmed — the Feb 10 post's
+  card uses the caption's resolution:
 
   > CARE AT WORK DOESN'T MEAN LOWERING EXPECTATIONS OR DOING LESS. IT MEANS
   > HELPING PEOPLE WORK IN A WAY THAT DOESN'T DRAIN THEM OVER TIME.
 
-- **Background:** workplace/office imagery behind the type (that example's
-  auto-labels: office, writing, presentation, education, poster).
-- **Produced by an outside content writer**, not in-house — the files are owned
-  by `an external contractor`. Worth knowing before assuming new
-  graphics can be generated in the same style.
+- No credential block — these are mood pieces, not sales assets.
+- Produced externally, so matching this style in-house may not be practical.
 
-## Not yet determined
+---
 
-The following could not be read from the files available — most graphics
-returned no extractable text, and the images themselves aren't viewable from
-this toolchain:
+## Still unverified (both systems)
 
-- Exact color palette and whether it's consistent across posts
+Not readable from the files available — most PNGs returned no extractable text,
+and the images themselves can't be viewed from this toolchain:
+
+- Exact color palette, and whether it's consistent
 - Typeface
-- Logo placement and whether branding appears at all
-- Aspect ratio (LinkedIn-native 1200×627 vs. square)
+- Logo mark (as opposed to the wordmark, which System A clearly carries)
+- Aspect ratio — LinkedIn-native 1200×627 vs. square
 
-**To fill these in:** drop 3–4 representative PNGs into this folder, or paste
-their hex colors and font name. `/generate-visuals` will otherwise improvise
-these and produce graphics that don't match the existing library.
+**To close these:** commit 2–3 representative PNGs into this folder, or paste
+hex values and the font name.
 
 ## Working rule for /generate-visuals
 
-Until the gaps above are filled: propose a typographic pull-quote poster built on
-the caption's payoff line in all caps, over workplace imagery. Flag explicitly
-that palette and typeface are unverified rather than inventing brand colors.
+- Sales/objection content → **System A**. Follow the template above verbatim,
+  including the credential block. This is safe to generate.
+- Reflective/organic content → **System B**. Propose an all-caps pull-quote from
+  the caption's payoff line over workplace imagery.
+- In either case, state that palette and typeface are unverified rather than
+  inventing brand colors.
