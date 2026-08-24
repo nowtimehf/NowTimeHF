@@ -6,6 +6,7 @@ pairs-with: obj-08-eap (LinkedIn, Sep 8)
 scheduled: 2026-09-08
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-no-crisis-needed.png
 ---
 
 Most people wait until something breaks before they get help.

@@ -6,6 +6,7 @@ pairs-with: standalone — seasonal
 scheduled: 2026-10-01
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-daylight.png
 ---
 
 The clocks change this month, and most people's routines quietly fall apart with them.

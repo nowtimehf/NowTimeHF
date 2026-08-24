@@ -6,6 +6,7 @@ pairs-with: oct-what-i-do-when (LinkedIn, Oct 26)
 scheduled: 2026-10-24
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-witness.png
 ---
 
 The single biggest predictor of whether someone sticks with something isn't motivation, discipline, or how good the plan is.

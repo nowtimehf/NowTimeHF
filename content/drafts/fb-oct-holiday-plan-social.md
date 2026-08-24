@@ -6,6 +6,7 @@ pairs-with: standalone
 scheduled: 2026-10-27
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-december-floor.png
 ---
 
 Make your December plan now, while things are still calm enough to think.

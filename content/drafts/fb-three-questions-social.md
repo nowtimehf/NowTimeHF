@@ -6,6 +6,7 @@ pairs-with: three-question-audit (LinkedIn, Sep 12)
 scheduled: 2026-09-12
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-who-would-notice.png
 ---
 
 Three questions worth asking about your own routine this weekend:

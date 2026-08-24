@@ -6,6 +6,7 @@ pairs-with: standalone (LinkedIn runs leadership buy-in Sep 22)
 scheduled: 2026-09-22
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-sixty-seconds.png
 ---
 
 Try this before your next stressful meeting:

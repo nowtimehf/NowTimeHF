@@ -6,6 +6,7 @@ pairs-with: oct-year-end-honest (LinkedIn, Oct 30)
 scheduled: 2026-10-29
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-hard-year.png
 ---
 
 If this year has been harder than you expected, you're not behind. You had a hard year.

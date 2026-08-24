@@ -6,6 +6,7 @@ pairs-with: now-no-other-way (LinkedIn, Sep 5)
 scheduled: 2026-09-05
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-no-time-to-waste.png
 ---
 
 People ask what the name means. Here it is.

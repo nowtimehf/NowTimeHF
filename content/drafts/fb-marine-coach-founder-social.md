@@ -6,6 +6,7 @@ pairs-with: marine-coach-founder (LinkedIn, Sep 26)
 scheduled: 2026-09-26
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-someone-checked.png
 ---
 
 Marine Corps. Then the gym floor. Now this.

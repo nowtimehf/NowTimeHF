@@ -6,6 +6,7 @@ pairs-with: obj-12-one-person (LinkedIn, Sep 24)
 scheduled: 2026-09-24
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-outsource-noticing.png
 ---
 
 When you message this page, you get me. Not a team, not a chatbot, not an assistant working from a script.

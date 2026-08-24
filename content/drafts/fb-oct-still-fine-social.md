@@ -6,6 +6,7 @@ pairs-with: obj-13-new-year (LinkedIn, Oct 5)
 scheduled: 2026-10-03
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-im-fine.png
 ---
 
 "I'm fine" is the most common thing people say when they're not.

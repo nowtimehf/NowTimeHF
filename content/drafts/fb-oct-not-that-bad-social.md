@@ -6,6 +6,7 @@ pairs-with: obj-15-turnover-fine (LinkedIn, Oct 21)
 scheduled: 2026-10-22
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-year-ago.png
 ---
 
 "It's not that bad" is how most people describe something that has been slowly getting worse for a year.

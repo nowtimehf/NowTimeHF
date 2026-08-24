@@ -31,3 +31,19 @@ Google Fonts so the card renders identically anywhere without a network call.
   collapses to nothing.
 - Keep the bottom quarter empty. If the payoff text grows past two lines, reduce
   type size rather than eating that space — the emptiness is part of the design.
+
+## Caption bank
+
+`captions.md` holds one short standalone caption per card image — 39 of them.
+Use it when the card *is* the post (Instagram, a repost, a comment reply).
+Use the paired draft in `content/drafts/` when the card illustrates a longer
+argument.
+
+A phone-friendly copy lives in Google Drive:
+*CLAUDE* → NowTime Content — Sep + Oct 2026 → CAPTION BANK.
+
+## Exporting everything
+
+`content/NowTimeHF-Content-Pack-Sep-Oct-2026.txt` is every scheduled post in
+date order with its image filename, generated from the drafts. Regenerate it
+after adding posts rather than editing it by hand.

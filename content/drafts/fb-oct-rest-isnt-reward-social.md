@@ -6,6 +6,7 @@ pairs-with: standalone — Mental Health Day
 scheduled: 2026-10-10
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-rest.png
 ---
 
 Rest isn't something you earn after the work is done.

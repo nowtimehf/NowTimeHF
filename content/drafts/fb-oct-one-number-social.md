@@ -6,6 +6,7 @@ pairs-with: oct-budget-season (LinkedIn, Oct 16)
 scheduled: 2026-10-20
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-streak.png
 ---
 
 Here's a number worth knowing about yourself: how many days in a row is your longest streak?

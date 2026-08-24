@@ -6,6 +6,7 @@ pairs-with: obj-07-no-time (LinkedIn, Sep 1)
 scheduled: 2026-09-01
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-no-hour.png
 ---
 
 You don't need an hour.

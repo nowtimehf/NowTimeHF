@@ -6,6 +6,7 @@ pairs-with: standalone
 scheduled: 2026-10-06
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-worst-day.png
 ---
 
 Build the plan around your worst day, not your best one.

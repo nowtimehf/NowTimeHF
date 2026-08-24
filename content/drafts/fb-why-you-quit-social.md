@@ -6,6 +6,7 @@ pairs-with: six-to-eight-percent (LinkedIn, Sep 19)
 scheduled: 2026-09-19
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-bad-design.png
 ---
 
 It probably wasn't willpower.

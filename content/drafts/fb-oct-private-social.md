@@ -6,6 +6,7 @@ pairs-with: obj-14-health-data (LinkedIn, Oct 12)
 scheduled: 2026-10-13
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-privacy.png
 ---
 
 Your health information is yours. Full stop.

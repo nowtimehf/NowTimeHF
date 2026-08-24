@@ -6,6 +6,7 @@ pairs-with: oct-mental-health-day (LinkedIn, Oct 9)
 scheduled: 2026-10-08
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-four-seconds.png
 ---
 
 World Mental Health Day is Saturday.

@@ -6,6 +6,7 @@ pairs-with: 42-percent-silent (LinkedIn, Sep 10)
 scheduled: 2026-09-10
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-handling-it.png
 ---
 
 Most people who are struggling never say it out loud.

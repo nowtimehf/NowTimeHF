@@ -6,6 +6,7 @@ pairs-with: oct-quiet-quarter (LinkedIn, Oct 14)
 scheduled: 2026-10-15
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-shrink.png
 ---
 
 The last quarter of the year is heavier than people admit.

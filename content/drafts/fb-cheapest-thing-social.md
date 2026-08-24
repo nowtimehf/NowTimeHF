@@ -6,6 +6,7 @@ pairs-with: standalone (LinkedIn runs the budget objection Sep 15)
 scheduled: 2026-09-15
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-cost-nothing.png
 ---
 
 The most effective things I've ever coached anyone through cost nothing.

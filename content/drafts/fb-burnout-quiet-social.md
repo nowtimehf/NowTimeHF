@@ -6,6 +6,7 @@ pairs-with: stat-76-percent (LinkedIn, Sep 3)
 scheduled: 2026-09-03
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-burnout-quiet.png
 ---
 
 Burnout rarely announces itself.

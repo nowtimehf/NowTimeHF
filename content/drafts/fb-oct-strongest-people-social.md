@@ -6,6 +6,7 @@ pairs-with: standalone
 scheduled: 2026-10-17
 created: 2026-08-21
 status: draft
+card: content/visuals/quote-oct-reliable-one.png
 ---
 
 The people who look like they're handling everything are usually the ones nobody checks on.
