@@ -62,29 +62,29 @@ USMC Veteran-Owned · SDVOSB Certified · nowtimehf.com   ← slate
 
 | Element | Value |
 |---|---|
-| Ground | `#0B1A2E` |
-| Corner wedge | `#132840`, top-right diagonal |
-| Gold | `#C9A227` |
+| Ground | `#0B1B3D` |
+| Corner overlay | `#13264F`, top-right diagonal |
+| Gold | `#DCA43B` |
 | White | `#FFFFFF` |
-| Slate | `#8FA3BF` |
-| Type | Geometric sans (Montserrat-class), Bold + wide-tracked Medium only |
+| Slate | `#9AA3B2` |
+| Type | Montserrat, Bold + wide-tracked Medium only |
 | Alignment | All left, consistent left margin |
 
 **Design-tool prompt** (Canva / Figma brief):
 
-> Square 1080×1080 social card. Deep navy background `#0B1A2E` with a subtle
-> darker-to-lighter navy diagonal wedge in the top-right corner (`#132840`).
+> Square 1080×1080 social card. Deep navy background `#0B1B3D` with a subtle
+> darker-to-lighter navy diagonal wedge in the top-right corner (`#13264F`).
 > All content left-aligned on a consistent left margin, roughly 8% of width.
-> Top-left: a short thick brass-gold horizontal rule (`#C9A227`), ~120px wide,
+> Top-left: a short thick gold horizontal rule (`#DCA43B`), ~120px wide,
 > ~8px tall. Below it, small letterspaced uppercase text: "THE NAME" in white
-> followed by " / WHAT NOW TIME MEANS" in slate blue `#8FA3BF`. Main block: the
+> followed by " / WHAT NOW TIME MEANS" in muted blue-grey `#9AA3B2`. Main block: the
 > word "NOW" in large bold white, immediately beneath it "No Other Way" in large
-> bold brass gold; then "TIME" in large bold white, beneath it "Time Is My
-> Everything" in large bold brass gold. Below that, a brass-gold double-chevron
+> bold gold; then "TIME" in large bold white, beneath it "Time Is My
+> Everything" in large bold gold. Below that, a gold double-chevron
 > (military rank insignia, two stacked V shapes pointing up) at far left with a
 > thin slate horizontal hairline extending from it to the right margin. Then
-> "THE POINT" in small letterspaced brass-gold uppercase, and beneath it "Built
-> for people who don't have 90 spare minutes." in bold brass gold across two
+> "THE POINT" in small letterspaced gold uppercase, and beneath it "Built
+> for people who don't have 90 spare minutes." in bold gold across two
 > lines. Leave the bottom quarter of the canvas empty. Near the base, a
 > full-width thin slate hairline, then "NOW TIME HEALTH + FITNESS" in bold white
 > uppercase, and below it "USMC Veteran-Owned · SDVOSB Certified ·
@@ -143,8 +143,10 @@ outside the post, since it explains nothing on its own.
 - **Aspect ratio:** 1:1 matches the confirmed objection cards. LinkedIn also
   serves 4:5 (1080×1350), which occupies more feed height — worth testing as a
   variant, but 1:1 keeps set consistency, which matters more right now.
-- **Palette hexes are eyeballed** from the rendered PNGs, not sampled from
-  source. Pull exact values from the original file before production if precise
-  matching matters.
-- **Typeface is unconfirmed** (geometric sans, Montserrat-like). Get the real
-  face from whoever built the objection cards so this sits in the same set.
+- **Palette is confirmed** by the brand owner (2026-08-21) — these are the real
+  values, not approximations.
+- **Typeface is the one open item.** Currently Montserrat, bundled in
+  `content/visuals/fonts/`. If the original cards use a different face, swap
+  those four files and re-run the builder.
+- **This card is built**, not a spec waiting to be executed: see
+  `now-no-other-way-card.html` / `.png`.

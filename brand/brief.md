@@ -117,9 +117,10 @@ Standard as of 2026-08-21: the **objection-card system**. Full spec, layout
 order, and the confirmed card set live in `content/reference/visual-style.md` —
 that file governs; this is the summary.
 
-- **Palette:** deep navy ground `#0B1A2E`, brass/gold accent `#C9A227`, white
-  primary text, slate blue `#8FA3BF` for labels and hairlines. (Hexes are
-  eyeballed from the rendered PNGs — confirm from source for print.)
+- **Palette (confirmed by the brand owner, 2026-08-21 — authoritative):**
+  dark navy ground `#0B1B3D`, gold accent `#DCA43B`, pure white `#FFFFFF` for
+  primary text, muted blue-grey `#9AA3B2` for the subtitle/labels/hairlines,
+  and `#13264F` for the diagonal overlay block in the top-right corner.
 - **Core rule:** white asks, gold answers. Two text colors, never a third.
 - **Format:** square 1:1, flat vector, text-only. No photography.
 - **Type:** geometric sans (Montserrat-like), two weights — bold for statements,

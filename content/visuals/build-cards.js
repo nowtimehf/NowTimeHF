@@ -31,8 +31,8 @@ const BASE = `
   @font-face{font-family:Mont;src:url('fonts/m3.ttf');font-weight:700}
   @font-face{font-family:Mont;src:url('fonts/m4.ttf');font-weight:800}
   :root{
-    --navy:#0B1A2E; --wedge:#132840; --gold:#C9A227;
-    --white:#FFFFFF; --slate:#8FA3BF; --slate-bright:#C6D2E3; --margin:90px;
+    --navy:#0B1B3D; --wedge:#13264F; --gold:#DCA43B;
+    --white:#FFFFFF; --slate:#9AA3B2; --margin:90px;
   }
   *{margin:0;padding:0;box-sizing:border-box}
   .inner > *{flex:0 0 auto}
@@ -50,8 +50,8 @@ const BASE = `
 
 const CHEVRON = (w, h) => `
   <svg width="${w}" height="${h}" viewBox="0 0 118 62" style="flex:0 0 auto" fill="none">
-    <path d="M0 24 L59 0 L118 24 L118 40 L59 16 L0 40 Z" fill="#C9A227"/>
-    <path d="M0 46 L59 22 L118 46 L118 62 L59 38 L0 62 Z" fill="#C9A227"/>
+    <path d="M0 24 L59 0 L118 24 L118 40 L59 16 L0 40 Z" fill="#DCA43B"/>
+    <path d="M0 46 L59 22 L118 46 L118 62 L59 38 L0 62 Z" fill="#DCA43B"/>
   </svg>`;
 
 function objectionHtml(c) {
@@ -61,7 +61,6 @@ function objectionHtml(c) {
   .tick{width:120px;height:9px;background:var(--gold);margin-top:84px}
   .eyebrow{margin-top:32px;font-weight:600;font-size:21px;letter-spacing:.30em;
            color:var(--slate);white-space:nowrap}
-  .eyebrow .lead{color:var(--slate-bright)}
   .eyebrow .sep{padding:0 .35em}
   .question{margin-top:58px;font-weight:800;font-size:${qSize}px;line-height:1.15;
             color:var(--white);letter-spacing:-.015em}

@@ -100,4 +100,6 @@ Six posting days a week: LinkedIn Mon/Wed/Fri, Facebook + Instagram Tue/Thu/Sat.
 - [ ] Confirm the 6–8% participation figure's primary source, or soften to
       "single-digit participation" (see `content/reference/stats.md`)
 - [ ] Confirm Pilot Sprint pricing is still $1,500–$2,500 before Sep 15 runs
-- [ ] Sample exact brand hexes and typeface, then re-run `build-cards.js`
+- [x] ~~Sample exact brand hexes~~ — confirmed 2026-08-21, all 19 cards rebuilt
+- [ ] Confirm the typeface (currently Montserrat); swap `content/visuals/fonts/`
+      and re-run `build-cards.js` if the original cards use a different face

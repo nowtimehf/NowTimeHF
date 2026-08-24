@@ -1,13 +1,11 @@
-<!doctype html>
-<meta charset="utf-8">
-<style>
+<!doctype html><meta charset="utf-8"><style>
   @font-face{font-family:Mont;src:url('fonts/m1.ttf');font-weight:500}
   @font-face{font-family:Mont;src:url('fonts/m2.ttf');font-weight:600}
   @font-face{font-family:Mont;src:url('fonts/m3.ttf');font-weight:700}
   @font-face{font-family:Mont;src:url('fonts/m4.ttf');font-weight:800}
   :root{
-    --navy:#0B1A2E; --wedge:#132840; --gold:#C9A227;
-    --white:#FFFFFF; --slate:#8FA3BF; --slate-bright:#C6D2E3; --margin:90px;
+    --navy:#0B1B3D; --wedge:#13264F; --gold:#DCA43B;
+    --white:#FFFFFF; --slate:#9AA3B2; --margin:90px;
   }
   *{margin:0;padding:0;box-sizing:border-box}
   .inner > *{flex:0 0 auto}
@@ -18,10 +16,13 @@
          background:var(--wedge);clip-path:polygon(100% 0,100% 100%,0 0);opacity:.85}
   .inner{position:relative;height:100%;padding:0 var(--margin);
          display:flex;flex-direction:column}
+  .footer .hr{height:2px;background:var(--slate);opacity:.45;margin-bottom:30px}
+  .footer .co{font-weight:700;letter-spacing:.045em;color:var(--white)}
+  .footer .cred{font-weight:500;letter-spacing:.035em;color:var(--slate)}
+
   .tick{width:120px;height:9px;background:var(--gold);margin-top:84px}
   .eyebrow{margin-top:32px;font-weight:600;font-size:21px;letter-spacing:.30em;
            color:var(--slate);white-space:nowrap}
-  .eyebrow .lead{color:var(--slate-bright)}
   .eyebrow .sep{padding:0 .35em}
   .question{margin-top:58px;font-weight:800;font-size:66px;line-height:1.15;
             color:var(--white);letter-spacing:-.015em}
@@ -31,10 +32,8 @@
   .answer{margin-top:18px;font-weight:700;font-size:50px;line-height:1.2;
           color:var(--gold);letter-spacing:-.005em}
   .footer{margin-top:auto;padding-bottom:74px}
-  .footer .hr{height:2px;background:var(--slate);opacity:.45;margin-bottom:30px}
-  .footer .co{font-weight:700;font-size:31px;letter-spacing:.045em;color:var(--white)}
-  .footer .cred{margin-top:12px;font-weight:500;font-size:24px;letter-spacing:.035em;
-                color:var(--slate)}
+  .footer .co{font-size:31px}
+  .footer .cred{margin-top:12px;font-size:24px}
 </style>
 <div class="wedge"></div>
 <div class="inner">
@@ -42,12 +41,10 @@
   <div class="eyebrow"><span class="lead">OBJECTION 12</span><span class="sep">/</span>WHAT HR DIRECTORS ASK</div>
   <div class="question">“You’re a one-person company.”</div>
   <div class="divider">
-    <svg width="118" height="62" viewBox="0 0 118 62" style="flex:0 0 auto" fill="none">
-      <path d="M0 24 L59 0 L118 24 L118 40 L59 16 L0 40 Z" fill="#C9A227"/>
-      <path d="M0 46 L59 22 L118 46 L118 62 L59 38 L0 62 Z" fill="#C9A227"/>
-    </svg>
-    <div class="rule"></div>
-  </div>
+  <svg width="118" height="62" viewBox="0 0 118 62" style="flex:0 0 auto" fill="none">
+    <path d="M0 24 L59 0 L118 24 L118 40 L59 16 L0 40 Z" fill="#DCA43B"/>
+    <path d="M0 46 L59 22 L118 46 L118 62 L59 38 L0 62 Z" fill="#DCA43B"/>
+  </svg><div class="rule"></div></div>
   <div class="label">THE ANSWER</div>
   <div class="answer">One person is accountable. That’s the product.</div>
   <div class="footer">

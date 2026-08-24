@@ -12,28 +12,30 @@ Square 1:1 (1080×1080), flat vector, text-only. No photography.
 
 ### Palette
 
-| Role | Approx. hex | Used for |
+**Confirmed values, 2026-08-21** — supplied by the brand owner, not sampled or
+estimated. These are authoritative; use them exactly.
+
+| Role | Hex | Used for |
 |---|---|---|
-| Ground | `#0B1A2E` deep navy | full background |
-| Ground highlight | `#132840` | subtle diagonal wedge, top-right corner only |
-| Accent | `#C9A227` brass/gold | top rule, chevron mark, "THE ANSWER" label, the answer text |
-| Primary text | `#FFFFFF` | the objection quote, company name |
-| Muted | `#8FA3BF` slate blue | "WHAT HR DIRECTORS ASK", hairlines, credential line |
+| Ground | `#0B1B3D` dark navy | full background |
+| Ground overlay | `#13264F` | the diagonal geometric block, top-right corner only |
+| Accent | `#DCA43B` gold | top accent bar, double chevron, "THE ANSWER" label, the answer text |
+| Primary text | `#FFFFFF` | the quote text, company name |
+| Muted | `#9AA3B2` blue-grey | the whole `OBJECTION 01 / WHAT HR DIRECTORS ASK` subtitle, hairlines, credential line |
 
 Two-color discipline: **white asks, gold answers.** The objection is always
 white; the reframe is always gold. That contrast is the whole idea — don't
 invert it or introduce a third text color.
 
-> Hexes are read by eye off the rendered PNGs, not sampled from source. Close
-> enough to design against; confirm from the original file if you need an exact
-> match for print.
+**The subtitle is one flat tone.** An earlier build rendered the `OBJECTION 07`
+half brighter than `WHAT HR DIRECTORS ASK`; that was wrong. The entire eyebrow
+line is `#9AA3B2`.
 
 ### Layout, top to bottom
 
 1. **Short thick gold rule**, top-left — roughly 120 px wide, a tick mark
 2. **Eyebrow**: `OBJECTION 06  /  WHAT HR DIRECTORS ASK` — small, heavily
-   letterspaced caps. Number in white, the rest in slate blue, separated by a
-   spaced slash
+   letterspaced caps, entirely in `#9AA3B2`, separated by a spaced slash
 3. **The objection** — large bold white, in curly quotes, sentence case, wraps
    to 2 lines
 4. **Divider band** — gold double-chevron (USMC rank insignia) at left, thin
@@ -52,11 +54,15 @@ left-aligned — nothing centered.
 
 ### Typography
 
-Geometric sans throughout, Montserrat-like (double-story `a`, straight-tail
-`y`, circular `o`). Two weights only: **Bold** for the quote, answer, and
-company name; **Medium/Regular** with wide tracking for the eyebrow, "THE
-ANSWER", and credential line. Confirm the exact face with whoever built the
-template before commissioning new cards.
+Geometric sans, Montserrat (or Montserrat-class). Two weights only: **Bold** for
+the quote, answer, and company name; **Medium/Regular** with wide tracking for
+the eyebrow, "THE ANSWER", and credential line.
+
+Montserrat 500/600/700/800 ships in `content/visuals/fonts/` under the SIL Open
+Font License, so cards render identically anywhere with no network call. The
+typeface is still the one item not confirmed by the brand owner — if the
+original cards use a different face, swap the four files and re-run the builder;
+nothing else changes.
 
 ### Card copy is tighter than the source pack
 
@@ -103,7 +109,7 @@ Built from `quotes.json` by the same script:
 `node content/visuals/build-cards.js quote`
 
 ### What carries over from System A
-Navy ground `#0B1A2E`, corner wedge, brass gold `#C9A227`, slate `#8FA3BF`,
+Navy ground `#0B1B3D`, corner overlay `#13264F`, gold `#DCA43B`, muted `#9AA3B2`,
 Montserrat in two weights, 1080×1080, left alignment, generous negative space —
 and critically, **white states, gold lands.** The opening line is white; the
 line that turns it is gold. Same logic as white-asks/gold-answers.
@@ -163,5 +169,5 @@ These are built in code, not generated. An image model approximates type; the
 browser renders it exactly and reproducibly. Don't spend generation credits on
 a fixed typographic layout.
 
-State that hex values are eyeballed approximations whenever exact brand
-matching matters.
+The palette is confirmed — no caveats needed. Never substitute a colour that
+isn't in the table above.
