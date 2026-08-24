@@ -2,7 +2,7 @@
 topic: The 3-question wellness audit
 platform: LinkedIn
 pillar: HR Leader Playbook
-scheduled: 2026-09-12
+scheduled: 2026-09-14
 created: 2026-08-21
 status: draft
 ---

@@ -2,7 +2,7 @@
 topic: Only 42% tell their manager
 platform: LinkedIn
 pillar: HR Leader Playbook
-scheduled: 2026-09-10
+scheduled: 2026-09-11
 created: 2026-08-21
 status: draft
 ---

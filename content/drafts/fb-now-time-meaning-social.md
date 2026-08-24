@@ -3,7 +3,7 @@ topic: What NOW TIME actually means
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: now-no-other-way (LinkedIn, Sep 5)
-scheduled: 2026-09-06
+scheduled: 2026-09-05
 created: 2026-08-21
 status: draft
 ---

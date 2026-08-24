@@ -3,7 +3,7 @@ topic: 60 seconds to reset
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: standalone (LinkedIn runs leadership buy-in Sep 22)
-scheduled: 2026-09-23
+scheduled: 2026-09-22
 created: 2026-08-21
 status: draft
 ---

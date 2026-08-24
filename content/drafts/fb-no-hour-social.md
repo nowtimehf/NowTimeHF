@@ -3,7 +3,7 @@ topic: You don't need an hour
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: obj-07-no-time (LinkedIn, Sep 1)
-scheduled: 2026-09-02
+scheduled: 2026-09-01
 created: 2026-08-21
 status: draft
 ---

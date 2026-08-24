@@ -2,7 +2,7 @@
 topic: 76% burnout — the cost of doing nothing
 platform: LinkedIn
 pillar: The Business Case
-scheduled: 2026-09-03
+scheduled: 2026-09-04
 created: 2026-08-21
 status: draft
 ---

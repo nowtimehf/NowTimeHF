@@ -3,7 +3,7 @@ topic: You don't have to wait until it's bad
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: obj-08-eap (LinkedIn, Sep 8)
-scheduled: 2026-09-09
+scheduled: 2026-09-08
 created: 2026-08-21
 status: draft
 ---

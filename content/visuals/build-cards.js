@@ -9,6 +9,10 @@
 //   B2B sales assets. Numbered series, question in white, answer in gold,
 //   full credential block. See content/reference/visual-style.md.
 //
+// System D — stat cards      (stats-cards.json -> stat-<slug>.png)
+//   B2B, LinkedIn. Oversized figure in gold, claim in white, implication in
+//   gold, source credited in muted. Only figures from content/reference/stats.md.
+//
 // System C — quote cards      (quotes.json -> quote-<slug>.png)
 //   Consumer/social. Same palette and chevron, no series number, no SDVOSB
 //   line (a federal procurement credential means nothing to an individual).
@@ -118,9 +122,51 @@ function quoteHtml(c) {
 </div>`;
 }
 
+function statHtml(c) {
+  const fSize = c.figureSize || 168;
+  const cSize = c.claimSize || 44;
+  const lSize = c.landSize || 46;
+  return `<!doctype html><meta charset="utf-8"><style>${BASE}
+  .tick{width:120px;height:9px;background:var(--gold);margin-top:84px}
+  .eyebrow{margin-top:32px;font-weight:600;font-size:21px;letter-spacing:.30em;
+           color:var(--slate);white-space:nowrap}
+  .eyebrow .sep{padding:0 .35em}
+  .figure{margin-top:54px;font-weight:800;font-size:${fSize}px;line-height:.95;
+          color:var(--gold);letter-spacing:-.03em}
+  .claim{margin-top:14px;font-weight:700;font-size:${cSize}px;line-height:1.2;
+         color:var(--white);letter-spacing:-.01em}
+  .divider{display:flex;align-items:center;gap:26px;margin-top:44px}
+  .divider .rule{flex:1;height:2px;background:var(--slate);opacity:.55}
+  .land{margin-top:34px;font-weight:700;font-size:${lSize}px;line-height:1.2;
+        color:var(--gold);letter-spacing:-.005em}
+  .source{margin-top:24px;font-weight:500;font-size:22px;letter-spacing:.16em;
+          color:var(--slate)}
+  .footer{margin-top:auto;padding-bottom:74px}
+  .footer .co{font-size:31px}
+  .footer .cred{margin-top:12px;font-size:24px}
+</style>
+<div class="wedge"></div>
+<div class="inner">
+  <div class="tick"></div>
+  <div class="eyebrow">${esc(c.eyebrowLead)}<span class="sep">/</span>${esc(c.eyebrowRest)}</div>
+  <div class="figure">${esc(c.figure)}</div>
+  <div class="claim">${esc(c.claim)}</div>
+  <div class="divider">${CHEVRON(118, 62)}<div class="rule"></div></div>
+  <div class="land">${esc(c.land)}</div>
+  <div class="source">SOURCE: ${esc(String(c.source).toUpperCase())}</div>
+  <div class="footer">
+    <div class="hr"></div>
+    <div class="co">NOW TIME HEALTH + FITNESS</div>
+    <div class="cred">USMC Veteran-Owned &nbsp;·&nbsp; SDVOSB Certified &nbsp;·&nbsp; nowtimehf.com</div>
+  </div>
+</div>`;
+}
+
 const SETS = [
   { name: 'objection', file: 'cards.json', prefix: 'card', render: objectionHtml,
     limit: { sel: '.answer', max: 830 } },
+  { name: 'stat', file: 'stats-cards.json', prefix: 'stat', render: statHtml,
+    limit: { sel: '.source', max: 860 } },
   { name: 'quote', file: 'quotes.json', prefix: 'quote', render: quoteHtml,
     limit: { sel: '.land', max: 880 } },
 ];

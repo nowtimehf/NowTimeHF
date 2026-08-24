@@ -2,7 +2,7 @@
 topic: Objection: we're fully remote
 platform: LinkedIn
 pillar: Program Design
-scheduled: 2026-09-17
+scheduled: 2026-09-18
 created: 2026-08-21
 status: draft
 card: content/visuals/card-10-remote.png

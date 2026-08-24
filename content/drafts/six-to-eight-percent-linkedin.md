@@ -2,7 +2,7 @@
 topic: The engagement gap
 platform: LinkedIn
 pillar: The Engagement Gap
-scheduled: 2026-09-19
+scheduled: 2026-09-21
 created: 2026-08-21
 status: draft
 ---

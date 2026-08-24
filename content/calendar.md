@@ -4,7 +4,7 @@
 
 ## September 2026 — LinkedIn
 
-Cadence: 3x/week (Mon/Wed/Fri), per `brand/brief.md`. Twelve posts, all in the
+Cadence: 3x/week (Mon/Wed/Fri). Twelve posts, all in the
 LinkedIn buyer voice. Six carry an objection card; six run as native text.
 
 Pillar balance: Program Design 4 · HR Leader Playbook 3 · Business Case 2 ·
@@ -12,18 +12,18 @@ Engagement Gap 2 · (Client Results 0 — see note).
 
 | Date | Day | Pillar | Title / Hook | Draft | Card | CTA | Status |
 |------|-----|--------|--------------|-------|------|-----|--------|
-| Sep 1 | Mon | Engagement Gap | "We tried this. Nobody had the time." | `obj-07-no-time-linkedin.md` | `card-07-no-time.png` | TIME | scheduled |
-| Sep 3 | Wed | Business Case | 76% burnout → 6–9 months of salary | `stat-76-percent-linkedin.md` | — | question | scheduled |
-| Sep 5 | Fri | Program Design | NOW = No Other Way | `now-no-other-way-linkedin.md` | `now-no-other-way-card.png` | TIME | scheduled |
-| Sep 8 | Mon | Program Design | "We already have an EAP." | `obj-08-eap-linkedin.md` | `card-08-eap.png` | DATA | scheduled |
-| Sep 10 | Wed | HR Leader Playbook | Only 42% tell their manager | `42-percent-silent-linkedin.md` | — | question | scheduled |
-| Sep 12 | Fri | HR Leader Playbook | The 3-question wellness audit | `three-question-audit-linkedin.md` | — | AUDIT | scheduled |
-| Sep 15 | Mon | Program Design | "Our budget is already committed." | `obj-09-budget-linkedin.md` | `card-09-budget.png` | PILOT | scheduled |
-| Sep 17 | Wed | Program Design | "We're fully remote. This won't work." | `obj-10-remote-linkedin.md` | `card-10-remote.png` | — | scheduled |
-| Sep 19 | Fri | Engagement Gap | The 6–8% problem | `six-to-eight-percent-linkedin.md` | — | DATA | scheduled |
-| Sep 22 | Mon | HR Leader Playbook | "Leadership won't sign off." | `obj-11-leadership-linkedin.md` | `card-11-leadership-buy-in.png` | METRICS | scheduled |
-| Sep 24 | Wed | Business Case | "You're a one-person company." | `obj-12-one-person-linkedin.md` | `card-12-one-person.png` | — | scheduled |
-| Sep 26 | Fri | Program Design | Marine. Coach. Founder. | `marine-coach-founder-linkedin.md` | — | soft | scheduled |
+| Sep 2 | Wed | Engagement Gap | "We tried this. Nobody had the time." | `obj-07-no-time-linkedin.md` | `card-07-no-time.png` | TIME | scheduled |
+| Sep 4 | Fri | Business Case | 76% burnout → 6–9 months of salary | `stat-76-percent-linkedin.md` | — | question | scheduled |
+| Sep 7 | Mon | Program Design | NOW = No Other Way | `now-no-other-way-linkedin.md` | `now-no-other-way-card.png` | TIME | scheduled |
+| Sep 9 | Wed | Program Design | "We already have an EAP." | `obj-08-eap-linkedin.md` | `card-08-eap.png` | DATA | scheduled |
+| Sep 11 | Fri | HR Leader Playbook | Only 42% tell their manager | `42-percent-silent-linkedin.md` | — | question | scheduled |
+| Sep 14 | Mon | HR Leader Playbook | The 3-question wellness audit | `three-question-audit-linkedin.md` | — | AUDIT | scheduled |
+| Sep 16 | Wed | Program Design | "Our budget is already committed." | `obj-09-budget-linkedin.md` | `card-09-budget.png` | PILOT | scheduled |
+| Sep 18 | Fri | Program Design | "We're fully remote. This won't work." | `obj-10-remote-linkedin.md` | `card-10-remote.png` | — | scheduled |
+| Sep 21 | Mon | Engagement Gap | The 6–8% problem | `six-to-eight-percent-linkedin.md` | — | DATA | scheduled |
+| Sep 23 | Wed | HR Leader Playbook | "Leadership won't sign off." | `obj-11-leadership-linkedin.md` | `card-11-leadership-buy-in.png` | METRICS | scheduled |
+| Sep 25 | Fri | Business Case | "You're a one-person company." | `obj-12-one-person-linkedin.md` | `card-12-one-person.png` | — | scheduled |
+| Sep 28 | Mon | Program Design | Marine. Coach. Founder. | `marine-coach-founder-linkedin.md` | — | soft | scheduled |
 
 Drafts live in `content/drafts/`, cards in `content/visuals/`.
 
@@ -61,18 +61,18 @@ graphic — so each draft serves both.
 
 | Date | Day | Title / Hook | Draft | Pairs with (LinkedIn) |
 |------|-----|--------------|-------|----------------------|
-| Sep 2 | Tue | You don't need an hour | `fb-no-hour-social.md` | Sep 1 — no time |
-| Sep 4 | Thu | Burnout doesn't announce itself | `fb-burnout-quiet-social.md` | Sep 3 — 76% |
-| Sep 6 | Sat | What NOW TIME actually means | `fb-now-time-meaning-social.md` | Sep 5 — No Other Way |
-| Sep 9 | Tue | You don't have to wait until it's bad | `fb-before-it-gets-bad-social.md` | Sep 8 — EAP |
-| Sep 11 | Thu | Say it out loud | `fb-say-something-social.md` | Sep 10 — 42% silent |
-| Sep 13 | Sat | Three questions for your own routine | `fb-three-questions-social.md` | Sep 12 — the audit |
-| Sep 16 | Tue | The cheapest thing you can do | `fb-cheapest-thing-social.md` | standalone |
-| Sep 18 | Thu | Working from home is quietly hard | `fb-working-from-home-social.md` | Sep 17 — remote |
-| Sep 20 | Sat | Why it didn't stick last time | `fb-why-you-quit-social.md` | Sep 19 — 6–8% |
-| Sep 23 | Tue | 60 seconds to reset | `fb-box-breathing-social.md` | standalone |
-| Sep 25 | Thu | I answer my own messages | `fb-i-answer-my-own-social.md` | Sep 24 — one-person |
-| Sep 27 | Sat | Marine. Coach. Founder. | `fb-marine-coach-founder-social.md` | Sep 26 — same theme |
+| Sep 1 | Tue | You don't need an hour | `fb-no-hour-social.md` | Sep 1 — no time |
+| Sep 3 | Thu | Burnout doesn't announce itself | `fb-burnout-quiet-social.md` | Sep 3 — 76% |
+| Sep 5 | Sat | What NOW TIME actually means | `fb-now-time-meaning-social.md` | Sep 5 — No Other Way |
+| Sep 8 | Tue | You don't have to wait until it's bad | `fb-before-it-gets-bad-social.md` | Sep 8 — EAP |
+| Sep 10 | Thu | Say it out loud | `fb-say-something-social.md` | Sep 10 — 42% silent |
+| Sep 12 | Sat | Three questions for your own routine | `fb-three-questions-social.md` | Sep 12 — the audit |
+| Sep 15 | Tue | The cheapest thing you can do | `fb-cheapest-thing-social.md` | standalone |
+| Sep 17 | Thu | Working from home is quietly hard | `fb-working-from-home-social.md` | Sep 17 — remote |
+| Sep 19 | Sat | Why it didn't stick last time | `fb-why-you-quit-social.md` | Sep 19 — 6–8% |
+| Sep 22 | Tue | 60 seconds to reset | `fb-box-breathing-social.md` | standalone |
+| Sep 24 | Thu | I answer my own messages | `fb-i-answer-my-own-social.md` | Sep 24 — one-person |
+| Sep 26 | Sat | Marine. Coach. Founder. | `fb-marine-coach-founder-social.md` | Sep 26 — same theme |
 
 ### Notes on the social track
 
@@ -86,14 +86,86 @@ as stiff.
 program at all, and neither links out. The social track's job is reach and
 warmth; LinkedIn carries the selling.
 
-**Graphics still needed.** These are captions; the objection-card system is
-wrong for this voice (it's a B2B sales asset). Simple quote cards in the same
-palette would work — spec them with `/generate-visuals` before scheduling.
+**Graphics built.** Twelve System C quote cards, one per post — see
+`content/visuals/quote-*.png` and `content/reference/visual-style.md`.
 
-## Full-month view
+---
 
-Six posting days a week: LinkedIn Mon/Wed/Fri, Facebook + Instagram Tue/Thu/Sat.
-24 posts total, 6 objection cards, both voices covered.
+# October 2026 — theme: open enrollment & the 2027 budget
+
+October is the one month HR leaders are actively deciding what their people get
+for the next twelve. Open enrollment runs now; 2027 budget planning runs
+alongside it. Every LinkedIn post this month is timed against that window rather
+than written as generic thought leadership — the argument is the same one, but
+the reader is in a buying posture they will not be in again until next autumn.
+
+## October — LinkedIn (Mon/Wed/Fri, 13 posts)
+
+| Date | Day | Pillar | Title / Hook | Draft | Card | CTA |
+|------|-----|--------|--------------|-------|------|-----|
+| Oct 2 | Fri | HR Playbook | The enrollment window is the whole year | `oct-enrollment-window` | — | question |
+| Oct 5 | Mon | Business Case | "Let's revisit this in the new year." | `obj-13-new-year` | `card-13-new-year` | PILOT |
+| Oct 7 | Wed | Business Case | 76% — the number behind the pitch | `stat-76-card` | `stat-01-seventy-six` | DATA |
+| Oct 9 | Fri | HR Playbook | World Mental Health Day is Saturday | `oct-mental-health-day` | — | none |
+| Oct 12 | Mon | Program Design | "Our people won't share health data." | `obj-14-health-data` | `card-14-health-data` | DATA |
+| Oct 14 | Wed | Engagement Gap | Q4 is the quiet quarter for burnout | `oct-quiet-quarter` | — | none |
+| Oct 16 | Fri | HR Playbook | Getting wellness into next year's budget | `oct-budget-season` | — | METRICS |
+| Oct 19 | Mon | Business Case | 6–9 months of salary | `stat-6-9-card` | `stat-02-six-to-nine` | none |
+| Oct 21 | Wed | Engagement Gap | "Our turnover isn't that bad." | `obj-15-turnover-fine` | `card-15-turnover-fine` | AUDIT |
+| Oct 23 | Fri | HR Playbook | The 58% you meet at the exit interview | `stat-42-card` | `stat-03-forty-two` | none |
+| Oct 26 | Mon | Program Design | What I do when engagement drops | `oct-what-i-do-when` | — | question |
+| Oct 28 | Wed | Engagement Gap | You're paying for 100% | `stat-participation-card` | `stat-04-eight-percent` | question |
+| Oct 30 | Fri | Program Design | The honest year-end post | `oct-year-end-honest` | — | PILOT |
+
+## October — Facebook + Instagram (Tue/Thu/Sat, 13 posts)
+
+| Date | Day | Title / Hook | Draft | Card |
+|------|-----|--------------|-------|------|
+| Oct 1 | Thu | The clocks are about to change | `fb-oct-darker` | `quote-oct-daylight` |
+| Oct 3 | Sat | "I'm fine" is usually a lie | `fb-oct-still-fine` | `quote-oct-im-fine` |
+| Oct 6 | Tue | Ten minutes on your worst day | `fb-oct-ten-minutes` | `quote-oct-worst-day` |
+| Oct 8 | Thu | Before World Mental Health Day | `fb-oct-mental-health` | `quote-oct-four-seconds` |
+| Oct 10 | Sat | Rest isn't a reward | `fb-oct-rest-isnt-reward` | `quote-oct-rest` |
+| Oct 13 | Tue | Your health is nobody's business | `fb-oct-private` | `quote-oct-privacy` |
+| Oct 15 | Thu | Q4 is heavier than it looks | `fb-oct-q4-load` | `quote-oct-shrink` |
+| Oct 17 | Sat | The people who look strongest | `fb-oct-strongest-people` | `quote-oct-reliable-one` |
+| Oct 20 | Tue | One number worth knowing | `fb-oct-one-number` | `quote-oct-streak` |
+| Oct 22 | Thu | "It's not that bad" | `fb-oct-not-that-bad` | `quote-oct-year-ago` |
+| Oct 24 | Sat | Someone noticing changes the odds | `fb-oct-someone-notices` | `quote-oct-witness` |
+| Oct 27 | Tue | Make the December plan in October | `fb-oct-holiday-plan` | `quote-oct-december-floor` |
+| Oct 29 | Thu | If it's been a hard year | `fb-oct-hard-year` | `quote-oct-hard-year` |
+
+## Notes on October
+
+**New: System D stat cards.** Four cards built on the approved stat library,
+each with its source printed on the card itself. Running a second series stops
+the objection cards becoming a treadmill, and it puts the sourcing where it
+can't get separated from the number. See `content/reference/visual-style.md`.
+
+**Seasonal anchoring is the point.** Oct 5 argues against "revisit in January"
+*during* enrollment. Oct 16 lands budget arguments in budget season. Oct 9 runs
+the day before World Mental Health Day, arguing that the post matters less than
+what happens on Monday. These would be weaker in any other month.
+
+**Oct 30 is deliberately low-pressure.** It names the one-person constraint,
+says there's no fake scarcity, and offers 15 minutes. After a month of
+argument, the close that fits this brand is a plain one.
+
+**Oct 10 and Oct 29 have no ask at all.** Mental Health Day and a
+year-has-been-hard post are the wrong places to convert. Selling there would
+cost more trust than it earns.
+
+---
+
+# Full view — September + October
+
+| | LinkedIn | Facebook + IG | Cards |
+|---|---|---|---|
+| September | 12 | 12 | 6 objection + 1 sibling + 12 quote |
+| October | 13 | 13 | 3 objection + 4 stat + 13 quote |
+| **Total** | **25** | **25** | **39** |
+
+Six posting days a week across both months, both voices, every figure sourced.
 
 ## Before publishing
 

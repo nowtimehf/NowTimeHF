@@ -3,7 +3,7 @@ topic: Why it didn't stick last time
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: six-to-eight-percent (LinkedIn, Sep 19)
-scheduled: 2026-09-20
+scheduled: 2026-09-19
 created: 2026-08-21
 status: draft
 ---

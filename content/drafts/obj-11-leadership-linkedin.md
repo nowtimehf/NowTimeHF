@@ -2,7 +2,7 @@
 topic: Objection: leadership won't sign off
 platform: LinkedIn
 pillar: HR Leader Playbook
-scheduled: 2026-09-22
+scheduled: 2026-09-23
 created: 2026-08-21
 status: draft
 card: content/visuals/card-11-leadership-buy-in.png

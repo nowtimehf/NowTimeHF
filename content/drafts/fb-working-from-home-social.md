@@ -3,7 +3,7 @@ topic: Working from home is quietly hard on your body
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: obj-10-remote (LinkedIn, Sep 17)
-scheduled: 2026-09-18
+scheduled: 2026-09-17
 created: 2026-08-21
 status: draft
 ---

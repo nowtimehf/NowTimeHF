@@ -3,7 +3,7 @@ topic: Say it out loud
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: 42-percent-silent (LinkedIn, Sep 10)
-scheduled: 2026-09-11
+scheduled: 2026-09-10
 created: 2026-08-21
 status: draft
 ---

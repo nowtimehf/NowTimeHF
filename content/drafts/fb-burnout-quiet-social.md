@@ -3,7 +3,7 @@ topic: Burnout doesn't announce itself
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: stat-76-percent (LinkedIn, Sep 3)
-scheduled: 2026-09-04
+scheduled: 2026-09-03
 created: 2026-08-21
 status: draft
 ---

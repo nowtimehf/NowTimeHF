@@ -2,7 +2,7 @@
 topic: Objection: we already have an EAP
 platform: LinkedIn
 pillar: Program Design
-scheduled: 2026-09-08
+scheduled: 2026-09-09
 created: 2026-08-21
 status: draft
 card: content/visuals/card-08-eap.png

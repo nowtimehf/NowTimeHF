@@ -99,6 +99,38 @@ part of the same set as card 01.
 
 ---
 
+## System D — Stat cards (current, for LinkedIn)
+
+The evidence series. Same furniture as System A — tick rule, numbered eyebrow,
+chevron divider, full credential block — with the figure carrying the card.
+
+Built from `stats-cards.json`: `node content/visuals/build-cards.js stat`
+
+```
+▬
+THE NUMBER 01  /  WHAT THE DATA SAYS
+
+76%                          ← oversized, gold
+of employees hit burnout     ← white
+at work at least sometimes.
+
+⌃⌃ ————————————————
+The average wellness         ← gold
+program reaches 8% of them.
+
+SOURCE: GALLUP               ← muted
+```
+
+**The source line is part of the template, not optional.** A brand whose
+differentiator is "I sell engagement reporting" cannot post an uncited number,
+and putting the citation on the card means it survives being screenshotted and
+reshared without the caption.
+
+**The figure is gold, not white** — the one place System D inverts System A.
+Here the number is the assertion and the white claim explains it; the gold
+implication below still lands the argument. Only figures from
+`content/reference/stats.md` may be used.
+
 ## System C — Quote cards (current, for social)
 
 The consumer sibling of System A. Same brand family, different job: these run on
@@ -158,8 +190,11 @@ Retained for reference only. New work follows System A.
 
 **Pick the system from the post's voice, not its topic:**
 
-- LinkedIn / buyer voice → **System A**. Add an entry to `cards.json` and run
-  `node content/visuals/build-cards.js objection`.
+- LinkedIn / buyer voice, answering an objection → **System A**. Add an entry to
+  `cards.json` and run `node content/visuals/build-cards.js objection`.
+- LinkedIn / buyer voice, leading with a statistic → **System D**. Add an entry
+  to `stats-cards.json` and run `node content/visuals/build-cards.js stat`.
+  Never invent a figure or a source.
 - Facebook / Instagram / individual voice → **System C**. Add an entry to
   `quotes.json` and run `node content/visuals/build-cards.js quote`.
 - **System B** only if a post is deliberately in the retired reflective

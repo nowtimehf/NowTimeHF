@@ -3,7 +3,7 @@ topic: Three questions for your own routine
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: three-question-audit (LinkedIn, Sep 12)
-scheduled: 2026-09-13
+scheduled: 2026-09-12
 created: 2026-08-21
 status: draft
 ---

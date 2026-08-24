@@ -2,7 +2,7 @@
 topic: What NOW TIME actually stands for — the name as the answer to the "no time" objection
 platform: LinkedIn
 pillar: Program Design (with Engagement Gap)
-scheduled: 2026-09-05
+scheduled: 2026-09-07
 created: 2026-08-21
 status: draft
 card: content/visuals/now-no-other-way-card.png

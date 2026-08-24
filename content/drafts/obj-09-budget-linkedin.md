@@ -2,7 +2,7 @@
 topic: Objection: budget is committed
 platform: LinkedIn
 pillar: Program Design
-scheduled: 2026-09-15
+scheduled: 2026-09-16
 created: 2026-08-21
 status: draft
 card: content/visuals/card-09-budget.png

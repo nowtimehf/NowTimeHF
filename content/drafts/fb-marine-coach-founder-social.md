@@ -3,7 +3,7 @@ topic: Marine. Coach. Founder.
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: marine-coach-founder (LinkedIn, Sep 26)
-scheduled: 2026-09-27
+scheduled: 2026-09-26
 created: 2026-08-21
 status: draft
 ---

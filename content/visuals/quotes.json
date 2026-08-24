@@ -88,5 +88,110 @@
     "land": "They change because someone checked.",
     "post": "fb-marine-coach-founder-social.md",
     "alt": "Navy quote card. People don't change because they got inspired. They change because someone checked."
+  },
+  {
+    "slug": "oct-daylight",
+    "line": "Habits don’t die from lack of willpower.",
+    "lineSize": 62,
+    "land": "They die when the conditions change and the plan doesn’t.",
+    "landSize": 44,
+    "post": "fb-oct-darker-social.md",
+    "alt": "Navy quote card. Habits don't die from lack of willpower. They die when the conditions change and the plan doesn't."
+  },
+  {
+    "slug": "oct-im-fine",
+    "line": "“I’m fine” is the most common thing people say when they’re not.",
+    "lineSize": 54,
+    "land": "You don’t have to tell everyone. Just someone.",
+    "landSize": 48,
+    "post": "fb-oct-still-fine-social.md",
+    "alt": "Navy quote card. I'm fine is the most common thing people say when they're not. You don't have to tell everyone. Just someone."
+  },
+  {
+    "slug": "oct-worst-day",
+    "line": "Build the plan around your worst day.",
+    "land": "Ten minutes then beats an hour you’ll skip.",
+    "landSize": 50,
+    "post": "fb-oct-ten-minutes-social.md",
+    "alt": "Navy quote card. Build the plan around your worst day. Ten minutes then beats an hour you'll skip."
+  },
+  {
+    "slug": "oct-four-seconds",
+    "line": "Ask, then wait four seconds.",
+    "land": "The polite answer comes first. The real one comes second.",
+    "landSize": 44,
+    "post": "fb-oct-mental-health-social.md",
+    "alt": "Navy quote card. Ask, then wait four seconds. The polite answer comes first. The real one comes second."
+  },
+  {
+    "slug": "oct-rest",
+    "line": "Rest isn’t a reward.",
+    "land": "You don’t earn the fuel by driving further.",
+    "post": "fb-oct-rest-isnt-reward-social.md",
+    "alt": "Navy quote card. Rest isn't a reward. You don't earn the fuel by driving further."
+  },
+  {
+    "slug": "oct-privacy",
+    "line": "Progress doesn’t require an audience.",
+    "land": "Opting out of the leaderboard isn’t quitting.",
+    "landSize": 48,
+    "post": "fb-oct-private-social.md",
+    "alt": "Navy quote card. Progress doesn't require an audience. Opting out of the leaderboard isn't quitting."
+  },
+  {
+    "slug": "oct-shrink",
+    "line": "You’re not trying to make progress this quarter.",
+    "lineSize": 58,
+    "land": "You’re trying to arrive in January without losing the thread.",
+    "landSize": 42,
+    "post": "fb-oct-q4-load-social.md",
+    "alt": "Navy quote card. You're not trying to make progress this quarter. You're trying to arrive in January without losing the thread."
+  },
+  {
+    "slug": "oct-reliable-one",
+    "line": "The reliable one is the least likely to be asked how they are.",
+    "lineSize": 54,
+    "land": "Ask them anyway. Especially them.",
+    "post": "fb-oct-strongest-people-social.md",
+    "alt": "Navy quote card. The reliable one is the least likely to be asked how they are. Ask them anyway. Especially them."
+  },
+  {
+    "slug": "oct-streak",
+    "line": "You can talk yourself into believing you’ve been consistent.",
+    "lineSize": 56,
+    "land": "A number won’t let you.",
+    "post": "fb-oct-one-number-social.md",
+    "alt": "Navy quote card. You can talk yourself into believing you've been consistent. A number won't let you."
+  },
+  {
+    "slug": "oct-year-ago",
+    "line": "Don’t compare it to yesterday.",
+    "land": "Would last year’s version of you say this is fine?",
+    "landSize": 46,
+    "post": "fb-oct-not-that-bad-social.md",
+    "alt": "Navy quote card. Don't compare it to yesterday. Would last year's version of you say this is fine?"
+  },
+  {
+    "slug": "oct-witness",
+    "line": "You don’t need a better program.",
+    "land": "You need a witness.",
+    "post": "fb-oct-someone-notices-social.md",
+    "alt": "Navy quote card. You don't need a better program. You need a witness."
+  },
+  {
+    "slug": "oct-december-floor",
+    "line": "Decide your December floor in October.",
+    "land": "Your December self will be too busy to decide well.",
+    "landSize": 44,
+    "post": "fb-oct-holiday-plan-social.md",
+    "alt": "Navy quote card. Decide your December floor in October. Your December self will be too busy to decide well."
+  },
+  {
+    "slug": "oct-hard-year",
+    "line": "You’re not behind. You had a hard year.",
+    "land": "You don’t have to salvage it. You could just finish it.",
+    "landSize": 44,
+    "post": "fb-oct-hard-year-social.md",
+    "alt": "Navy quote card. You're not behind. You had a hard year. You don't have to salvage it. You could just finish it."
   }
 ]

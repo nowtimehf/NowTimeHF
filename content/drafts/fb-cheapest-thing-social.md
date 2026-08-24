@@ -3,7 +3,7 @@ topic: The cheapest thing you can do
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: standalone (LinkedIn runs the budget objection Sep 15)
-scheduled: 2026-09-16
+scheduled: 2026-09-15
 created: 2026-08-21
 status: draft
 ---

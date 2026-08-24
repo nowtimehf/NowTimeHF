@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "01-seventy-six",
+    "eyebrowLead": "THE NUMBER 01",
+    "eyebrowRest": "WHAT THE DATA SAYS",
+    "figure": "76%",
+    "claim": "of employees hit burnout at work at least sometimes.",
+    "land": "The average wellness program reaches 8% of them.",
+    "source": "Gallup",
+    "alt": "Navy stat card. 76% of employees hit burnout at work at least sometimes. The average wellness program reaches 8% of them. Source Gallup."
+  },
+  {
+    "slug": "02-six-to-nine",
+    "eyebrowLead": "THE NUMBER 02",
+    "eyebrowRest": "WHAT THE DATA SAYS",
+    "figure": "6–9",
+    "claim": "months of salary to replace one employee.",
+    "land": "A wellness program costs less than one departure.",
+    "source": "SHRM",
+    "alt": "Navy stat card. Six to nine months of salary to replace one employee. A wellness program costs less than one departure. Source SHRM."
+  },
+  {
+    "slug": "03-forty-two",
+    "eyebrowLead": "THE NUMBER 03",
+    "eyebrowRest": "WHAT THE DATA SAYS",
+    "figure": "42%",
+    "claim": "of burned-out employees tell their manager.",
+    "land": "You meet the other 58% at their exit interview.",
+    "source": "Mind Share Partners",
+    "alt": "Navy stat card. 42% of burned-out employees tell their manager. You meet the other 58% at their exit interview. Source Mind Share Partners."
+  },
+  {
+    "slug": "04-eight-percent",
+    "eyebrowLead": "THE NUMBER 04",
+    "eyebrowRest": "WHAT THE DATA SAYS",
+    "figure": "6–8%",
+    "claim": "average participation in corporate wellness programs.",
+    "land": "You are paying for 100%.",
+    "source": "Industry benchmark",
+    "alt": "Navy stat card. Six to eight percent average participation in corporate wellness programs. You are paying for 100%. Source industry benchmark."
+  }
+]

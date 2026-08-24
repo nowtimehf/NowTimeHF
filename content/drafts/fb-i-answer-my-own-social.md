@@ -3,7 +3,7 @@ topic: I answer my own messages
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
 pairs-with: obj-12-one-person (LinkedIn, Sep 24)
-scheduled: 2026-09-25
+scheduled: 2026-09-24
 created: 2026-08-21
 status: draft
 ---

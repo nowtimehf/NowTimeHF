@@ -53,5 +53,34 @@
     "label": "THE ANSWER",
     "answer": "One person is accountable. That’s the product.",
     "alt": "Navy card, Objection 12 of the What HR Directors Ask series. Question: You're a one-person company. Answer: One person is accountable. That's the product."
+  },
+  {
+    "slug": "13-new-year",
+    "eyebrowLead": "OBJECTION 13",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“Let’s revisit this in the new year.”",
+    "label": "THE ANSWER",
+    "answer": "Your open enrollment is now. So is their burnout.",
+    "answerSize": 46,
+    "alt": "Navy card, Objection 13. Question: Let's revisit this in the new year. Answer: Your open enrollment is now. So is their burnout."
+  },
+  {
+    "slug": "14-health-data",
+    "eyebrowLead": "OBJECTION 14",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“Our people won’t share health data.”",
+    "label": "THE ANSWER",
+    "answer": "They don’t have to. I measure participation, not diagnoses.",
+    "answerSize": 44,
+    "alt": "Navy card, Objection 14. Question: Our people won't share health data. Answer: They don't have to. I measure participation, not diagnoses."
+  },
+  {
+    "slug": "15-turnover-fine",
+    "eyebrowLead": "OBJECTION 15",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“Our turnover isn’t that bad.”",
+    "label": "THE ANSWER",
+    "answer": "Turnover is the last symptom, not the first.",
+    "alt": "Navy card, Objection 15. Question: Our turnover isn't that bad. Answer: Turnover is the last symptom, not the first."
   }
 ]

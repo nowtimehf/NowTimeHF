@@ -2,7 +2,7 @@
 topic: Objection: nobody had the time
 platform: LinkedIn
 pillar: The Engagement Gap
-scheduled: 2026-09-01
+scheduled: 2026-09-02
 created: 2026-08-21
 status: draft
 card: content/visuals/card-07-no-time.png

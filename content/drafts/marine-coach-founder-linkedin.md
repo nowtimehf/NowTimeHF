@@ -2,7 +2,7 @@
 topic: Marine. Coach. Founder.
 platform: LinkedIn
 pillar: Program Design
-scheduled: 2026-09-26
+scheduled: 2026-09-28
 created: 2026-08-21
 status: draft
 ---
