@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "no-hour",
+    "line": "You don’t need an hour.",
+    "land": "You need the version that actually happens.",
+    "post": "fb-no-hour-social.md",
+    "alt": "Navy quote card. You don't need an hour. You need the version that actually happens."
+  },
+  {
+    "slug": "burnout-quiet",
+    "line": "Burnout rarely announces itself.",
+    "land": "It looks like hitting every deadline and enjoying none of it.",
+    "landSize": 50,
+    "post": "fb-burnout-quiet-social.md",
+    "alt": "Navy quote card. Burnout rarely announces itself. It looks like hitting every deadline and enjoying none of it."
+  },
+  {
+    "slug": "no-time-to-waste",
+    "line": "There’s no time to waste.",
+    "land": "Use what you’ve got, and use it well.",
+    "post": "fb-now-time-meaning-social.md",
+    "alt": "Navy quote card. There's no time to waste. Use what you've got, and use it well."
+  },
+  {
+    "slug": "no-crisis-needed",
+    "line": "You don’t need a crisis to justify taking care of yourself.",
+    "lineSize": 62,
+    "land": "Feeling steadily better is reason enough.",
+    "post": "fb-before-it-gets-bad-social.md",
+    "alt": "Navy quote card. You don't need a crisis to justify taking care of yourself. Feeling steadily better is reason enough."
+  },
+  {
+    "slug": "handling-it",
+    "line": "Almost nobody is handling it as well as they look.",
+    "lineSize": 66,
+    "land": "Telling one person changes the weight of it.",
+    "post": "fb-say-something-social.md",
+    "alt": "Navy quote card. Almost nobody is handling it as well as they look. Telling one person changes the weight of it."
+  },
+  {
+    "slug": "who-would-notice",
+    "line": "“Who would notice if I stopped?”",
+    "land": "If the answer is nobody, that’s the real problem.",
+    "post": "fb-three-questions-social.md",
+    "alt": "Navy quote card. Who would notice if I stopped? If the answer is nobody, that's the real problem."
+  },
+  {
+    "slug": "cost-nothing",
+    "line": "The most effective things cost nothing.",
+    "land": "What you pay for is someone making sure you keep doing them.",
+    "landSize": 48,
+    "post": "fb-cheapest-thing-social.md",
+    "alt": "Navy quote card. The most effective things cost nothing. What you pay for is someone making sure you keep doing them."
+  },
+  {
+    "slug": "gained-a-commute",
+    "line": "You gained back a commute.",
+    "land": "You lost the only two walks guaranteed in your day.",
+    "landSize": 50,
+    "post": "fb-working-from-home-social.md",
+    "alt": "Navy quote card. You gained back a commute. You lost the only two walks guaranteed in your day."
+  },
+  {
+    "slug": "bad-design",
+    "line": "You didn’t fail that plan.",
+    "land": "You outlasted a bad design.",
+    "post": "fb-why-you-quit-social.md",
+    "alt": "Navy quote card. You didn't fail that plan. You outlasted a bad design."
+  },
+  {
+    "slug": "sixty-seconds",
+    "line": "60 seconds to reset.",
+    "land": "4 in. Hold 4. 4 out. Four times.",
+    "post": "fb-box-breathing-social.md",
+    "alt": "Navy quote card. 60 seconds to reset. Four seconds in, hold four, four seconds out, four times."
+  },
+  {
+    "slug": "outsource-noticing",
+    "line": "You can’t outsource noticing.",
+    "land": "Smaller roster. Real attention.",
+    "post": "fb-i-answer-my-own-social.md",
+    "alt": "Navy quote card. You can't outsource noticing. Smaller roster. Real attention."
+  },
+  {
+    "slug": "someone-checked",
+    "line": "People don’t change because they got inspired.",
+    "lineSize": 66,
+    "land": "They change because someone checked.",
+    "post": "fb-marine-coach-founder-social.md",
+    "alt": "Navy quote card. People don't change because they got inspired. They change because someone checked."
+  }
+]
