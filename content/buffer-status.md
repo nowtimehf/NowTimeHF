@@ -7,16 +7,41 @@ Last synced: 2026-08-25. Organization: *My organization*.
 | LinkedIn | Michael Logan | personal profile |
 | Facebook | Now Time Health + Fitness LLC | company page |
 
-Posting times: **LinkedIn 08:00 ET, Facebook 12:00 ET**, set with explicit
-`-04:00` offsets so send times are correct regardless of account timezone.
+## Posting times — optimized 2026-08-25
+
+| Channel | Slot | Why |
+|---|---|---|
+| LinkedIn | **9:15 AM ET** | Mid-morning weekday is when B2B feeds are busiest — inbox triage is done, first meetings haven't started. 8:00 AM competed with email; 9:15 lands in the browse window. Off-the-hour to avoid the :00 crowd. |
+| Facebook, weekdays | **7:30 PM ET** | Reflective personal content gets read in the evening rather than skimmed at lunch. Consumer Facebook peaks after dinner. |
+| Facebook, Saturdays | **10:30 AM ET** | Weekend browsing starts later and is more leisurely. |
+| Facebook, Sep 22 only | **8:15 AM ET** | Exception. "Try this before your next stressful meeting" is a workday tool — it belongs before the workday, not after it. |
+
+These are platform conventions, not measurements from your own audience. Once
+you have a month of Buffer analytics, check `get_aggregated_post_metrics` and
+move the slots toward whatever your account actually shows.
+
+**One observation not acted on:** LinkedIn engagement is reliably strongest
+Tuesday–Thursday and weakest Monday and Friday. The Mon/Wed/Fri cadence puts
+four posts on those weaker days. Shifting to Tue/Wed/Thu would likely lift
+reach, but it changes the rhythm agreed in `content/calendar.md`, so it is
+flagged rather than done.
+
+All times use explicit `-04:00` offsets so sends are correct regardless of
+account timezone.
 Images are served to Buffer from raw.githubusercontent.com at a pinned commit,
 1080x1080, each with alt text.
 
 ## Plan limit reached
 
-Buffer's current plan allows **10 scheduled posts per channel**. Both channels
-are full. 20 of 50 posts are scheduled; 30 cannot be queued until either the
-plan is upgraded or existing posts publish and free slots.
+Buffer's free plan allows **10 scheduled posts per channel**. Both channels are
+full at 20 total.
+
+**Deliberately paused here to stay on the free plan.** The remaining 30 posts
+are written, carded and dated — they are simply not queued. As posts publish
+through September, slots free up one by one; queue the next batch then.
+
+First slot frees **Sep 1** (Facebook) and **Sep 2** (LinkedIn). By roughly
+**Sep 8** about seven slots will be open.
 
 ## Scheduled (20)
 
