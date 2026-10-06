@@ -193,5 +193,61 @@
     "landSize": 44,
     "post": "fb-oct-hard-year-social.md",
     "alt": "Navy quote card. You're not behind. You had a hard year. You don't have to salvage it. You could just finish it."
+  },
+  {
+    "slug": "nov-hotel-room",
+    "line": "No gym? You have a floor and 20 minutes.",
+    "land": "Decide before you pack.",
+    "landSize": 44,
+    "post": "fb-nov-hotel-room-social.md",
+    "alt": "Navy quote card. No gym? You have a floor and 20 minutes. Decide before you pack."
+  },
+  {
+    "slug": "nov-last-hour",
+    "line": "Tomorrow starts the hour before you sleep.",
+    "land": "Charge the phone in another room.",
+    "landSize": 44,
+    "post": "fb-nov-last-hour-social.md",
+    "alt": "Navy quote card. Tomorrow starts the hour before you sleep. Charge the phone in another room."
+  },
+  {
+    "slug": "nov-alarm-clock",
+    "line": "Motivation is a terrible alarm clock.",
+    "land": "A calendar doesn’t care how you feel. That’s the point.",
+    "landSize": 44,
+    "post": "fb-nov-alarm-clock-social.md",
+    "alt": "Navy quote card. Motivation is a terrible alarm clock. A calendar doesn't care how you feel. That's the point."
+  },
+  {
+    "slug": "nov-walk",
+    "line": "Ten minutes. After your biggest meal.",
+    "land": "Shoes and the door. That’s the whole habit.",
+    "landSize": 44,
+    "post": "fb-nov-walk-after-social.md",
+    "alt": "Navy quote card. Ten minutes after your biggest meal. Shoes and the door. That's the whole habit."
+  },
+  {
+    "slug": "nov-short-week",
+    "line": "A short week is still a week.",
+    "land": "You don’t need your full routine. You need your floor.",
+    "landSize": 44,
+    "post": "fb-nov-short-week-social.md",
+    "alt": "Navy quote card. A short week is still a week. You don't need your full routine. You need your floor."
+  },
+  {
+    "slug": "nov-earn-the-meal",
+    "line": "You don’t have to earn this meal.",
+    "land": "And you don’t have to burn it off tomorrow.",
+    "landSize": 44,
+    "post": "fb-nov-thanksgiving-social.md",
+    "alt": "Navy quote card. You don't have to earn this meal. And you don't have to burn it off tomorrow."
+  },
+  {
+    "slug": "nov-today",
+    "line": "There’s nothing to restart.",
+    "land": "Your next meal is a fresh start. So is today.",
+    "landSize": 44,
+    "post": "fb-nov-today-social.md",
+    "alt": "Navy quote card. There's nothing to restart. Your next meal is a fresh start. So is today."
   }
 ]

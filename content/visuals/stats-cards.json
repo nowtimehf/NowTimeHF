@@ -38,5 +38,15 @@
     "land": "You are paying for 100%.",
     "source": "Industry benchmark",
     "alt": "Navy stat card. Six to eight percent average participation in corporate wellness programs. You are paying for 100%. Source industry benchmark."
+  },
+  {
+    "slug": "05-sick-days",
+    "eyebrowLead": "THE NUMBER 05",
+    "eyebrowRest": "WHAT THE DATA SAYS",
+    "figure": "23%",
+    "claim": "more likely to visit the ER when burned out. 63% more likely to take a sick day.",
+    "land": "Burnout shows up on the renewal.",
+    "source": "Gallup",
+    "alt": "Navy stat card. Burned-out employees are 23% more likely to visit the ER and 63% more likely to take a sick day. Burnout shows up on the renewal. Source Gallup."
   }
 ]

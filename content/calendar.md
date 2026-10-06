@@ -175,3 +175,49 @@ Six posting days a week across both months, both voices, every figure sourced.
 - [x] ~~Sample exact brand hexes~~ — confirmed 2026-08-21, all 19 cards rebuilt
 - [ ] Confirm the typeface (currently Montserrat); swap `content/visuals/fonts/`
       and re-run `build-cards.js` if the original cards use a different face
+
+---
+
+# November 2026 — theme: holding the thread through the holidays
+
+Added 2026-10-06. Nine posts that missed their Sep 24–Oct 6 dates (queue was
+empty) are re-dated here with date-specific lines fixed; the rest are new.
+US clocks change Nov 1, so ET offsets are -05:00 all month.
+
+## November — LinkedIn (Mon/Wed/Fri, 12 posts)
+
+No post Fri Nov 27 (day after Thanksgiving).
+
+| Date | Day | Pillar | Hook | Draft | Card | CTA |
+|---|---|---|---|---|---|---|
+| Nov 2 | Mon | HR Playbook | The enrollment window is the whole year | `oct-enrollment-window` (re-dated) | — | question |
+| Nov 4 | Wed | Business Case | "Let's revisit this in the new year." | `obj-13-new-year` (re-dated) | `card-13-new-year` | PILOT |
+| Nov 6 | Fri | Business Case | "You're a one-person company." | `obj-12-one-person` (re-dated) | `card-12-one-person` | — |
+| Nov 9 | Mon | Business Case | Burnout shows up on the renewal (63% / 23%) | `nov-sick-days` | `stat-05-sick-days` | question |
+| Nov 11 | Wed | Program Design | Veterans Day: Marine. Coach. Founder. | `marine-coach-founder` (re-dated) | — | soft |
+| Nov 13 | Fri | Program Design | The Pilot Sprint, line by line | `nov-pilot-sprint` | — | PILOT |
+| Nov 16 | Mon | Engagement Gap | "We'll do a step challenge in January." | `obj-16-january-challenge` | `card-16-january-challenge` | — |
+| Nov 18 | Wed | HR Playbook | Ask your vendor for month three | `nov-month-three` | — | DATA |
+| Nov 20 | Fri | Engagement Gap | Your managers are the wellness program | `nov-managers` | — | question |
+| Nov 23 | Mon | HR Playbook | Thanksgiving week: the two-line message | `nov-thanksgiving-week` | — | none |
+| Nov 25 | Wed | Engagement Gap | Plan for the December drop | `nov-december-dropoff` | — | question |
+| Nov 30 | Mon | Business Case | 31 days left: the case in three numbers | `nov-31-days` | — | PILOT |
+
+## November — Facebook + Instagram feed (Tue/Thu/Sat, 12 posts)
+
+| Date | Day | Hook | Draft | Card |
+|---|---|---|---|---|
+| Nov 3 | Tue | The clocks went back this weekend | `fb-oct-darker` (re-dated) | `quote-oct-daylight` |
+| Nov 5 | Thu | I answer my own messages | `fb-i-answer-my-own` (re-dated) | `quote-outsource-noticing` |
+| Nov 7 | Sat | "I'm fine" is usually a lie | `fb-oct-still-fine` (re-dated) | `quote-oct-im-fine` |
+| Nov 10 | Tue | Marine Corps birthday: Marine. Coach. Founder. | `fb-marine-coach-founder` (re-dated) | `quote-someone-checked` |
+| Nov 12 | Thu | Ten minutes on your worst day | `fb-oct-ten-minutes` (re-dated) | `quote-oct-worst-day` |
+| Nov 14 | Sat | No gym on the road | `fb-nov-hotel-room` | `quote-nov-hotel-room` |
+| Nov 17 | Tue | Tomorrow starts the hour before you sleep | `fb-nov-last-hour` | `quote-nov-last-hour` |
+| Nov 19 | Thu | Motivation is a terrible alarm clock | `fb-nov-alarm-clock` | `quote-nov-alarm-clock` |
+| Nov 21 | Sat | Ten minutes after the biggest meal | `fb-nov-walk-after` | `quote-nov-walk` |
+| Nov 24 | Tue | A short week is still a week | `fb-nov-short-week` | `quote-nov-short-week` |
+| Nov 26 | Thu | Thanksgiving: you don't earn the meal | `fb-nov-thanksgiving` | `quote-nov-earn-the-meal` |
+| Nov 28 | Sat | There's nothing to restart | `fb-nov-today` | `quote-nov-today` |
+
+Instagram Reels for November: `content/reels/schedule.md` (13, Sun/Wed/Fri).

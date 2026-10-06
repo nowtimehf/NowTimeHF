@@ -2,12 +2,14 @@
 topic: Marine. Coach. Founder.
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md — Facebook & Instagram)
-pairs-with: marine-coach-founder (LinkedIn, Sep 26)
-scheduled: 2026-09-26
+pairs-with: marine-coach-founder
+scheduled: 2026-11-10
 created: 2026-08-21
 status: draft
 card: content/visuals/quote-someone-checked.png
 ---
+
+Happy 251st birthday to the Marine Corps. 🇺🇸
 
 Marine Corps. Then the gym floor. Now this.
 

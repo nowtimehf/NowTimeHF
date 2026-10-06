@@ -3,7 +3,7 @@ topic: Ten minutes on your worst day
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md)
 pairs-with: standalone
-scheduled: 2026-10-06
+scheduled: 2026-11-12
 created: 2026-08-21
 status: draft
 card: content/visuals/quote-oct-worst-day.png

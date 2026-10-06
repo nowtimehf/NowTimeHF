@@ -2,7 +2,7 @@
 topic: Objection: you're a one-person company
 platform: LinkedIn
 pillar: The Business Case
-scheduled: 2026-09-25
+scheduled: 2026-11-06
 created: 2026-08-21
 status: draft
 card: content/visuals/card-12-one-person.png

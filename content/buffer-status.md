@@ -154,3 +154,10 @@ Channel: `loganfit.mike` (business), connected 2026-10-06. Reels live in
 **Instagram (10), 8:15 AM ET, Reel + shared to feed:** Oct 7, 9, 11, 14, 16, 18,
 21, 23, 25, 28. Still to queue: `12_Oct30_Fri_Correction.mp4` (Oct 30). November Reels include
 clients and other gyms' branding and are deliberately not hosted here.
+
+## Update — 2026-10-06 (later)
+
+November is loaded into the repo and ready for the weekly refill (Sundays 8:47 AM
+Bali): 12 LinkedIn, 12 Facebook, 13 Instagram Reels. See the November section of
+`calendar.md` and `content/reels/schedule.md`. The nine missed posts listed above
+are re-dated into Nov 2–12 — no longer skipped.

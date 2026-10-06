@@ -2,8 +2,8 @@
 topic: "I'm fine" is a complete sentence, and usually a lie
 platform: Facebook + Instagram
 voice: individual (see brand/brief.md)
-pairs-with: obj-13-new-year (LinkedIn, Oct 5)
-scheduled: 2026-10-03
+pairs-with: obj-13-new-year
+scheduled: 2026-11-07
 created: 2026-08-21
 status: draft
 card: content/visuals/quote-oct-im-fine.png

@@ -82,5 +82,14 @@
     "label": "THE ANSWER",
     "answer": "Turnover is the last symptom, not the first.",
     "alt": "Navy card, Objection 15. Question: Our turnover isn't that bad. Answer: Turnover is the last symptom, not the first."
+  },
+  {
+    "slug": "16-january-challenge",
+    "eyebrowLead": "OBJECTION 16",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“We’ll do a step challenge in January.”",
+    "label": "THE ANSWER",
+    "answer": "Then measure who never started, not who won.",
+    "alt": "Navy card, Objection 16. Question: We'll do a step challenge in January. Answer: Then measure who never started, not who won."
   }
 ]

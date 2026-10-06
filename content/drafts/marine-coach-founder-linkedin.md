@@ -2,10 +2,12 @@
 topic: Marine. Coach. Founder.
 platform: LinkedIn
 pillar: Program Design
-scheduled: 2026-09-28
+scheduled: 2026-11-11
 created: 2026-08-21
 status: draft
 ---
+
+Veterans Day. A good day to explain where this business actually came from.
 
 I spent 15 years coaching individuals before I understood why companies fail at this.
 
