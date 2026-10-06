@@ -19,6 +19,6 @@ Streaks aren't about perfectionism. They're just honest. You can talk yourself i
 
 Start counting. The first honest week is usually humbling and always useful.
 
-What's your current streak on anything? Be honest — I'll go first: 9 days.
+What's your current streak on anything? Be honest — I'll share mine in the comments.
 
 #Consistency #Accountability #HealthyHabits #NowTimeFitness

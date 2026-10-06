@@ -121,3 +121,34 @@ one of them should be updated.
 
 **Instagram is not connected.** The brief calls for three platforms; Buffer has
 two. The plan allows three channels, so there is room.
+
+---
+
+## Update — 2026-10-06
+
+Queue was empty since Oct 3. Reloaded to the free-plan cap (10 per channel).
+
+**LinkedIn (10), 9:15 AM ET:** Oct 7, 9, 12, 14, 16, 19, 21, 23, 26, 28.
+Still unqueued: `oct-year-end-honest-linkedin.md` (Oct 30) — queue once a slot frees.
+
+**Facebook (10), 7:30 PM ET weekdays / 10:30 AM ET Sat:** Oct 8, 10, 13, 15, 17, 20, 22, 24, 27, 29.
+
+Images now pinned to commit `c93939e`.
+
+**Skipped (dates passed, never posted):** `fb-i-answer-my-own`, `obj-12-one-person`,
+`fb-marine-coach-founder`, `marine-coach-founder-linkedin`, `fb-oct-darker`,
+`oct-enrollment-window`, `fb-oct-still-fine`, `obj-13-new-year`, `fb-oct-ten-minutes`.
+Sep 28–Oct 3 slots were filled by a separate week batch instead. These can be
+re-dated into November.
+
+**Note:** Objection cards 14 and 15 go out without 12 and 13 having posted.
+
+**Edit:** `fb-oct-one-number-social.md` — "I'll go first: 9 days" changed to
+"I'll share mine in the comments" so the post doesn't state a streak Mike hasn't confirmed.
+
+## Instagram Reels (pending connection)
+
+Reels live in `content/reels/` (October only — footage of Mike). Ten are staged
+for Oct 7–28 at 8:15 AM ET as Reels shared to feed. They load as soon as an
+Instagram Professional account is connected in Buffer. November Reels include
+clients and other gyms' branding and are deliberately not hosted here.
