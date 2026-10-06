@@ -146,9 +146,11 @@ re-dated into November.
 **Edit:** `fb-oct-one-number-social.md` — "I'll go first: 9 days" changed to
 "I'll share mine in the comments" so the post doesn't state a streak Mike hasn't confirmed.
 
-## Instagram Reels (pending connection)
+## Instagram Reels — scheduled
 
-Reels live in `content/reels/` (October only — footage of Mike). Ten are staged
-for Oct 7–28 at 8:15 AM ET as Reels shared to feed. They load as soon as an
-Instagram Professional account is connected in Buffer. November Reels include
+Channel: `loganfit.mike` (business), connected 2026-10-06. Reels live in
+`content/reels/` (October only — footage of Mike).
+
+**Instagram (10), 8:15 AM ET, Reel + shared to feed:** Oct 7, 9, 11, 14, 16, 18,
+21, 23, 25, 28. Still to queue: `12_Oct30_Fri_Correction.mp4` (Oct 30). November Reels include
 clients and other gyms' branding and are deliberately not hosted here.
