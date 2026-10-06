@@ -1,0 +1,55 @@
+<!doctype html><meta charset="utf-8"><style>
+  @font-face{font-family:Mont;src:url('fonts/m1.ttf');font-weight:500}
+  @font-face{font-family:Mont;src:url('fonts/m2.ttf');font-weight:600}
+  @font-face{font-family:Mont;src:url('fonts/m3.ttf');font-weight:700}
+  @font-face{font-family:Mont;src:url('fonts/m4.ttf');font-weight:800}
+  :root{
+    --navy:#0B1B3D; --wedge:#13264F; --gold:#DCA43B;
+    --white:#FFFFFF; --slate:#9AA3B2; --margin:90px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  .inner > *{flex:0 0 auto}
+  html,body{width:1080px;height:1080px}
+  body{background:var(--navy);font-family:Mont,'Liberation Sans',sans-serif;
+       position:relative;overflow:hidden}
+  .wedge{position:absolute;top:0;right:0;width:520px;height:520px;
+         background:var(--wedge);clip-path:polygon(100% 0,100% 100%,0 0);opacity:.85}
+  .inner{position:relative;height:100%;padding:0 var(--margin);
+         display:flex;flex-direction:column}
+  .footer .hr{height:2px;background:var(--slate);opacity:.45;margin-bottom:30px}
+  .footer .co{font-weight:700;letter-spacing:.045em;color:var(--white)}
+  .footer .cred{font-weight:500;letter-spacing:.035em;color:var(--slate)}
+
+  .tick{width:120px;height:9px;background:var(--gold);margin-top:84px}
+  .eyebrow{margin-top:32px;font-weight:600;font-size:21px;letter-spacing:.30em;
+           color:var(--slate);white-space:nowrap}
+  .eyebrow .sep{padding:0 .35em}
+  .question{margin-top:58px;font-weight:800;font-size:66px;line-height:1.15;
+            color:var(--white);letter-spacing:-.015em}
+  .divider{display:flex;align-items:center;gap:26px;margin-top:52px}
+  .divider .rule{flex:1;height:2px;background:var(--slate);opacity:.55}
+  .label{margin-top:38px;font-weight:600;font-size:21px;letter-spacing:.30em;color:var(--gold)}
+  .answer{margin-top:18px;font-weight:700;font-size:50px;line-height:1.2;
+          color:var(--gold);letter-spacing:-.005em}
+  .footer{margin-top:auto;padding-bottom:74px}
+  .footer .co{font-size:31px}
+  .footer .cred{margin-top:12px;font-size:24px}
+</style>
+<div class="wedge"></div>
+<div class="inner">
+  <div class="tick"></div>
+  <div class="eyebrow"><span class="lead">OBJECTION 11</span><span class="sep">/</span>WHAT HR DIRECTORS ASK</div>
+  <div class="question">“Leadership won’t sign off on this.”</div>
+  <div class="divider">
+  <svg width="118" height="62" viewBox="0 0 118 62" style="flex:0 0 auto" fill="none">
+    <path d="M0 24 L59 0 L118 24 L118 40 L59 16 L0 40 Z" fill="#DCA43B"/>
+    <path d="M0 46 L59 22 L118 46 L118 62 L59 38 L0 62 Z" fill="#DCA43B"/>
+  </svg><div class="rule"></div></div>
+  <div class="label">THE ANSWER</div>
+  <div class="answer">Leadership doesn’t buy wellness. They buy the report.</div>
+  <div class="footer">
+    <div class="hr"></div>
+    <div class="co">NOW TIME HEALTH + FITNESS</div>
+    <div class="cred">USMC Veteran-Owned &nbsp;·&nbsp; SDVOSB Certified &nbsp;·&nbsp; nowtimehf.com</div>
+  </div>
+</div>
