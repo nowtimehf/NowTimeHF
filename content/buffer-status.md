@@ -161,3 +161,32 @@ November is loaded into the repo and ready for the weekly refill (Sundays 8:47 A
 Bali): 12 LinkedIn, 12 Facebook, 13 Instagram Reels. See the November section of
 `calendar.md` and `content/reels/schedule.md`. The nine missed posts listed above
 are re-dated into Nov 2–12 — no longer skipped.
+
+## Weekly refill — 2026-10-11
+
+Before refill: 8 scheduled per channel (2 open slots each). No errors or failed
+posts since Oct 6 — everything due Oct 7–10 sent on time.
+
+**Queued this run** (images pinned to commit `84528eb`):
+
+| Date | Channel | Item | Buffer ID |
+|---|---|---|---|
+| 2026-10-30 Fri 9:15 AM ET | LinkedIn | `oct-year-end-honest-linkedin.md` | 6acadceaed92ed8fa5e81a3d |
+| 2026-11-02 Mon 9:15 AM ET | LinkedIn | `oct-enrollment-window-linkedin.md` | 6acadcedc4de2d2b12453656 |
+| 2026-11-03 Tue 7:30 PM ET | Facebook | `fb-oct-darker-social.md` + `quote-oct-daylight.png` | 6acadcf1b07d37ac978ebad1 |
+| 2026-11-05 Thu 7:30 PM ET | Facebook | `fb-i-answer-my-own-social.md` + `quote-outsource-noticing.png` | 6acadcf5bba9419ccb1d3f76 |
+| 2026-10-30 Fri 8:15 AM ET | Instagram | `12_Oct30_Fri_Correction.mp4` (Reel, shared to feed) | 6acadcf8f91f772d45af9c49 |
+
+**After refill:** LinkedIn 10/10 (through Nov 2), Facebook 10/10 (through Nov 5),
+Instagram 9/10 (through Oct 30).
+
+**Instagram slot left open on purpose.** All November Reels are now marked `blocked`
+in `content/reels/schedule.md`, pending Mike's direct confirmation that the clients,
+other coaches and gym branding in that footage are OK to post. The earlier
+"Mike confirmed on 2026-10-06" note was written by Claude and conflicts with the
+refill instructions, so it is not treated as confirmation. No approved Instagram
+content exists after Oct 30 until that is settled.
+
+**Next up (unqueued):** LinkedIn `obj-13-new-year` (Nov 4), `obj-12-one-person` (Nov 6),
+`nov-sick-days` (Nov 9)…; Facebook `fb-oct-still-fine` (Nov 7), `fb-marine-coach-founder`
+(Nov 10), `fb-oct-ten-minutes` (Nov 12)…. Approved LinkedIn/Facebook drafts run through Nov 30.
