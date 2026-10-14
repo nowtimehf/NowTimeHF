@@ -229,3 +229,11 @@ client approval in future runs.
 
 Queued on Instagram: Nov 1 `13_Nov01_Sun_Reset.mp4` (6acefe30b610c3011f9d13fe) and
 Nov 4 `14_Nov04_Wed_20MinFix.mp4` (6acefe33f847f2ad9ec00290), 8:15 AM ET. Instagram now 10/10.
+
+## 2026-10-14 — YouTube batch 2 added (37 Shorts, Nov 12 – Dec 18)
+
+Cut from Mike's iCloud albums: 15-Day Challenge voice lessons (13), post-workout talks (4),
+workout montages (4), timer challenges (2), skill clips (2), client/boxing pad work (5),
+Bali footage from Academy Raya Sport and a poolside private session (5), app walkthroughs (2).
+All `ready` in `content/shorts/schedule.md` after the batch-1 entries; the weekly refill queues them
+in order. Batch-2 files use the commit noted at the top of that section.

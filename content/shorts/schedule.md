@@ -385,7 +385,9 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Do you warm up or skip it?
 
-## Batch 2 (added 2026-10-14): 32 Shorts from the iCloud albums
+## Batch 2 (added 2026-10-14): 37 Shorts from the iCloud albums
+
+Batch 2 video URL: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/e6d5f578d4d77fe2319656b0d70143842f09b0b1/content/shorts/<file>  (use this commit for every batch-2 file below; batch 1 files use the commit in the header).
 
 ## 2026-11-12 — ready — 30_11-12_V01_chair_dips.mp4
 
