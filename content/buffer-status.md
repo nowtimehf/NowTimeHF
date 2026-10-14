@@ -190,3 +190,31 @@ content exists after Oct 30 until that is settled.
 **Next up (unqueued):** LinkedIn `obj-13-new-year` (Nov 4), `obj-12-one-person` (Nov 6),
 `nov-sick-days` (Nov 9)…; Facebook `fb-oct-still-fine` (Nov 7), `fb-marine-coach-founder`
 (Nov 10), `fb-oct-ten-minutes` (Nov 12)…. Approved LinkedIn/Facebook drafts run through Nov 30.
+
+## 2026-10-14 — YouTube Shorts added, Facebook removed from Buffer
+
+Mike disconnected the Facebook page from Buffer to free a slot (free plan, 3 channels) and
+connected YouTube: `Now Time Health+Fitness | Coach Mike Logan`, channel 6acef718778b240e2f0213d8.
+Facebook posts that were queued in Buffer left with the channel. Facebook drafts in
+`content/drafts/fb-*` are no longer queued anywhere; Reels can reach the page through
+Instagram's own share-to-Facebook setting.
+
+Queued 10 YouTube Shorts, 12:00 PM ET daily, Oct 14 to Oct 23. Source of truth:
+`content/shorts/schedule.md`. All 10 are Shorts of Mike alone (October footage).
+Shorts cut from November footage are marked `blocked`, the same hold as the November Reels.
+
+| Date (ET) | Short | Buffer post ID |
+|---|---|---|
+| Oct 14 | 11_10-24_S12 How to Punch Harder | 6acef9380d20fd15277a945c |
+| Oct 15 | 02_10-15_S03 Your Jab Isn't the Problem | 6acef7f6f847f2ad9ebf40ef |
+| Oct 16 | 12_10-25_S04 Wake Up Your Glutes | 6acef93b0d20fd15277a949c |
+| Oct 17 | 04_10-17_S07 Stop Swinging Your Curls | 6acef7fc848c31c8095a590a |
+| Oct 18 | 05_10-18_S01 Upper Back Reset | 6acef7ff1f3f10bcb7adee21 |
+| Oct 19 | 13_10-26_S08 Boxing Cardio Workout | 6acef93ef847f2ad9ebf6e28 |
+| Oct 20 | 07_10-20_S10 This Is Where You Get Hit | 6acef805848c31c8095a5ab1 |
+| Oct 21 | 08_10-21_S02 No Gym? 4-Move Home Workout | 6acef80833507eb5b0ecbe35 |
+| Oct 22 | 09_10-22_S06 Squat vs Hinge | 6acef80b848c31c8095a5b96 |
+| Oct 23 | 14_10-27_S09 Lunges Feel Wrong? | 6acef94033507eb5b0ecdeaa |
+
+Next ready: S05 (Oct 24), S11 (Oct 25). After that, YouTube has no approved Shorts
+until Mike clears the November footage.
