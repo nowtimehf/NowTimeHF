@@ -384,3 +384,486 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 #warmup #boxing #boxingworkout
 
 Pinned comment: Do you warm up or skip it?
+
+## Batch 2 (added 2026-10-14): 32 Shorts from the iCloud albums
+
+## 2026-11-12 — ready — 30_11-12_V01_chair_dips.mp4
+
+Buffer dueAt: 2026-11-13T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Chair Dips Hurting Your Shoulders? Fix This
+Description:
+
+Slide off the chair and stay close. Too far away puts the pressure on your shoulders.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#chairdips #homeworkout #triceps
+
+Pinned comment: Do chair dips bother your shoulders?
+
+## 2026-11-13 — ready — 31_11-13_T1_breathing.mp4
+
+Buffer dueAt: 2026-11-14T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Do This After Every Workout (4x4 Breathing)
+Description:
+
+Four seconds in, four seconds out. Close your eyes and take in what you just did.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#breathwork #recovery #mindset
+
+Pinned comment: Do you cool down or just leave?
+
+## 2026-11-14 — ready — 32_11-14_Z01_double_end.mp4
+
+Buffer dueAt: 2026-11-15T01:00:00+08:00
+Playlist: On the Pads
+Title: This Bag Hits Back (Double-End Bag)
+Description:
+
+The double-end bag teaches timing and rhythm. Miss the return and it finds you.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#boxing #doubleendbag #boxingtraining
+
+Pinned comment: Ever tried a double-end bag?
+
+## 2026-11-15 — ready — 33_11-15_M01_leg_day.mp4
+
+Buffer dueAt: 2026-11-16T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Leg Day. No Gym. 5 Moves.
+Description:
+
+Squat jumps, side lunges, split squats, glute bridges, calf raises.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#legday #homeworkout #noequipment
+
+Pinned comment: Which move hits hardest for you?
+
+## 2026-11-16 — ready — 34_11-16_V07_jab_cross.mp4
+
+Buffer dueAt: 2026-11-17T01:00:00+08:00
+Playlist: Coach's Correction
+Title: How to Throw a 1-2 (Jab Cross)
+Description:
+
+Right-handed? Right side back. Every jab-cross counts as one.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#boxingtips #boxing #jabcross
+
+Pinned comment: Orthodox or southpaw?
+
+## 2026-11-17 — ready — 35_11-17_C06_plank_45.mp4
+
+Buffer dueAt: 2026-11-18T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: 45-Second Plank Challenge (Do It With Me)
+Description:
+
+Squeeze the glutes, squeeze the core, don't let the hips drop.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#plankchallenge #core #homeworkout
+
+Pinned comment: Did you make it to 0:00? Comment DONE.
+
+## 2026-11-18 — ready — 36_11-18_B10_client_pads.mp4
+
+Buffer dueAt: 2026-11-19T01:00:00+08:00
+Playlist: On the Pads
+Title: Round One. Let's Work. (Pad Work)
+Description:
+
+Real rounds, real coaching. Hands up when you're tired.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#padwork #boxing #boxingcoach
+
+Pinned comment: How many rounds could you go?
+
+## 2026-11-19 — ready — 37_11-19_V05_squat_fix.mp4
+
+Buffer dueAt: 2026-11-20T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Fix Your Squat in 10 Seconds
+Description:
+
+Hips out, back and down. Chest up. Toes out a little is fine.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#squat #formcheck #legday
+
+Pinned comment: What's your biggest squat struggle?
+
+## 2026-11-20 — ready — 38_11-20_Z02_ring_pads.mp4
+
+Buffer dueAt: 2026-11-21T01:00:00+08:00
+Playlist: On the Pads
+Title: Pad Work in Bali
+Description:
+
+Real rounds, real coaching, in the ring at Academy Raya Sport, Bali.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#boxingbali #padwork #boxing
+
+Pinned comment: Would you train boxing on vacation?
+
+## 2026-11-21 — ready — 39_11-21_T2_questions.mp4
+
+Buffer dueAt: 2026-11-22T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Ask Yourself This After Every Workout
+Description:
+
+Did you finish? Get more reps? Learn something about yourself?
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#mindset #fitnessmotivation #consistency
+
+Pinned comment: Which question hits home for you?
+
+## 2026-11-22 — ready — 40_11-22_M03_abs_4_moves.mp4
+
+Buffer dueAt: 2026-11-23T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Abs in 4 Moves (No Equipment)
+Description:
+
+Bicycles, book hold, leg raises, elbow plank.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#abs #coreworkout #homeworkout
+
+Pinned comment: Which one burns the most?
+
+## 2026-11-23 — ready — 41_11-23_N07_handstand.mp4
+
+Buffer dueAt: 2026-11-24T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Can You Do This? (Wall Kick-Ups)
+Description:
+
+Hands under shoulders, kick light, build up slowly.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#handstand #calisthenics #bodyweight
+
+Pinned comment: Can you hold a handstand yet?
+
+## 2026-11-24 — ready — 42_11-24_V02_hand_release.mp4
+
+Buffer dueAt: 2026-11-25T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: The Push-Up That Builds Power
+Description:
+
+Hand-release push-ups: chest to the floor, release, push and explode up.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#pushups #homeworkout #calisthenics
+
+Pinned comment: How many can you do in a row?
+
+## 2026-11-25 — ready — 43_11-25_M04_hip_mobility.mp4
+
+Buffer dueAt: 2026-11-26T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Tight Hips? 4 Mobility Moves
+Description:
+
+Hip flexor stretch, seated 90-90, 90-90 switches, lying twist.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#hipmobility #mobility #stretching
+
+Pinned comment: Where do you feel it most?
+
+## 2026-11-26 — ready — 44_11-26_Z03_poolside.mp4
+
+Buffer dueAt: 2026-11-27T01:00:00+08:00
+Playlist: On the Pads
+Title: Private Boxing Session, Poolside
+Description:
+
+One coach, one client, full attention. Pads, gloves and a little floor space.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#privatetraining #boxing #bali
+
+Pinned comment: Gym or private session?
+
+## 2026-11-27 — ready — 45_11-27_B09_coaching_pads.mp4
+
+Buffer dueAt: 2026-11-28T01:00:00+08:00
+Playlist: On the Pads
+Title: Coaching on the Pads
+Description:
+
+Hands up, move your feet, finish the round.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#boxingcoach #padwork #boxing
+
+Pinned comment: Ever trained on the pads?
+
+## 2026-11-28 — ready — 46_11-28_V04_split_squat.mp4
+
+Buffer dueAt: 2026-11-29T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Split Squats: Watch the Back Leg
+Description:
+
+The work is on the back leg. Drop it straight down and up.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#splitsquat #legday #formcheck
+
+Pinned comment: Do split squats humble you too?
+
+## 2026-11-29 — ready — 47_11-29_C05_wall_sit_30.mp4
+
+Buffer dueAt: 2026-11-30T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: 30-Second Wall Sit Challenge
+Description:
+
+Thighs parallel, back flat on the wall. Don't stand up.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#wallsit #legday #challenge
+
+Pinned comment: Did you make it? Comment DONE.
+
+## 2026-11-30 — ready — 48_11-30_T3_three_three.mp4
+
+Buffer dueAt: 2026-12-01T01:00:00+08:00
+Playlist: Sunday Reset
+Title: The 3 + 3 Rule After Every Session
+Description:
+
+Three things you did great, three things to improve. Powerful statements only.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#mindset #consistency #fitnessmotivation
+
+Pinned comment: What's one thing you did great today?
+
+## 2026-12-01 — ready — 49_12-01_V03_pike_pushup.mp4
+
+Buffer dueAt: 2026-12-02T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Shoulders With No Weights (Pike Push-Ups)
+Description:
+
+Teepee position, head between your hands, elbows tight.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#shoulders #calisthenics #homeworkout
+
+Pinned comment: Can you do 10 in a row?
+
+## 2026-12-02 — ready — 50_12-02_Z04_bag_coaching.mp4
+
+Buffer dueAt: 2026-12-03T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Coaching on the Heavy Bag
+Description:
+
+Punch through the bag, not at it. Short exhale on every punch.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#heavybag #boxingcoach #boxing
+
+Pinned comment: How many rounds can you go on the bag?
+
+## 2026-12-03 — ready — 51_12-03_M02_chair_upper.mp4
+
+Buffer dueAt: 2026-12-04T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Upper Body With Just a Chair
+Description:
+
+Chair dips, push-ups, shoulder taps, pike push-ups.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#homeworkout #upperbody #bodyweight
+
+Pinned comment: What's in your living room gym?
+
+## 2026-12-04 — ready — 52_12-04_V08_burpee.mp4
+
+Buffer dueAt: 2026-12-05T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Your Burpee Is Wrong (Do This)
+Description:
+
+Hands flat, legs out, hit the push-up, knees in, explode up.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#burpees #formcheck #hiit
+
+Pinned comment: Love them or hate them?
+
+## 2026-12-05 — ready — 53_12-05_B11_wall_pad.mp4
+
+Buffer dueAt: 2026-12-06T01:00:00+08:00
+Playlist: On the Pads
+Title: No Partner? No Problem. (Wall Pad Drills)
+Description:
+
+Strap a pad to a post and work. Hands back to the face after every punch.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#boxingworkout #boxing #homeworkout
+
+Pinned comment: Would you try this at home?
+
+## 2026-12-06 — ready — 54_12-06_N08_90_90.mp4
+
+Buffer dueAt: 2026-12-07T01:00:00+08:00
+Playlist: Sunday Reset
+Title: 90-90 Hip Flow
+Description:
+
+Both knees at 90 degrees. Rotate slow, switch sides without your hands.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#9090 #hipmobility #mobility
+
+Pinned comment: Can you switch without your hands?
+
+## 2026-12-07 — ready — 55_12-07_V06_plank.mp4
+
+Buffer dueAt: 2026-12-08T01:00:00+08:00
+Playlist: Coach's Correction
+Title: The Easiest Way Into a Plank
+Description:
+
+Lie flat, arms under you, walk the feet in and lift. Glutes tight.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#plank #core #beginnerworkout
+
+Pinned comment: How long can you hold it?
+
+## 2026-12-08 — ready — 56_12-08_Z05_heavy_bag.mp4
+
+Buffer dueAt: 2026-12-09T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Heavy Bag Basics
+Description:
+
+Stay in range and move after you punch. Don't stand still in front of the bag.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#heavybag #boxingtips #boxing
+
+Pinned comment: What's your go-to bag combo?
+
+## 2026-12-09 — ready — 57_12-09_A14_app_inside.mp4
+
+Buffer dueAt: 2026-12-10T01:00:00+08:00
+Playlist: (none)
+Title: Inside My Coaching App
+Description:
+
+Workouts, habits and coaching from me in one place. Link on my channel.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#fitnessapp #onlinecoaching #nowtimefitness
+
+Pinned comment: What would you want in a fitness app?
+
+## 2026-12-10 — ready — 58_12-10_T4_marathon.mp4
+
+Buffer dueAt: 2026-12-11T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Fitness Is a Marathon, Not a Sprint
+Description:
+
+You're accomplishing your goals one day, one workout at a time. That's all it takes.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#mindset #consistency #fitnessmotivation
+
+Pinned comment: What are you working toward right now?
+
+## 2026-12-11 — ready — 59_12-11_V09_pulse_pushup.mp4
+
+Buffer dueAt: 2026-12-12T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: 3-Pulse Push-Ups
+Description:
+
+Stay in the top half. Pulse one, two, three, and come up.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#pushups #chest #homeworkout
+
+Pinned comment: Try 10 and tell me how it went.
+
+## 2026-12-12 — ready — 60_12-12_B12_garage_pads.mp4
+
+Buffer dueAt: 2026-12-13T01:00:00+08:00
+Playlist: On the Pads
+Title: Garage Pad Work
+Description:
+
+Snap it out, snap it back. Short exhale on every punch.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#padwork #boxing #boxingtraining
+
+Pinned comment: Garage gym or real gym?
+
+## 2026-12-13 — ready — 61_12-13_V12_neck.mp4
+
+Buffer dueAt: 2026-12-14T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Stiff Neck? Do This Daily
+Description:
+
+Up and down, side to side, ear to shoulder, big circles. Five each.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#neckpain #mobility #deskjob
+
+Pinned comment: Desk job neck?
+
+## 2026-12-14 — ready — 62_12-14_V10_plank_wallsit.mp4
+
+Buffer dueAt: 2026-12-15T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Squeeze Everything (Plank and Wall Sit Cues)
+Description:
+
+Lock in, squeeze the glutes and core, don't let the hips drop.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#plank #wallsit #core
+
+Pinned comment: Plank or wall sit, which is harder?
+
+## 2026-12-15 — ready — 63_12-15_A15_app_nutrition.mp4
+
+Buffer dueAt: 2026-12-16T01:00:00+08:00
+Playlist: (none)
+Title: Your Meal Plan. Done for You.
+Description:
+
+Meals, macros and a shopping list built into the Now Time app. Link on my channel.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#mealplan #nutrition #onlinecoaching
+
+Pinned comment: Do you meal prep?
+
+## 2026-12-16 — ready — 64_12-16_V11_flow.mp4
+
+Buffer dueAt: 2026-12-17T01:00:00+08:00
+Playlist: Sunday Reset
+Title: 5-Move Morning Mobility Flow
+Description:
+
+Knee drive, knee pull, toy soldiers, lunge and twist, toe touch.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#mobility #morningroutine #stretching
+
+Pinned comment: Morning or night mobility?
+
+## 2026-12-17 — ready — 65_12-17_B13_street_pads.mp4
+
+Buffer dueAt: 2026-12-18T01:00:00+08:00
+Playlist: On the Pads
+Title: Pads on the Street
+Description:
+
+No gym needed. Pads, a partner and a sidewalk.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#padwork #boxing #streetworkout
+
+Pinned comment: Where's the weirdest place you've trained?
+
+## 2026-12-18 — ready — 66_12-18_V13_core_book.mp4
+
+Buffer dueAt: 2026-12-19T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: The Book Hold (Core Killer)
+Description:
+
+Chest up, feet off the ground, balance on your seat and hold.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#core #abs #homeworkout
+
+Pinned comment: How long did you last?
