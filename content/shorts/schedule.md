@@ -4,7 +4,7 @@ Channel: Buffer YouTube `Now Time Health+Fitness | Coach Mike Logan` (6acef71877
 Post time: 12:00 PM ET daily. Buffer dueAt (account time is Bali, +08:00) = 00:00 the NEXT day through Oct 31 (EDT), 01:00 the next day from Nov 1 (EST).
 Post settings: create_post with schedulingType automatic, mode customScheduled, text = Description, one video asset, metadata.youtube {title, categoryId "17", madeForKids false, privacy public}.
 Video URL: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/f4ca093c4571169a46235cc4757669e4a39b4586/content/shorts/<file>
-Status: `scheduled` = in Buffer. `ready` = queue when a slot frees (free plan: 10 per channel). `blocked` = NEVER queue until Mike confirms in his own words that the November footage (clients, other coaches, gym branding) is OK to post. Same hold as the November Reels in content/reels/schedule.md.
+Status: `scheduled` = in Buffer. `ready` = queue when a slot frees (free plan: 10 per channel). All footage cleared by Mike on 2026-10-14 (old content he is repurposing; he asked not to be stopped for approvals on his content going forward).
 If an entry's date has passed when its turn comes, give it the next open day instead (keep the order).
 Pinned comments are for Mike to post by hand (Buffer can't pin YouTube comments).
 
@@ -164,7 +164,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Which move would you do first?
 
-## 2026-10-26 — blocked — 01_10-14_X2_round5.mp4
+## 2026-10-26 — ready — 01_10-14_X2_round5.mp4
 
 Buffer dueAt: 2026-10-27T00:00:00+08:00
 Playlist: On the Pads
@@ -177,7 +177,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Which round breaks you? 1, 3 or 5?
 
-## 2026-10-27 — blocked — 03_10-16_X4_20sec_burnout.mp4
+## 2026-10-27 — ready — 03_10-16_X4_20sec_burnout.mp4
 
 Buffer dueAt: 2026-10-28T00:00:00+08:00
 Playlist: On the Pads
@@ -190,7 +190,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Did you make it to 0:00? Comment DONE.
 
-## 2026-10-28 — blocked — 06_10-19_X1_pads_round.mp4
+## 2026-10-28 — ready — 06_10-19_X1_pads_round.mp4
 
 Buffer dueAt: 2026-10-29T00:00:00+08:00
 Playlist: On the Pads
@@ -203,7 +203,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Could you go one more round?
 
-## 2026-10-29 — blocked — 15_10-28_S15.mp4
+## 2026-10-29 — ready — 15_10-28_S15.mp4
 
 Buffer dueAt: 2026-10-30T00:00:00+08:00
 Playlist: Coach's Correction
@@ -216,7 +216,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Ever caught yourself chin-up on the pads?
 
-## 2026-10-30 — blocked — 16_10-29_S16.mp4
+## 2026-10-30 — ready — 16_10-29_S16.mp4
 
 Buffer dueAt: 2026-10-31T00:00:00+08:00
 Playlist: Sunday Reset
@@ -229,7 +229,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Save this for tonight. Does your low back get tight?
 
-## 2026-10-31 — blocked — 10_10-23_X3_coach_or_fighter.mp4
+## 2026-10-31 — ready — 10_10-23_X3_coach_or_fighter.mp4
 
 Buffer dueAt: 2026-11-01T00:00:00+08:00
 Playlist: On the Pads
@@ -242,7 +242,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Coach or fighter? Comment below.
 
-## 2026-11-01 — blocked — 18_10-31_S18.mp4
+## 2026-11-01 — ready — 18_10-31_S18.mp4
 
 Buffer dueAt: 2026-11-02T01:00:00+08:00
 Playlist: Coach's Correction
@@ -255,7 +255,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Fast out or faster back: which is harder for you?
 
-## 2026-11-02 — blocked — 19_11-01_S17.mp4
+## 2026-11-02 — ready — 19_11-01_S17.mp4
 
 Buffer dueAt: 2026-11-03T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -268,7 +268,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Would you try this tonight? Comment DONE after.
 
-## 2026-11-03 — blocked — 20_11-02_S19.mp4
+## 2026-11-03 — ready — 20_11-02_S19.mp4
 
 Buffer dueAt: 2026-11-04T01:00:00+08:00
 Playlist: Sunday Reset
@@ -281,7 +281,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Where do you feel this one?
 
-## 2026-11-04 — blocked — 22_11-04_S21.mp4
+## 2026-11-04 — ready — 22_11-04_S21.mp4
 
 Buffer dueAt: 2026-11-05T01:00:00+08:00
 Playlist: On the Pads
@@ -294,7 +294,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Tag your accountability partner.
 
-## 2026-11-05 — blocked — 23_11-05_S13.mp4
+## 2026-11-05 — ready — 23_11-05_S13.mp4
 
 Buffer dueAt: 2026-11-06T01:00:00+08:00
 Playlist: Sunday Reset
@@ -307,7 +307,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Do it right now, then comment DONE.
 
-## 2026-11-06 — blocked — 24_11-06_S14.mp4
+## 2026-11-06 — ready — 24_11-06_S14.mp4
 
 Buffer dueAt: 2026-11-07T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -320,7 +320,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Shoulders burning yet?
 
-## 2026-11-07 — blocked — 25_11-07_S20.mp4
+## 2026-11-07 — ready — 25_11-07_S20.mp4
 
 Buffer dueAt: 2026-11-08T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -333,7 +333,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Tag the person you're doing this with.
 
-## 2026-11-08 — blocked — 26_11-08_S22.mp4
+## 2026-11-08 — ready — 26_11-08_S22.mp4
 
 Buffer dueAt: 2026-11-09T01:00:00+08:00
 Playlist: Sunday Reset
@@ -346,7 +346,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Can you touch your toes?
 
-## 2026-11-09 — blocked — 27_11-09_S23.mp4
+## 2026-11-09 — ready — 27_11-09_S23.mp4
 
 Buffer dueAt: 2026-11-10T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -359,7 +359,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Comment PADS if you'd try it.
 
-## 2026-11-10 — blocked — 28_11-10_S24.mp4
+## 2026-11-10 — ready — 28_11-10_S24.mp4
 
 Buffer dueAt: 2026-11-11T01:00:00+08:00
 Playlist: On the Pads
@@ -372,7 +372,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Agree or disagree?
 
-## 2026-11-11 — blocked — 29_11-11_S25.mp4
+## 2026-11-11 — ready — 29_11-11_S25.mp4
 
 Buffer dueAt: 2026-11-12T01:00:00+08:00
 Playlist: Sunday Reset

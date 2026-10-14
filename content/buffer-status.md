@@ -218,3 +218,14 @@ Shorts cut from November footage are marked `blocked`, the same hold as the Nove
 
 Next ready: S05 (Oct 24), S11 (Oct 25). After that, YouTube has no approved Shorts
 until Mike clears the November footage.
+
+## 2026-10-14 — November footage cleared
+
+Mike, in his own words: "Everything is approved with all of the videos. They are old videos
+that I am repurposing for content so they were used years ago so they are technically already
+approved and online. Do not stop me for this on any of my content going forward."
+All November Reels and all Shorts are now `ready`. Do not hold Mike's content for footage or
+client approval in future runs.
+
+Queued on Instagram: Nov 1 `13_Nov01_Sun_Reset.mp4` (6acefe30b610c3011f9d13fe) and
+Nov 4 `14_Nov04_Wed_20MinFix.mp4` (6acefe33f847f2ad9ec00290), 8:15 AM ET. Instagram now 10/10.

@@ -4,13 +4,10 @@ Post time: 8:15 AM ET (-04:00 through Oct 31, -05:00 from Nov 1), Instagram Reel
 share to feed = true. Channel: `loganfit.mike`.
 Video URL pattern: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/<commit>/content/reels/<file>
 Status: `scheduled` = already in Buffer. `ready` = queue when a slot frees.
-`blocked` = do not queue or upload until Mike confirms directly.
-
-**November Reels are `blocked`.** This file previously said Mike confirmed on
-2026-10-06 that the November footage (clients, other coaches, gym branding) was
-cleared. That line was written by Claude, and the weekly-refill instructions say the
-November Reels are still blocked pending Mike's confirmation that the clients are OK
-to post. Until Mike confirms directly, they stay `blocked` (changed 2026-10-11).
+**Cleared 2026-10-14.** Mike confirmed in his own words that all footage is approved:
+"Everything is approved with all of the videos. They are old videos that I am repurposing
+for content... Do not stop me for this on any of my content going forward."
+All November Reels are `ready`.
 
 ## Oct 7–30 — scheduled — files 02 through 12
 
@@ -26,7 +23,7 @@ Follow for a new correction every Friday.
 
 #BoxingTips #PunchingPower #NowTimeFitness
 
-## Nov 1 — blocked — 13_Nov01_Sun_Reset.mp4
+## Nov 1 — scheduled — 13_Nov01_Sun_Reset.mp4
 
 Stiff from the week? You don't need a mat or a class.
 
@@ -36,7 +33,7 @@ Stand up. Side bend each way, reach long, breathe out as you lean. Then arms ove
 
 #Mobility #SundayReset #NowTimeFitness
 
-## Nov 4 — blocked — 14_Nov04_Wed_20MinFix.mp4
+## Nov 4 — scheduled — 14_Nov04_Wed_20MinFix.mp4
 
 Grab the lightest dumbbells you own and shadowbox.
 
@@ -46,7 +43,7 @@ Your shoulders will feel it by round three. Comment DONE when you finish.
 
 #BoxingWorkout #HomeWorkout #NowTimeFitness
 
-## Nov 6 — blocked — 15_Nov06_Fri_Correction.mp4
+## Nov 6 — ready — 15_Nov06_Fri_Correction.mp4
 
 The first thing I fix on the pads: the chin.
 
@@ -58,7 +55,7 @@ Follow for a new correction every Friday.
 
 #BoxingTips #PadWork #NowTimeFitness
 
-## Nov 8 — blocked — 16_Nov08_Sun_Reset.mp4
+## Nov 8 — ready — 16_Nov08_Sun_Reset.mp4
 
 Low back tight after a long week? Try this tonight.
 
@@ -68,7 +65,7 @@ Lie on your back. Bring one knee across your body. Arms out wide, shoulders stay
 
 #LowBackPain #Stretching #NowTimeFitness
 
-## Nov 11 — blocked — 17_Nov11_Wed_20MinFix.mp4
+## Nov 11 — ready — 17_Nov11_Wed_20MinFix.mp4
 
 Kickboxing in your living room. No bag, no partner.
 
@@ -78,7 +75,7 @@ Punch, move, then mix in knees and kicks. Drive from the hip, and keep the hands
 
 #Kickboxing #HomeWorkout #NowTimeFitness
 
-## Nov 13 — blocked — 18_Nov13_Fri_Correction.mp4
+## Nov 13 — ready — 18_Nov13_Fri_Correction.mp4
 
 If your punches feel sloppy, look at what happens after they land.
 
@@ -88,7 +85,7 @@ Fast out. Faster back. That's where the crispness comes from.
 
 #BoxingTips #PadWork #NowTimeFitness
 
-## Nov 15 — blocked — 19_Nov15_Sun_Reset.mp4
+## Nov 15 — ready — 19_Nov15_Sun_Reset.mp4
 
 Tight hips from sitting all week? This one gets deep.
 
@@ -98,7 +95,7 @@ On your back, ankle over the opposite knee, then pull the bottom leg in. You'll 
 
 #HipMobility #Stretching #NowTimeFitness
 
-## Nov 18 — blocked — 20_Nov18_Wed_20MinFix.mp4
+## Nov 18 — ready — 20_Nov18_Wed_20MinFix.mp4
 
 The workout you won't skip is the one somebody's waiting on you for.
 
@@ -108,7 +105,7 @@ Tag the person you're doing this with. 👇
 
 #PartnerWorkout #Boxing #NowTimeFitness
 
-## Nov 20 — blocked — 21_Nov20_Fri_OnThePads.mp4
+## Nov 20 — ready — 21_Nov20_Fri_OnThePads.mp4
 
 Class night.
 
@@ -120,7 +117,7 @@ Who's your accountability partner? Tag them.
 
 #BoxingClass #Accountability #NowTimeFitness
 
-## Nov 22 — blocked — 22_Nov22_Sun_Reset.mp4
+## Nov 22 — ready — 22_Nov22_Sun_Reset.mp4
 
 Sit on the floor for 5 minutes. Your hips will thank you Monday.
 
@@ -130,7 +127,7 @@ Save this for tonight. 🔖
 
 #Mobility #FlexibilityTraining #NowTimeFitness
 
-## Nov 25 — blocked — 23_Nov25_Wed_20MinFix.mp4
+## Nov 25 — ready — 23_Nov25_Wed_20MinFix.mp4
 
 If the treadmill bores you, hit pads instead.
 
@@ -140,7 +137,7 @@ Hardest 20 minutes of your week, and it doesn't feel like cardio. Comment PADS i
 
 #Kickboxing #CardioWorkout #NowTimeFitness
 
-## Nov 27 — blocked — 24_Nov27_Fri_OnThePads.mp4
+## Nov 27 — ready — 24_Nov27_Fri_OnThePads.mp4
 
 Pads don't lie.
 
@@ -150,7 +147,7 @@ Train like every round counts. Follow for more pad work.
 
 #PadWork #Boxing #NowTimeFitness
 
-## Nov 29 — blocked — 25_Nov29_Sun_Reset.mp4
+## Nov 29 — ready — 25_Nov29_Sun_Reset.mp4
 
 The warm-up most people skip, done in 3 minutes.
 
