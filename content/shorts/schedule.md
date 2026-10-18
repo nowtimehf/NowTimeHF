@@ -138,7 +138,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Do lunges bother your knees?
 
-## 2026-10-24 — ready — 17_10-30_S05.mp4
+## 2026-10-24 — scheduled — 17_10-30_S05.mp4
 
 Buffer dueAt: 2026-10-25T00:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -151,7 +151,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: What's the heaviest dumbbell you own?
 
-## 2026-10-25 — ready — 21_11-03_S11.mp4
+## 2026-10-25 — scheduled — 21_11-03_S11.mp4
 
 Buffer dueAt: 2026-10-26T00:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -164,7 +164,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Which move would you do first?
 
-## 2026-10-26 — ready — 01_10-14_X2_round5.mp4
+## 2026-10-26 — scheduled — 01_10-14_X2_round5.mp4
 
 Buffer dueAt: 2026-10-27T00:00:00+08:00
 Playlist: On the Pads
@@ -177,7 +177,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Which round breaks you? 1, 3 or 5?
 
-## 2026-10-27 — ready — 03_10-16_X4_20sec_burnout.mp4
+## 2026-10-27 — scheduled — 03_10-16_X4_20sec_burnout.mp4
 
 Buffer dueAt: 2026-10-28T00:00:00+08:00
 Playlist: On the Pads

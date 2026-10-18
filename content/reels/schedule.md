@@ -43,7 +43,7 @@ Your shoulders will feel it by round three. Comment DONE when you finish.
 
 #BoxingWorkout #HomeWorkout #NowTimeFitness
 
-## Nov 6 — ready — 15_Nov06_Fri_Correction.mp4
+## Nov 6 — scheduled — 15_Nov06_Fri_Correction.mp4
 
 The first thing I fix on the pads: the chin.
 
@@ -55,7 +55,7 @@ Follow for a new correction every Friday.
 
 #BoxingTips #PadWork #NowTimeFitness
 
-## Nov 8 — ready — 16_Nov08_Sun_Reset.mp4
+## Nov 8 — scheduled — 16_Nov08_Sun_Reset.mp4
 
 Low back tight after a long week? Try this tonight.
 

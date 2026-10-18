@@ -237,3 +237,33 @@ workout montages (4), timer challenges (2), skill clips (2), client/boxing pad w
 Bali footage from Academy Raya Sport and a poolside private session (5), app walkthroughs (2).
 All `ready` in `content/shorts/schedule.md` after the batch-1 entries; the weekly refill queues them
 in order. Batch-2 files use the commit noted at the top of that section.
+
+## Weekly refill — 2026-10-18
+
+Before refill: LinkedIn 8/10, Instagram 8/10, YouTube 6/10 (posts through Oct 23).
+Everything due Oct 11–17 sent, except one failure: LinkedIn `oct-quiet-quarter-linkedin.md`
+(due Oct 14, Buffer ID 6ac4a862d807824c4fcccf90) errored with Buffer's "unknown error, please
+retry". Its date has passed, so it was not re-queued; it is still in Buffer as an error post.
+Also noted: LinkedIn has a post on Oct 19 at 8:30 AM ET ("Monday question…", 6ad19e0ee991a49db3c7a7df)
+that isn't from the drafts folder — added outside this log, left alone; it uses one of the 10 slots.
+
+**Queued this run** (LinkedIn cards pinned to commit `7e61f86`):
+
+| Date (ET) | Channel | Item | Buffer ID |
+|---|---|---|---|
+| 2026-11-04 Wed 9:15 AM | LinkedIn | `obj-13-new-year-linkedin.md` + `card-13-new-year.png` | 6ad417bcae173d6e00ddb872 |
+| 2026-11-06 Fri 9:15 AM | LinkedIn | `obj-12-one-person-linkedin.md` + `card-12-one-person.png` | 6ad417c0938409f1d0ac870d |
+| 2026-11-06 Fri 8:15 AM | Instagram | `15_Nov06_Fri_Correction.mp4` (Reel, shared to feed) | 6ad417c4769b4579349f1f55 |
+| 2026-11-08 Sun 8:15 AM | Instagram | `16_Nov08_Sun_Reset.mp4` (Reel, shared to feed) | 6ad417c60b0d72757aff10f8 |
+| 2026-10-24 Sat 12:00 PM | YouTube | `17_10-30_S05` Upper Body Workout With Just 2 Dumbbells | 6ad417c9ae173d6e00ddbd84 |
+| 2026-10-25 Sun 12:00 PM | YouTube | `21_11-03_S11` Full Body Workout in 4 Moves | 6ad417cc0b0d72757aff12d0 |
+| 2026-10-26 Mon 12:00 PM | YouTube | `01_10-14_X2_round5` How You Feel After Round 5 of Pad Work | 6ad417d0ae173d6e00ddbe46 |
+| 2026-10-27 Tue 12:00 PM | YouTube | `03_10-16_X4_20sec_burnout` 20-Second Dumbbell Shadowboxing Burnout | 6ad417d3769b4579349f229a |
+
+All dates as planned; none moved.
+
+**After refill:** LinkedIn 10/10 (through Nov 6), Instagram 10/10 (through Nov 8), YouTube 10/10 (through Oct 27).
+
+**Next up:** LinkedIn `nov-sick-days` (Nov 9), `marine-coach-founder` (Nov 11), drafts through Nov 30.
+Instagram `17_Nov11_Wed_20MinFix` (Nov 11), Reels through Nov 29. YouTube `06_10-19_X1_pads_round` (Oct 28),
+Shorts through Dec 18.
