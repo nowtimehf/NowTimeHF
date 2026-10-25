@@ -267,3 +267,36 @@ All dates as planned; none moved.
 **Next up:** LinkedIn `nov-sick-days` (Nov 9), `marine-coach-founder` (Nov 11), drafts through Nov 30.
 Instagram `17_Nov11_Wed_20MinFix` (Nov 11), Reels through Nov 29. YouTube `06_10-19_X1_pads_round` (Oct 28),
 Shorts through Dec 18.
+
+## Weekly refill — 2026-10-25
+
+Before refill: LinkedIn 6/10, Instagram 7/10, YouTube 3/10 (posts through Oct 27).
+Everything due Oct 18–24 sent on time — no new errors or failures. The old Oct 14 LinkedIn error post
+(6ac4a862d807824c4fcccf90) is still sitting in Buffer; left alone. Mike's own "Monday question" LinkedIn post
+sent Oct 19 as planned.
+
+**Queued this run** (LinkedIn cards and Reels pinned to commit `bb5e83a`; Shorts use the commit in `shorts/schedule.md`):
+
+| Date (ET) | Channel | Item | Buffer ID |
+|---|---|---|---|
+| 2026-11-09 Mon 9:15 AM | LinkedIn | `nov-sick-days-linkedin.md` + `stat-05-sick-days.png` | 6add52433d5b27036bad416a |
+| 2026-11-11 Wed 9:15 AM | LinkedIn | `marine-coach-founder-linkedin.md` | 6add52433d5b27036bad4194 |
+| 2026-11-13 Fri 9:15 AM | LinkedIn | `nov-pilot-sprint-linkedin.md` | 6add5244bd33ce99c34bd084 |
+| 2026-11-16 Mon 9:15 AM | LinkedIn | `obj-16-january-challenge-linkedin.md` + `card-16-january-challenge.png` | 6add52443d5b27036bad41cf |
+| 2026-11-11 Wed 8:15 AM | Instagram | `17_Nov11_Wed_20MinFix.mp4` (Reel, shared to feed) | 6add52670b5343d070ac36d3 |
+| 2026-11-13 Fri 8:15 AM | Instagram | `18_Nov13_Fri_Correction.mp4` (Reel, shared to feed) | 6add52676887a2efc1e10b1a |
+| 2026-11-15 Sun 8:15 AM | Instagram | `19_Nov15_Sun_Reset.mp4` (Reel, shared to feed) | 6add52686887a2efc1e10b46 |
+| 2026-10-28 Wed 12:00 PM | YouTube | `06_10-19_X1_pads_round` What One Round of Boxing Pad Work Looks Like | 6add52696887a2efc1e10b73 |
+| 2026-10-29 Thu 12:00 PM | YouTube | `15_10-28_S15` Boxing Tip: Keep Your Chin Down on the Pads | 6add526a3d5b27036bad4996 |
+| 2026-10-30 Fri 12:00 PM | YouTube | `16_10-29_S16` Tight Lower Back? Do This Stretch Before Bed | 6add526b6887a2efc1e10bc2 |
+| 2026-10-31 Sat 12:00 PM | YouTube | `10_10-23_X3_coach_or_fighter` Coach or Fighter? Boxing Pad Work | 6add526c0b5343d070ac3748 |
+| 2026-11-01 Sun 12:00 PM | YouTube | `18_10-31_S18` Sloppy Punches? Return Them Faster | 6add526f6887a2efc1e10db6 |
+| 2026-11-02 Mon 12:00 PM | YouTube | `19_11-01_S17` Kickboxing Workout at Home (No Bag Needed) | 6add5270bd33ce99c34bd703 |
+| 2026-11-03 Tue 12:00 PM | YouTube | `20_11-02_S19` Tight Hips? This Stretch Goes Deep | 6add5271e4be8a4d8684e7a7 |
+
+All 14 accepted as `scheduled`. All dates as planned; none moved. Times from Nov 1 use -05:00 (EST).
+
+**After refill:** LinkedIn 10/10 (through Nov 16), Instagram 10/10 (through Nov 15), YouTube 10/10 (through Nov 3).
+
+**Still unqueued:** LinkedIn 5 drafts (Nov 18, 20, 23, 25, 30 — content ends Nov 30). Instagram 6 Reels
+(Nov 18–29 — content ends Nov 29). YouTube 45 Shorts (Nov 4 – Dec 18).

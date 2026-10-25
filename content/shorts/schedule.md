@@ -190,7 +190,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Did you make it to 0:00? Comment DONE.
 
-## 2026-10-28 — ready — 06_10-19_X1_pads_round.mp4
+## 2026-10-28 — scheduled — 06_10-19_X1_pads_round.mp4
 
 Buffer dueAt: 2026-10-29T00:00:00+08:00
 Playlist: On the Pads
@@ -203,7 +203,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Could you go one more round?
 
-## 2026-10-29 — ready — 15_10-28_S15.mp4
+## 2026-10-29 — scheduled — 15_10-28_S15.mp4
 
 Buffer dueAt: 2026-10-30T00:00:00+08:00
 Playlist: Coach's Correction
@@ -216,7 +216,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Ever caught yourself chin-up on the pads?
 
-## 2026-10-30 — ready — 16_10-29_S16.mp4
+## 2026-10-30 — scheduled — 16_10-29_S16.mp4
 
 Buffer dueAt: 2026-10-31T00:00:00+08:00
 Playlist: Sunday Reset
@@ -229,7 +229,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Save this for tonight. Does your low back get tight?
 
-## 2026-10-31 — ready — 10_10-23_X3_coach_or_fighter.mp4
+## 2026-10-31 — scheduled — 10_10-23_X3_coach_or_fighter.mp4
 
 Buffer dueAt: 2026-11-01T00:00:00+08:00
 Playlist: On the Pads
@@ -242,7 +242,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Coach or fighter? Comment below.
 
-## 2026-11-01 — ready — 18_10-31_S18.mp4
+## 2026-11-01 — scheduled — 18_10-31_S18.mp4
 
 Buffer dueAt: 2026-11-02T01:00:00+08:00
 Playlist: Coach's Correction
@@ -255,7 +255,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Fast out or faster back: which is harder for you?
 
-## 2026-11-02 — ready — 19_11-01_S17.mp4
+## 2026-11-02 — scheduled — 19_11-01_S17.mp4
 
 Buffer dueAt: 2026-11-03T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -268,7 +268,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Would you try this tonight? Comment DONE after.
 
-## 2026-11-03 — ready — 20_11-02_S19.mp4
+## 2026-11-03 — scheduled — 20_11-02_S19.mp4
 
 Buffer dueAt: 2026-11-04T01:00:00+08:00
 Playlist: Sunday Reset

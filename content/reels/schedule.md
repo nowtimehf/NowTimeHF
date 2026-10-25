@@ -65,7 +65,7 @@ Lie on your back. Bring one knee across your body. Arms out wide, shoulders stay
 
 #LowBackPain #Stretching #NowTimeFitness
 
-## Nov 11 — ready — 17_Nov11_Wed_20MinFix.mp4
+## Nov 11 — scheduled — 17_Nov11_Wed_20MinFix.mp4
 
 Kickboxing in your living room. No bag, no partner.
 
@@ -75,7 +75,7 @@ Punch, move, then mix in knees and kicks. Drive from the hip, and keep the hands
 
 #Kickboxing #HomeWorkout #NowTimeFitness
 
-## Nov 13 — ready — 18_Nov13_Fri_Correction.mp4
+## Nov 13 — scheduled — 18_Nov13_Fri_Correction.mp4
 
 If your punches feel sloppy, look at what happens after they land.
 
@@ -85,7 +85,7 @@ Fast out. Faster back. That's where the crispness comes from.
 
 #BoxingTips #PadWork #NowTimeFitness
 
-## Nov 15 — ready — 19_Nov15_Sun_Reset.mp4
+## Nov 15 — scheduled — 19_Nov15_Sun_Reset.mp4
 
 Tight hips from sitting all week? This one gets deep.
 
