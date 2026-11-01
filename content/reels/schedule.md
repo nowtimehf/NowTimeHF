@@ -95,7 +95,7 @@ On your back, ankle over the opposite knee, then pull the bottom leg in. You'll 
 
 #HipMobility #Stretching #NowTimeFitness
 
-## Nov 18 — ready — 20_Nov18_Wed_20MinFix.mp4
+## Nov 18 — scheduled — 20_Nov18_Wed_20MinFix.mp4
 
 The workout you won't skip is the one somebody's waiting on you for.
 
@@ -105,7 +105,7 @@ Tag the person you're doing this with. 👇
 
 #PartnerWorkout #Boxing #NowTimeFitness
 
-## Nov 20 — ready — 21_Nov20_Fri_OnThePads.mp4
+## Nov 20 — scheduled — 21_Nov20_Fri_OnThePads.mp4
 
 Class night.
 
@@ -117,7 +117,7 @@ Who's your accountability partner? Tag them.
 
 #BoxingClass #Accountability #NowTimeFitness
 
-## Nov 22 — ready — 22_Nov22_Sun_Reset.mp4
+## Nov 22 — scheduled — 22_Nov22_Sun_Reset.mp4
 
 Sit on the floor for 5 minutes. Your hips will thank you Monday.
 

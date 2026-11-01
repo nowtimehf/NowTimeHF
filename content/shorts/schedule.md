@@ -281,7 +281,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Where do you feel this one?
 
-## 2026-11-04 — ready — 22_11-04_S21.mp4
+## 2026-11-04 — scheduled — 22_11-04_S21.mp4
 
 Buffer dueAt: 2026-11-05T01:00:00+08:00
 Playlist: On the Pads
@@ -294,7 +294,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Tag your accountability partner.
 
-## 2026-11-05 — ready — 23_11-05_S13.mp4
+## 2026-11-05 — scheduled — 23_11-05_S13.mp4
 
 Buffer dueAt: 2026-11-06T01:00:00+08:00
 Playlist: Sunday Reset
@@ -307,7 +307,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Do it right now, then comment DONE.
 
-## 2026-11-06 — ready — 24_11-06_S14.mp4
+## 2026-11-06 — scheduled — 24_11-06_S14.mp4
 
 Buffer dueAt: 2026-11-07T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -320,7 +320,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Shoulders burning yet?
 
-## 2026-11-07 — ready — 25_11-07_S20.mp4
+## 2026-11-07 — scheduled — 25_11-07_S20.mp4
 
 Buffer dueAt: 2026-11-08T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -333,7 +333,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Tag the person you're doing this with.
 
-## 2026-11-08 — ready — 26_11-08_S22.mp4
+## 2026-11-08 — scheduled — 26_11-08_S22.mp4
 
 Buffer dueAt: 2026-11-09T01:00:00+08:00
 Playlist: Sunday Reset
@@ -346,7 +346,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Can you touch your toes?
 
-## 2026-11-09 — ready — 27_11-09_S23.mp4
+## 2026-11-09 — scheduled — 27_11-09_S23.mp4
 
 Buffer dueAt: 2026-11-10T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -359,7 +359,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Comment PADS if you'd try it.
 
-## 2026-11-10 — ready — 28_11-10_S24.mp4
+## 2026-11-10 — scheduled — 28_11-10_S24.mp4
 
 Buffer dueAt: 2026-11-11T01:00:00+08:00
 Playlist: On the Pads

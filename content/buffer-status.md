@@ -300,3 +300,36 @@ All 14 accepted as `scheduled`. All dates as planned; none moved. Times from Nov
 
 **Still unqueued:** LinkedIn 5 drafts (Nov 18, 20, 23, 25, 30 — content ends Nov 30). Instagram 6 Reels
 (Nov 18–29 — content ends Nov 29). YouTube 45 Shorts (Nov 4 – Dec 18).
+
+## Weekly refill — 2026-11-01
+
+Before refill: LinkedIn 7/10, Instagram 7/10, YouTube 3/10 (posts through Nov 16).
+Everything due Oct 25–31 sent on time — no new errors or failures. Mike also posted several Instagram items
+directly (not from the Reels schedule); they don't use Buffer slots.
+
+**Queued this run** (Reels pinned to commit `6a89c46`; Shorts use the batch-1 commit in `shorts/schedule.md`;
+none of the three LinkedIn drafts has a card):
+
+| Date (ET) | Channel | Item | Buffer ID |
+|---|---|---|---|
+| 2026-11-18 Wed 9:15 AM | LinkedIn | `nov-month-three-linkedin.md` | 6ae68cb237c1acd2a0dd03d4 |
+| 2026-11-20 Fri 9:15 AM | LinkedIn | `nov-managers-linkedin.md` | 6ae68cb3f0984eef333d93f0 |
+| 2026-11-23 Mon 9:15 AM | LinkedIn | `nov-thanksgiving-week-linkedin.md` | 6ae68cb3f0984eef333d94c9 |
+| 2026-11-18 Wed 8:15 AM | Instagram | `20_Nov18_Wed_20MinFix.mp4` (Reel, shared to feed) | 6ae68cc11ee172cd6dd081a9 |
+| 2026-11-20 Fri 8:15 AM | Instagram | `21_Nov20_Fri_OnThePads.mp4` (Reel, shared to feed) | 6ae68cc121c807e9d593fca3 |
+| 2026-11-22 Sun 8:15 AM | Instagram | `22_Nov22_Sun_Reset.mp4` (Reel, shared to feed) | 6ae68cc21ee172cd6dd081f4 |
+| 2026-11-04 Wed 12:00 PM | YouTube | `22_11-04_S21` Boxing Class Night: Nobody Skips a Round | 6ae68cdaf0984eef333da090 |
+| 2026-11-05 Thu 12:00 PM | YouTube | `23_11-05_S13` Stiff From Sitting? 60-Second Standing Reset | 6ae68cdbab019b9087337fcb |
+| 2026-11-06 Fri 12:00 PM | YouTube | `24_11-06_S14` Dumbbell Shadowboxing for Shoulders | 6ae68cdc21c807e9d59401ff |
+| 2026-11-07 Sat 12:00 PM | YouTube | `25_11-07_S20` Partner Boxing Workout You Won't Skip | 6ae68cdd21c807e9d5940240 |
+| 2026-11-08 Sun 12:00 PM | YouTube | `26_11-08_S22` 5-Minute Floor Stretch for Looser Hips | 6ae68cde21c807e9d594026f |
+| 2026-11-09 Mon 12:00 PM | YouTube | `27_11-09_S23` Pads and Kicks: Cardio You'll Actually Do | 6ae68cdfab019b9087338066 |
+| 2026-11-10 Tue 12:00 PM | YouTube | `28_11-10_S24` Pads Don't Lie 🥊 | 6ae68cdf37c1acd2a0dd0e73 |
+
+All 13 accepted as `scheduled`. All dates as planned; none moved. All times -05:00 (EST).
+
+**After refill:** LinkedIn 10/10 (through Nov 23), Instagram 10/10 (through Nov 22), YouTube 10/10 (through Nov 10).
+
+**Still unqueued:** LinkedIn 2 drafts (`nov-december-dropoff` Nov 25, `nov-31-days` Nov 30 — content ends Nov 30).
+Instagram 3 Reels (Nov 25, 27, 29 — content ends Nov 29). YouTube 38 Shorts (Nov 11 – Dec 18).
+Next week's refill can fully queue LinkedIn and Instagram; after that both channels need new content for December.
