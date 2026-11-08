@@ -333,3 +333,42 @@ All 13 accepted as `scheduled`. All dates as planned; none moved. All times -05:
 **Still unqueued:** LinkedIn 2 drafts (`nov-december-dropoff` Nov 25, `nov-31-days` Nov 30 — content ends Nov 30).
 Instagram 3 Reels (Nov 25, 27, 29 — content ends Nov 29). YouTube 38 Shorts (Nov 11 – Dec 18).
 Next week's refill can fully queue LinkedIn and Instagram; after that both channels need new content for December.
+
+## Weekly refill — 2026-11-08
+
+Before refill: LinkedIn 7/10, Instagram 7/10, YouTube 3/10 (posts through Nov 23).
+LinkedIn and YouTube: everything due Nov 1–7 sent on time.
+
+**⚠ Instagram is disconnected in Buffer.** `list_channels` reports `loganfit.mike` as `isDisconnected: true`.
+The Nov 6 Reel `15_Nov06_Fri_Correction.mp4` (6ad417c4769b4579349f1f55) failed with "Buffer has lost
+authorization to post on your behalf. Please refresh your channel." It did not post; date passed, left in
+Buffer as an error post. Every Instagram post still queued (Nov 8 onward) will fail the same way until Mike
+reconnects/refreshes the channel in Buffer. Mike's own direct Instagram posts (via the app) are unaffected.
+The old Oct 14 LinkedIn error post (6ac4a862d807824c4fcccf90) is no longer returned by the API.
+
+**Queued this run** (Reels pinned to commit `a779b90`; Shorts use the batch-1/batch-2 commits in
+`shorts/schedule.md`; neither LinkedIn draft has a card):
+
+| Date (ET) | Channel | Item | Buffer ID |
+|---|---|---|---|
+| 2026-11-25 Wed 9:15 AM | LinkedIn | `nov-december-dropoff-linkedin.md` | 6aefc745d6bbae6fa1bcf6b6 |
+| 2026-11-30 Mon 9:15 AM | LinkedIn | `nov-31-days-linkedin.md` | 6aefc745229bf05daf8206fd |
+| 2026-11-25 Wed 8:15 AM | Instagram | `23_Nov25_Wed_20MinFix.mp4` (Reel, shared to feed) | 6aefc7749214322f6824fd77 |
+| 2026-11-27 Fri 8:15 AM | Instagram | `24_Nov27_Fri_OnThePads.mp4` (Reel, shared to feed) | 6aefc784562f2e6de98d707f |
+| 2026-11-29 Sun 8:15 AM | Instagram | `25_Nov29_Sun_Reset.mp4` (Reel, shared to feed) | 6aefc7859214322f682501a9 |
+| 2026-11-11 Wed 12:00 PM | YouTube | `29_11-11_S25` The 3-Minute Boxing Warm-Up Everyone Skips | 6aefc760d6bbae6fa1bcfc36 |
+| 2026-11-12 Thu 12:00 PM | YouTube | `30_11-12_V01_chair_dips` Chair Dips Hurting Your Shoulders? Fix This | 6aefc760229bf05daf820e21 |
+| 2026-11-13 Fri 12:00 PM | YouTube | `31_11-13_T1_breathing` Do This After Every Workout (4x4 Breathing) | 6aefc76251492b796e0c8f4a |
+| 2026-11-14 Sat 12:00 PM | YouTube | `32_11-14_Z01_double_end` This Bag Hits Back (Double-End Bag) | 6aefc7639214322f6824f8a1 |
+| 2026-11-15 Sun 12:00 PM | YouTube | `33_11-15_M01_leg_day` Leg Day. No Gym. 5 Moves. | 6aefc7649214322f6824f9fa |
+| 2026-11-16 Mon 12:00 PM | YouTube | `34_11-16_V07_jab_cross` How to Throw a 1-2 (Jab Cross) | 6aefc765004e4879a78b7af9 |
+| 2026-11-17 Tue 12:00 PM | YouTube | `35_11-17_C06_plank_45` 45-Second Plank Challenge (Do It With Me) | 6aefc76751492b796e0c90b3 |
+
+All 12 accepted as `scheduled` (Instagram accepted despite the disconnect — they will only publish if the
+channel is reconnected first). All dates as planned; none moved. All times -05:00 (EST).
+
+**After refill:** LinkedIn 9/10 (through Nov 30), Instagram 10/10 (through Nov 29), YouTube 10/10 (through Nov 17).
+
+**Content is now exhausted on LinkedIn and Instagram.** No LinkedIn drafts dated after Nov 30 and no Reels after
+Nov 29 exist in the repo. LinkedIn has 1 open slot with nothing to fill it. Last LinkedIn post Nov 30; last Reel Nov 29.
+YouTube: 31 Shorts still `ready` (Nov 18 – Dec 18).

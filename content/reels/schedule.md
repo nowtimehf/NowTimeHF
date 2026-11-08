@@ -43,7 +43,7 @@ Your shoulders will feel it by round three. Comment DONE when you finish.
 
 #BoxingWorkout #HomeWorkout #NowTimeFitness
 
-## Nov 6 — scheduled — 15_Nov06_Fri_Correction.mp4
+## Nov 6 — error (not posted) — 15_Nov06_Fri_Correction.mp4
 
 The first thing I fix on the pads: the chin.
 
@@ -127,7 +127,7 @@ Save this for tonight. 🔖
 
 #Mobility #FlexibilityTraining #NowTimeFitness
 
-## Nov 25 — ready — 23_Nov25_Wed_20MinFix.mp4
+## Nov 25 — scheduled — 23_Nov25_Wed_20MinFix.mp4
 
 If the treadmill bores you, hit pads instead.
 
@@ -137,7 +137,7 @@ Hardest 20 minutes of your week, and it doesn't feel like cardio. Comment PADS i
 
 #Kickboxing #CardioWorkout #NowTimeFitness
 
-## Nov 27 — ready — 24_Nov27_Fri_OnThePads.mp4
+## Nov 27 — scheduled — 24_Nov27_Fri_OnThePads.mp4
 
 Pads don't lie.
 
@@ -147,7 +147,7 @@ Train like every round counts. Follow for more pad work.
 
 #PadWork #Boxing #NowTimeFitness
 
-## Nov 29 — ready — 25_Nov29_Sun_Reset.mp4
+## Nov 29 — scheduled — 25_Nov29_Sun_Reset.mp4
 
 The warm-up most people skip, done in 3 minutes.
 

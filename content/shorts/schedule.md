@@ -372,7 +372,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Agree or disagree?
 
-## 2026-11-11 — ready — 29_11-11_S25.mp4
+## 2026-11-11 — scheduled — 29_11-11_S25.mp4
 
 Buffer dueAt: 2026-11-12T01:00:00+08:00
 Playlist: Sunday Reset
@@ -389,7 +389,7 @@ Pinned comment: Do you warm up or skip it?
 
 Batch 2 video URL: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/e6d5f578d4d77fe2319656b0d70143842f09b0b1/content/shorts/<file>  (use this commit for every batch-2 file below; batch 1 files use the commit in the header).
 
-## 2026-11-12 — ready — 30_11-12_V01_chair_dips.mp4
+## 2026-11-12 — scheduled — 30_11-12_V01_chair_dips.mp4
 
 Buffer dueAt: 2026-11-13T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -402,7 +402,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Do chair dips bother your shoulders?
 
-## 2026-11-13 — ready — 31_11-13_T1_breathing.mp4
+## 2026-11-13 — scheduled — 31_11-13_T1_breathing.mp4
 
 Buffer dueAt: 2026-11-14T01:00:00+08:00
 Playlist: Sunday Reset
@@ -415,7 +415,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Do you cool down or just leave?
 
-## 2026-11-14 — ready — 32_11-14_Z01_double_end.mp4
+## 2026-11-14 — scheduled — 32_11-14_Z01_double_end.mp4
 
 Buffer dueAt: 2026-11-15T01:00:00+08:00
 Playlist: On the Pads
@@ -428,7 +428,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Ever tried a double-end bag?
 
-## 2026-11-15 — ready — 33_11-15_M01_leg_day.mp4
+## 2026-11-15 — scheduled — 33_11-15_M01_leg_day.mp4
 
 Buffer dueAt: 2026-11-16T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -441,7 +441,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Which move hits hardest for you?
 
-## 2026-11-16 — ready — 34_11-16_V07_jab_cross.mp4
+## 2026-11-16 — scheduled — 34_11-16_V07_jab_cross.mp4
 
 Buffer dueAt: 2026-11-17T01:00:00+08:00
 Playlist: Coach's Correction
@@ -454,7 +454,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Orthodox or southpaw?
 
-## 2026-11-17 — ready — 35_11-17_C06_plank_45.mp4
+## 2026-11-17 — scheduled — 35_11-17_C06_plank_45.mp4
 
 Buffer dueAt: 2026-11-18T01:00:00+08:00
 Playlist: The 20-Minute Fix
