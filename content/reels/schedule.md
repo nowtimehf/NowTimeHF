@@ -43,7 +43,7 @@ Your shoulders will feel it by round three. Comment DONE when you finish.
 
 #BoxingWorkout #HomeWorkout #NowTimeFitness
 
-## Nov 6 — error (not posted) — 15_Nov06_Fri_Correction.mp4
+## Nov 6 — sent late (Nov 8, 11:09 PM ET, after reconnect) — 15_Nov06_Fri_Correction.mp4
 
 The first thing I fix on the pads: the chin.
 
@@ -167,7 +167,7 @@ https://raw.githubusercontent.com/nowtimehf/NowTimeHF/e6d5f578d4d77fe2319656b0d7
 (not the `content/reels/` pattern above; the files are not copied, to keep the repo size down).
 Post time and settings unchanged: 8:15 AM ET (-05:00), Reel, share to feed = true. Sun/Wed/Fri.
 
-## Dec 2 — ready — 33_11-15_M01_leg_day.mp4
+## Dec 2 — scheduled — 33_11-15_M01_leg_day.mp4
 
 Leg day. No gym, no weights, five moves.
 

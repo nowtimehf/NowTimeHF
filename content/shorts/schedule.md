@@ -467,7 +467,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Did you make it to 0:00? Comment DONE.
 
-## 2026-11-18 — ready — 36_11-18_B10_client_pads.mp4
+## 2026-11-18 — scheduled — 36_11-18_B10_client_pads.mp4
 
 Buffer dueAt: 2026-11-19T01:00:00+08:00
 Playlist: On the Pads

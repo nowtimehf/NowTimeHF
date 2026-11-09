@@ -379,3 +379,22 @@ YouTube: 31 Shorts still `ready` (Nov 18 – Dec 18).
 reusing Shorts clips; video URLs point at `content/shorts/` at commit `e6d5f57`, see the December note
 in `reels/schedule.md`). The weekly refill picks them up in date order. Instagram is still disconnected
 in Buffer until Mike refreshes the channel.
+
+## Top-up — 2026-11-09
+
+Instagram is reconnected (`isDisconnected: false`). On reconnect Buffer sent three backlogged posts at once,
+2026-11-08 11:09 PM ET (04:09 UTC Nov 9): the Nov 6 Reel `15_Nov06_Fri_Correction`, the Nov 8 Reel
+`16_Nov08_Sun_Reset`, and — on LinkedIn — the old Oct 14 error post `oct-quiet-quarter-linkedin.md`
+(6ac4a862d807824c4fcccf90, "Q4 is when burnout peaks…"), which went out a month late.
+
+One slot was open on each channel; filled:
+
+| Date (ET) | Channel | Item | Buffer ID |
+|---|---|---|---|
+| 2026-12-02 Wed 9:15 AM | LinkedIn | `dec-january-resignations-linkedin.md` | 6af1ca47e77b935b529fd98b |
+| 2026-12-02 Wed 8:15 AM | Instagram | `33_11-15_M01_leg_day.mp4` (Reel, shared to feed; shorts URL) | 6af1ca48fdb073c5c6973360 |
+| 2026-11-18 Wed 12:00 PM | YouTube | `36_11-18_B10_client_pads` Round One. Let's Work. (Pad Work) | 6af1ca49e77b935b529fda03 |
+
+All accepted as `scheduled`. Now 10/10 on every channel: LinkedIn through Dec 2, Instagram through Dec 2,
+YouTube through Nov 18. Next refill: LinkedIn `obj-17-survey-results` (Dec 4), Instagram jab-cross Reel (Dec 4),
+YouTube `37_11-19_V05_squat_fix` (Nov 19).
