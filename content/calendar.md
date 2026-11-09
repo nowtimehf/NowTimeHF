@@ -221,3 +221,36 @@ No post Fri Nov 27 (day after Thanksgiving).
 | Nov 28 | Sat | There's nothing to restart | `fb-nov-today` | `quote-nov-today` |
 
 Instagram Reels for November: `content/reels/schedule.md` (13, Sun/Wed/Fri).
+
+# December 2026 — theme: close the year, set up Q1
+
+Added 2026-11-09. LinkedIn keeps the Mon/Wed/Fri cadence (no post Fri Dec 25). Instagram
+Reels reuse the vertical Shorts clips (Mike's call, 2026-11-09); see the December section of
+`content/reels/schedule.md`. No new cards this month. ET offsets are -05:00 all month.
+
+## December — LinkedIn (Mon/Wed/Fri, 12 posts)
+
+| Date | Day | Pillar | Hook | Draft | CTA |
+|---|---|---|---|---|---|
+| Dec 2 | Wed | Business Case | January resignations are decided in December | `dec-january-resignations` | question |
+| Dec 4 | Fri | Engagement Gap | "We'll wait for the survey results." | `obj-17-survey-results` | DATA |
+| Dec 7 | Mon | Engagement Gap | The holiday party is not a wellness strategy | `dec-holiday-party` | question |
+| Dec 9 | Wed | Program Design | What happens in the 60 minutes | `dec-inside-the-workshop` | PILOT |
+| Dec 11 | Fri | Business Case | "Wellness is HR's problem." | `obj-18-hr-problem` | question |
+| Dec 14 | Mon | Business Case | Do the math on one resignation ($70k example) | `dec-one-resignation-math` | PILOT |
+| Dec 16 | Wed | HR Playbook | Write the January email before you leave | `dec-write-january-email` | question |
+| Dec 18 | Fri | Engagement Gap | The week before a break is when people decide | `dec-before-the-break` | question |
+| Dec 21 | Mon | HR Playbook | Holiday week: take the time off, visibly | `dec-take-the-time-off` | none |
+| Dec 23 | Wed | HR Playbook | Three questions for your 2027 plan | `dec-three-questions-2027` | question |
+| Dec 28 | Mon | Engagement Gap | New Year's motivation is not a plan | `dec-resolution-business-model` | question |
+| Dec 30 | Wed | Program Design | Booking January Pilot Sprints | `dec-january-pilot` | PILOT |
+
+Stats used: 6–9 months salary (SHRM), 63% sick days (Gallup), 42%/42% (Mind Share Partners),
+6–8% participation. All from the approved table in `content/reference/stats.md`.
+
+## December — Instagram Reels (Sun/Wed/Fri, 13)
+
+Dec 2 leg day · Dec 4 jab-cross · Dec 6 hip mobility · Dec 9 abs · Dec 11 squat fix ·
+Dec 13 4x4 breathing · Dec 16 plank · Dec 18 double-end bag · Dec 20 90-90 flow ·
+Dec 23 chair upper body (holiday travel) · Dec 25 Christmas morning mobility · Dec 27 neck reset ·
+Dec 30 wall-sit challenge.

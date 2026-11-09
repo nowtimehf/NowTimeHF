@@ -372,3 +372,10 @@ channel is reconnected first). All dates as planned; none moved. All times -05:0
 **Content is now exhausted on LinkedIn and Instagram.** No LinkedIn drafts dated after Nov 30 and no Reels after
 Nov 29 exist in the repo. LinkedIn has 1 open slot with nothing to fill it. Last LinkedIn post Nov 30; last Reel Nov 29.
 YouTube: 31 Shorts still `ready` (Nov 18 – Dec 18).
+
+## 2026-11-09 — December content added
+
+12 LinkedIn drafts (Dec 2–30, Mon/Wed/Fri, no cards) and 13 Instagram Reels (Dec 2–30, Sun/Wed/Fri,
+reusing Shorts clips; video URLs point at `content/shorts/` at commit `e6d5f57`, see the December note
+in `reels/schedule.md`). The weekly refill picks them up in date order. Instagram is still disconnected
+in Buffer until Mike refreshes the channel.
