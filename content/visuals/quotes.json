@@ -1,0 +1,253 @@
+[
+  {
+    "slug": "no-hour",
+    "line": "You don’t need an hour.",
+    "land": "You need the version that actually happens.",
+    "post": "fb-no-hour-social.md",
+    "alt": "Navy quote card. You don't need an hour. You need the version that actually happens."
+  },
+  {
+    "slug": "burnout-quiet",
+    "line": "Burnout rarely announces itself.",
+    "land": "It looks like hitting every deadline and enjoying none of it.",
+    "landSize": 50,
+    "post": "fb-burnout-quiet-social.md",
+    "alt": "Navy quote card. Burnout rarely announces itself. It looks like hitting every deadline and enjoying none of it."
+  },
+  {
+    "slug": "no-time-to-waste",
+    "line": "There’s no time to waste.",
+    "land": "Use what you’ve got, and use it well.",
+    "post": "fb-now-time-meaning-social.md",
+    "alt": "Navy quote card. There's no time to waste. Use what you've got, and use it well."
+  },
+  {
+    "slug": "no-crisis-needed",
+    "line": "You don’t need a crisis to justify taking care of yourself.",
+    "lineSize": 62,
+    "land": "Feeling steadily better is reason enough.",
+    "post": "fb-before-it-gets-bad-social.md",
+    "alt": "Navy quote card. You don't need a crisis to justify taking care of yourself. Feeling steadily better is reason enough."
+  },
+  {
+    "slug": "handling-it",
+    "line": "Almost nobody is handling it as well as they look.",
+    "lineSize": 66,
+    "land": "Telling one person changes the weight of it.",
+    "post": "fb-say-something-social.md",
+    "alt": "Navy quote card. Almost nobody is handling it as well as they look. Telling one person changes the weight of it."
+  },
+  {
+    "slug": "who-would-notice",
+    "line": "“Who would notice if I stopped?”",
+    "land": "If the answer is nobody, that’s the real problem.",
+    "post": "fb-three-questions-social.md",
+    "alt": "Navy quote card. Who would notice if I stopped? If the answer is nobody, that's the real problem."
+  },
+  {
+    "slug": "cost-nothing",
+    "line": "The most effective things cost nothing.",
+    "land": "What you pay for is someone making sure you keep doing them.",
+    "landSize": 48,
+    "post": "fb-cheapest-thing-social.md",
+    "alt": "Navy quote card. The most effective things cost nothing. What you pay for is someone making sure you keep doing them."
+  },
+  {
+    "slug": "gained-a-commute",
+    "line": "You gained back a commute.",
+    "land": "You lost the only two walks guaranteed in your day.",
+    "landSize": 50,
+    "post": "fb-working-from-home-social.md",
+    "alt": "Navy quote card. You gained back a commute. You lost the only two walks guaranteed in your day."
+  },
+  {
+    "slug": "bad-design",
+    "line": "You didn’t fail that plan.",
+    "land": "You outlasted a bad design.",
+    "post": "fb-why-you-quit-social.md",
+    "alt": "Navy quote card. You didn't fail that plan. You outlasted a bad design."
+  },
+  {
+    "slug": "sixty-seconds",
+    "line": "60 seconds to reset.",
+    "land": "4 in. Hold 4. 4 out. Four times.",
+    "post": "fb-box-breathing-social.md",
+    "alt": "Navy quote card. 60 seconds to reset. Four seconds in, hold four, four seconds out, four times."
+  },
+  {
+    "slug": "outsource-noticing",
+    "line": "You can’t outsource noticing.",
+    "land": "Smaller roster. Real attention.",
+    "post": "fb-i-answer-my-own-social.md",
+    "alt": "Navy quote card. You can't outsource noticing. Smaller roster. Real attention."
+  },
+  {
+    "slug": "someone-checked",
+    "line": "People don’t change because they got inspired.",
+    "lineSize": 66,
+    "land": "They change because someone checked.",
+    "post": "fb-marine-coach-founder-social.md",
+    "alt": "Navy quote card. People don't change because they got inspired. They change because someone checked."
+  },
+  {
+    "slug": "oct-daylight",
+    "line": "Habits don’t die from lack of willpower.",
+    "lineSize": 62,
+    "land": "They die when the conditions change and the plan doesn’t.",
+    "landSize": 44,
+    "post": "fb-oct-darker-social.md",
+    "alt": "Navy quote card. Habits don't die from lack of willpower. They die when the conditions change and the plan doesn't."
+  },
+  {
+    "slug": "oct-im-fine",
+    "line": "“I’m fine” is the most common thing people say when they’re not.",
+    "lineSize": 54,
+    "land": "You don’t have to tell everyone. Just someone.",
+    "landSize": 48,
+    "post": "fb-oct-still-fine-social.md",
+    "alt": "Navy quote card. I'm fine is the most common thing people say when they're not. You don't have to tell everyone. Just someone."
+  },
+  {
+    "slug": "oct-worst-day",
+    "line": "Build the plan around your worst day.",
+    "land": "Ten minutes then beats an hour you’ll skip.",
+    "landSize": 50,
+    "post": "fb-oct-ten-minutes-social.md",
+    "alt": "Navy quote card. Build the plan around your worst day. Ten minutes then beats an hour you'll skip."
+  },
+  {
+    "slug": "oct-four-seconds",
+    "line": "Ask, then wait four seconds.",
+    "land": "The polite answer comes first. The real one comes second.",
+    "landSize": 44,
+    "post": "fb-oct-mental-health-social.md",
+    "alt": "Navy quote card. Ask, then wait four seconds. The polite answer comes first. The real one comes second."
+  },
+  {
+    "slug": "oct-rest",
+    "line": "Rest isn’t a reward.",
+    "land": "You don’t earn the fuel by driving further.",
+    "post": "fb-oct-rest-isnt-reward-social.md",
+    "alt": "Navy quote card. Rest isn't a reward. You don't earn the fuel by driving further."
+  },
+  {
+    "slug": "oct-privacy",
+    "line": "Progress doesn’t require an audience.",
+    "land": "Opting out of the leaderboard isn’t quitting.",
+    "landSize": 48,
+    "post": "fb-oct-private-social.md",
+    "alt": "Navy quote card. Progress doesn't require an audience. Opting out of the leaderboard isn't quitting."
+  },
+  {
+    "slug": "oct-shrink",
+    "line": "You’re not trying to make progress this quarter.",
+    "lineSize": 58,
+    "land": "You’re trying to arrive in January without losing the thread.",
+    "landSize": 42,
+    "post": "fb-oct-q4-load-social.md",
+    "alt": "Navy quote card. You're not trying to make progress this quarter. You're trying to arrive in January without losing the thread."
+  },
+  {
+    "slug": "oct-reliable-one",
+    "line": "The reliable one is the least likely to be asked how they are.",
+    "lineSize": 54,
+    "land": "Ask them anyway. Especially them.",
+    "post": "fb-oct-strongest-people-social.md",
+    "alt": "Navy quote card. The reliable one is the least likely to be asked how they are. Ask them anyway. Especially them."
+  },
+  {
+    "slug": "oct-streak",
+    "line": "You can talk yourself into believing you’ve been consistent.",
+    "lineSize": 56,
+    "land": "A number won’t let you.",
+    "post": "fb-oct-one-number-social.md",
+    "alt": "Navy quote card. You can talk yourself into believing you've been consistent. A number won't let you."
+  },
+  {
+    "slug": "oct-year-ago",
+    "line": "Don’t compare it to yesterday.",
+    "land": "Would last year’s version of you say this is fine?",
+    "landSize": 46,
+    "post": "fb-oct-not-that-bad-social.md",
+    "alt": "Navy quote card. Don't compare it to yesterday. Would last year's version of you say this is fine?"
+  },
+  {
+    "slug": "oct-witness",
+    "line": "You don’t need a better program.",
+    "land": "You need a witness.",
+    "post": "fb-oct-someone-notices-social.md",
+    "alt": "Navy quote card. You don't need a better program. You need a witness."
+  },
+  {
+    "slug": "oct-december-floor",
+    "line": "Decide your December floor in October.",
+    "land": "Your December self will be too busy to decide well.",
+    "landSize": 44,
+    "post": "fb-oct-holiday-plan-social.md",
+    "alt": "Navy quote card. Decide your December floor in October. Your December self will be too busy to decide well."
+  },
+  {
+    "slug": "oct-hard-year",
+    "line": "You’re not behind. You had a hard year.",
+    "land": "You don’t have to salvage it. You could just finish it.",
+    "landSize": 44,
+    "post": "fb-oct-hard-year-social.md",
+    "alt": "Navy quote card. You're not behind. You had a hard year. You don't have to salvage it. You could just finish it."
+  },
+  {
+    "slug": "nov-hotel-room",
+    "line": "No gym? You have a floor and 20 minutes.",
+    "land": "Decide before you pack.",
+    "landSize": 44,
+    "post": "fb-nov-hotel-room-social.md",
+    "alt": "Navy quote card. No gym? You have a floor and 20 minutes. Decide before you pack."
+  },
+  {
+    "slug": "nov-last-hour",
+    "line": "Tomorrow starts the hour before you sleep.",
+    "land": "Charge the phone in another room.",
+    "landSize": 44,
+    "post": "fb-nov-last-hour-social.md",
+    "alt": "Navy quote card. Tomorrow starts the hour before you sleep. Charge the phone in another room."
+  },
+  {
+    "slug": "nov-alarm-clock",
+    "line": "Motivation is a terrible alarm clock.",
+    "land": "A calendar doesn’t care how you feel. That’s the point.",
+    "landSize": 44,
+    "post": "fb-nov-alarm-clock-social.md",
+    "alt": "Navy quote card. Motivation is a terrible alarm clock. A calendar doesn't care how you feel. That's the point."
+  },
+  {
+    "slug": "nov-walk",
+    "line": "Ten minutes. After your biggest meal.",
+    "land": "Shoes and the door. That’s the whole habit.",
+    "landSize": 44,
+    "post": "fb-nov-walk-after-social.md",
+    "alt": "Navy quote card. Ten minutes after your biggest meal. Shoes and the door. That's the whole habit."
+  },
+  {
+    "slug": "nov-short-week",
+    "line": "A short week is still a week.",
+    "land": "You don’t need your full routine. You need your floor.",
+    "landSize": 44,
+    "post": "fb-nov-short-week-social.md",
+    "alt": "Navy quote card. A short week is still a week. You don't need your full routine. You need your floor."
+  },
+  {
+    "slug": "nov-earn-the-meal",
+    "line": "You don’t have to earn this meal.",
+    "land": "And you don’t have to burn it off tomorrow.",
+    "landSize": 44,
+    "post": "fb-nov-thanksgiving-social.md",
+    "alt": "Navy quote card. You don't have to earn this meal. And you don't have to burn it off tomorrow."
+  },
+  {
+    "slug": "nov-today",
+    "line": "There’s nothing to restart.",
+    "land": "Your next meal is a fresh start. So is today.",
+    "landSize": 44,
+    "post": "fb-nov-today-social.md",
+    "alt": "Navy quote card. There's nothing to restart. Your next meal is a fresh start. So is today."
+  }
+]
