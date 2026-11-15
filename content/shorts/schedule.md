@@ -480,7 +480,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: How many rounds could you go?
 
-## 2026-11-19 — ready — 37_11-19_V05_squat_fix.mp4
+## 2026-11-19 — scheduled — 37_11-19_V05_squat_fix.mp4
 
 Buffer dueAt: 2026-11-20T01:00:00+08:00
 Playlist: Coach's Correction
@@ -493,7 +493,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: What's your biggest squat struggle?
 
-## 2026-11-20 — ready — 38_11-20_Z02_ring_pads.mp4
+## 2026-11-20 — scheduled — 38_11-20_Z02_ring_pads.mp4
 
 Buffer dueAt: 2026-11-21T01:00:00+08:00
 Playlist: On the Pads
@@ -506,7 +506,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Would you train boxing on vacation?
 
-## 2026-11-21 — ready — 39_11-21_T2_questions.mp4
+## 2026-11-21 — scheduled — 39_11-21_T2_questions.mp4
 
 Buffer dueAt: 2026-11-22T01:00:00+08:00
 Playlist: Sunday Reset
@@ -519,7 +519,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Which question hits home for you?
 
-## 2026-11-22 — ready — 40_11-22_M03_abs_4_moves.mp4
+## 2026-11-22 — scheduled — 40_11-22_M03_abs_4_moves.mp4
 
 Buffer dueAt: 2026-11-23T01:00:00+08:00
 Playlist: The 20-Minute Fix
@@ -532,7 +532,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Which one burns the most?
 
-## 2026-11-23 — ready — 41_11-23_N07_handstand.mp4
+## 2026-11-23 — scheduled — 41_11-23_N07_handstand.mp4
 
 Buffer dueAt: 2026-11-24T01:00:00+08:00
 Playlist: Coach's Correction
@@ -545,7 +545,7 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 
 Pinned comment: Can you hold a handstand yet?
 
-## 2026-11-24 — ready — 42_11-24_V02_hand_release.mp4
+## 2026-11-24 — scheduled — 42_11-24_V02_hand_release.mp4
 
 Buffer dueAt: 2026-11-25T01:00:00+08:00
 Playlist: The 20-Minute Fix

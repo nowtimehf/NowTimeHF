@@ -177,7 +177,7 @@ You'll feel the stairs tomorrow. Comment DONE when you finish.
 
 #LegDay #HomeWorkout #NowTimeFitness
 
-## Dec 4 — ready — 34_11-16_V07_jab_cross.mp4
+## Dec 4 — scheduled — 34_11-16_V07_jab_cross.mp4
 
 The 1-2 is the first combo I teach, and most people throw it from the wrong stance.
 
@@ -189,7 +189,7 @@ Orthodox or southpaw? 👇
 
 #BoxingTips #JabCross #NowTimeFitness
 
-## Dec 6 — ready — 43_11-25_M04_hip_mobility.mp4
+## Dec 6 — scheduled — 43_11-25_M04_hip_mobility.mp4
 
 Tight hips from sitting all week? Four moves, five minutes.
 

@@ -398,3 +398,33 @@ One slot was open on each channel; filled:
 All accepted as `scheduled`. Now 10/10 on every channel: LinkedIn through Dec 2, Instagram through Dec 2,
 YouTube through Nov 18. Next refill: LinkedIn `obj-17-survey-results` (Dec 4), Instagram jab-cross Reel (Dec 4),
 YouTube `37_11-19_V05_squat_fix` (Nov 19).
+
+## Weekly refill — 2026-11-15
+
+Before refill: LinkedIn 7/10, Instagram 8/10, YouTube 4/10 (posts through Dec 2).
+Everything due Nov 8–14 sent on time on all three channels — no errors or failures. Instagram stayed connected
+all week. Mike also posted directly on LinkedIn (Nov 10, Marine Corps birthday) and Instagram; those don't use Buffer slots.
+
+**Queued this run** (Reels and Shorts use the batch-2 shorts commit `e6d5f57`; none of the three LinkedIn drafts has a card):
+
+| Date (ET) | Channel | Item | Buffer ID |
+|---|---|---|---|
+| 2026-12-04 Fri 9:15 AM | LinkedIn | `obj-17-survey-results-linkedin.md` | 6af901e1e5a113497ab9d8e7 |
+| 2026-12-07 Mon 9:15 AM | LinkedIn | `dec-holiday-party-linkedin.md` | 6af901e2c5b364e06227103f |
+| 2026-12-09 Wed 9:15 AM | LinkedIn | `dec-inside-the-workshop-linkedin.md` | 6af901e2b9a106584c7bcd88 |
+| 2026-12-04 Fri 8:15 AM | Instagram | `34_11-16_V07_jab_cross.mp4` (Reel, shared to feed; shorts URL) | 6af901e076c23bf1c74d6c36 |
+| 2026-12-06 Sun 8:15 AM | Instagram | `43_11-25_M04_hip_mobility.mp4` (Reel, shared to feed; shorts URL) | 6af901e1e5a113497ab9d8bf |
+| 2026-11-19 Thu 12:00 PM | YouTube | `37_11-19_V05_squat_fix` Fix Your Squat in 10 Seconds | 6af901c5c5b364e062270b2b |
+| 2026-11-20 Fri 12:00 PM | YouTube | `38_11-20_Z02_ring_pads` Pad Work in Bali | 6af901c6e5a113497ab9d24d |
+| 2026-11-21 Sat 12:00 PM | YouTube | `39_11-21_T2_questions` Ask Yourself This After Every Workout | 6af901c776c23bf1c74d67a0 |
+| 2026-11-22 Sun 12:00 PM | YouTube | `40_11-22_M03_abs_4_moves` Abs in 4 Moves (No Equipment) | 6af901c8b9a106584c7bc828 |
+| 2026-11-23 Mon 12:00 PM | YouTube | `41_11-23_N07_handstand` Can You Do This? (Wall Kick-Ups) | 6af901c9c5b364e062270bd9 |
+| 2026-11-24 Tue 12:00 PM | YouTube | `42_11-24_V02_hand_release` The Push-Up That Builds Power | 6af901cab9a106584c7bc8ed |
+
+All 11 accepted as `scheduled`. All dates as planned; none moved. All times -05:00 (EST).
+
+**After refill:** LinkedIn 10/10 (through Dec 9), Instagram 10/10 (through Dec 6), YouTube 10/10 (through Nov 24).
+
+**Still unqueued:** LinkedIn 7 drafts (Dec 11–30 — content ends Dec 30). Instagram 9 Reels (Dec 9–30 — content ends Dec 30).
+YouTube 24 Shorts (Nov 25 – Dec 18 — content ends Dec 18). Next: LinkedIn `obj-18-hr-problem` (Dec 11),
+Instagram `40_11-22_M03_abs_4_moves` (Dec 9), YouTube `43_11-25_M04_hip_mobility` (Nov 25).
