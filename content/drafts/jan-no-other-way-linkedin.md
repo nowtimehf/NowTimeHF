@@ -10,9 +10,9 @@ card: content/visuals/now-no-other-way-card.png
 
 New year, same name on the door. Here's what it means.
 
-Most people assume "Now Time" is a slogan.
+I told this story in September. It matters more today than it did then.
 
-It's two acronyms.
+"Now Time" isn't a slogan. It's two acronyms.
 
 NOW: No Other Way.
 TIME: Time Is My Everything.
