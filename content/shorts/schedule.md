@@ -873,7 +873,7 @@ Pinned comment: How long did you last?
 ## Batch 3 (added 2026-11-17): 20 Shorts cut from the Nov 12 footage (same clips as the January Reels)
 
 Clip numbers (R##) match `content/reels/batch-2026-11-12.md`. Single-move clips are used whole; #4, #7, #10 and #14 are split into parts.
-Batch 3 video URL: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/BATCH3COMMIT/content/shorts/<file>  (use this commit for every batch-3 file below).
+Batch 3 video URL: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/d5fafdf8da91fe3f55a394d65b72c2a2440e4f9c/content/shorts/<file>  (use this commit for every batch-3 file below).
 
 ## 2026-12-19 — ready — 67_12-19_R11_lat_pulldown.mp4
 
