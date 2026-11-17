@@ -869,3 +869,268 @@ Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + F
 #core #abs #homeworkout
 
 Pinned comment: How long did you last?
+
+## Batch 3 (added 2026-11-17): 20 Shorts cut from the Nov 12 footage (same clips as the January Reels)
+
+Clip numbers (R##) match `content/reels/batch-2026-11-12.md`. Single-move clips are used whole; #4, #7, #10 and #14 are split into parts.
+Batch 3 video URL: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/BATCH3COMMIT/content/shorts/<file>  (use this commit for every batch-3 file below).
+
+## 2026-12-19 — ready — 67_12-19_R11_lat_pulldown.mp4
+
+Buffer dueAt: 2026-12-20T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Stop Pulling the Bar Behind Your Neck (Lat Pulldown Fix)
+Description:
+
+Grip just wider than shoulders, chest up, elbows down to your sides. Bar to the upper chest.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#latpulldown #backworkout #formcheck
+
+Pinned comment: Front or behind the neck? Be honest.
+
+## 2026-12-20 — ready — 68_12-20_R01_ankle_rolls.mp4
+
+Buffer dueAt: 2026-12-21T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Stiff Ankles? Roll Them Out Like This
+Description:
+
+Ankle over the opposite knee. 30 slow circles each way, then switch sides.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#anklemobility #mobility #stretching
+
+Pinned comment: When did you last do anything for your ankles?
+
+## 2026-12-21 — ready — 69_12-21_R14a_flutter_kicks.mp4
+
+Buffer dueAt: 2026-12-22T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Flutter Kicks Done Right
+Description:
+
+Hands under your hips, legs straight, low back pressed into the floor. 30 seconds.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#flutterkicks #abs #coreworkout
+
+Pinned comment: How long can you go without your back lifting?
+
+## 2026-12-22 — ready — 70_12-22_R12_cable_row.mp4
+
+Buffer dueAt: 2026-12-23T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Seated Cable Row: Stop Rocking
+Description:
+
+Sit tall, knees soft. Handle to your lower ribs, elbows tight, squeeze the shoulder blades. Torso stays still.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#cablerow #backworkout #formcheck
+
+Pinned comment: Do you rock on your rows?
+
+## 2026-12-23 — ready — 71_12-23_R10a_knee_hug_quad.mp4
+
+Buffer dueAt: 2026-12-24T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Warm-Up Part 1: Knee Hug + Quad Pull
+Description:
+
+Hug one knee to your chest, then pull the heel to your glute. Stand tall. 10 each side.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#warmup #mobility #dynamicstretching
+
+Pinned comment: Do you warm up or go straight in?
+
+## 2026-12-24 — ready — 72_12-24_R02_reclined_pigeon.mp4
+
+Buffer dueAt: 2026-12-25T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Tight Hips? Pigeon Pose Without the Knee Pain
+Description:
+
+Ankle over the opposite knee, hands behind the bottom thigh, pull it in. Hold 30–60 seconds or do 10 reps.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#hipmobility #pigeonpose #stretching
+
+Pinned comment: Which hip is tighter, left or right?
+
+## 2026-12-25 — ready — 73_12-25_R14b_bicycle_crunch.mp4
+
+Buffer dueAt: 2026-12-26T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Bicycle Crunches: Don't Yank Your Neck
+Description:
+
+Hands behind your head, elbow to the opposite knee, other leg long. Slow beats fast. 20 total.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#bicyclecrunch #abs #coreworkout
+
+Pinned comment: Merry Christmas. Earn the dessert. How many did you do?
+
+## 2026-12-26 — ready — 74_12-26_R09_hip_flexor.mp4
+
+Buffer dueAt: 2026-12-27T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Hip Flexor Stretch: Feel Nothing? Do This
+Description:
+
+Back knee down, tuck the pelvis, squeeze that glute, then reach the same arm up and over. 30 seconds each side.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#hipflexorstretch #mobility #stretching
+
+Pinned comment: Did you feel the difference with the glute squeeze?
+
+## 2026-12-27 — ready — 75_12-27_R04_neck_mobility.mp4
+
+Buffer dueAt: 2026-12-28T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Desk Neck? 2-Minute Standing Reset
+Description:
+
+Chin down and up, turn left and right, ear to shoulder. Slow, shoulders down. 10 each direction.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#neckpain #neckmobility #deskstretch
+
+Pinned comment: How many hours a day are you at a screen?
+
+## 2026-12-28 — ready — 76_12-28_R13_core_combo.mp4
+
+Buffer dueAt: 2026-12-29T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Flutter Kicks + Bicycle Crunches Combo
+Description:
+
+Switch every 10 seconds for 4 rounds, or ladder 10-8-6-4-2 of each. Low back stays down.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#coreworkout #abs #homeworkout
+
+Pinned comment: Switch every 10 seconds or the ladder? Pick one.
+
+## 2026-12-29 — ready — 77_12-29_R10b_lunge_twist.mp4
+
+Buffer dueAt: 2026-12-30T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Warm-Up Part 2: Lunge With a Twist
+Description:
+
+Step into a lunge, arms out, rotate over the front knee. Front knee stays over the ankle. 10 each side.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#warmup #lunge #mobility
+
+Pinned comment: Which side rotates easier for you?
+
+## 2026-12-30 — ready — 78_12-30_R08_side_bend.mp4
+
+Buffer dueAt: 2026-12-31T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Standing Side Bend: Hip Flexor + Lat in One Stretch
+Description:
+
+One foot back, back-leg arm overhead, lean toward the front leg. Squeeze the back glute. 30 seconds each side.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#stretching #mobility #sidestretch
+
+Pinned comment: Feel it in the hip, the side, or both?
+
+## 2026-12-31 — ready — 79_12-31_R03_knee_twist.mp4
+
+Buffer dueAt: 2027-01-01T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Low Back Reset on the Floor
+Description:
+
+Knee to chest, lower it across your body, opposite arm wide, both shoulders down. Hold or do 10 reps each side.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#lowerbackpain #stretching #mobility
+
+Pinned comment: Last stretch of the year. What are you leaving in 2026?
+
+## 2027-01-01 — ready — 80_01-01_R05_shoulder_flow.mp4
+
+Buffer dueAt: 2027-01-02T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: 4 Positions for Tight Shoulders
+Description:
+
+Reach overhead, palms together, hands behind head, hands to low back. Ribs down. 10 rounds.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#shouldermobility #warmup #mobility
+
+Pinned comment: New year. What's your first workout of 2027?
+
+## 2027-01-02 — ready — 81_01-02_R10c_toe_reach_cossack.mp4
+
+Buffer dueAt: 2027-01-03T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: Warm-Up Part 3: Toe Reach + Cossack Squat
+Description:
+
+Staggered stance, hinge and reach for the front toes. Then wide stance, sit into one hip, other leg straight. 10 each.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#cossacksquat #warmup #mobility
+
+Pinned comment: How low can you get on the Cossack?
+
+## 2027-01-03 — ready — 82_01-03_R06_arm_circles.mp4
+
+Buffer dueAt: 2027-01-04T01:00:00+08:00
+Playlist: Coach's Correction
+Title: Arm Circles Only Work If They're Slow
+Description:
+
+Hand on hip, biggest circle you can, forward then backward. Torso stays still. 3–5 each way, each arm.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#armcircles #shouldermobility #warmup
+
+Pinned comment: Fast or slow? Be honest.
+
+## 2027-01-04 — ready — 83_01-04_R07a_side_neck_stretch.mp4
+
+Buffer dueAt: 2027-01-05T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Tight Neck? Hand-Assisted Side Stretch
+Description:
+
+Hand on your head, other hand behind your back, ear toward shoulder. Light pressure only. 20–30 seconds each side.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#neckstretch #neckpain #stretching
+
+Pinned comment: Which side is tighter?
+
+## 2027-01-05 — ready — 84_01-05_R14_core_combo.mp4
+
+Buffer dueAt: 2027-01-06T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: 60-Second Core Challenge: Flutter Kicks + Bicycles
+Description:
+
+20 on, 10 off for 4 minutes, or have a partner yell SWITCH whenever they want.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#corechallenge #abs #partnerworkout
+
+Pinned comment: Tag the person who'd call your switches.
+
+## 2027-01-06 — ready — 85_01-06_R07b_chin_armpit_stretch.mp4
+
+Buffer dueAt: 2027-01-07T01:00:00+08:00
+Playlist: Sunday Reset
+Title: Neck and Upper Trap Stretch: Chin to Chest, Nose to Armpit
+Description:
+
+Hands behind your head, chin to chest. Then nose toward the armpit, light hand pressure. 20–30 seconds each.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#neckstretch #uppertraps #stretching
+
+Pinned comment: Where do you hold your tension?
+
+## 2027-01-07 — ready — 86_01-07_R10_dynamic_warmup.mp4
+
+Buffer dueAt: 2027-01-08T01:00:00+08:00
+Playlist: The 20-Minute Fix
+Title: 5-Move Warm-Up Before Every Workout
+Description:
+
+Knee hug, quad pull, lunge with a twist, toe reach, Cossack squat. 10 each, no equipment.
+Follow for a new boxing + fitness tip every day. Coach Mike, Now Time Health + Fitness.
+#warmup #mobility #noequipment
+
+Pinned comment: Save this for your next workout.
