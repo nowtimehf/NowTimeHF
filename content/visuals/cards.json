@@ -91,5 +91,59 @@
     "label": "THE ANSWER",
     "answer": "Then measure who never started, not who won.",
     "alt": "Navy card, Objection 16. Question: We'll do a step challenge in January. Answer: Then measure who never started, not who won."
+  },
+  {
+    "slug": "19-after-q1",
+    "eyebrowLead": "OBJECTION 19",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“Let’s revisit wellness after Q1.”",
+    "label": "THE ANSWER",
+    "answer": "Q1 is when the resignations land.",
+    "alt": "Navy card, Objection 19. Question: Let's revisit wellness after Q1. Answer: Q1 is when the resignations land."
+  },
+  {
+    "slug": "20-remote-nobody-joins",
+    "eyebrowLead": "OBJECTION 20",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“Half our team is remote. Nobody joins anything.”",
+    "label": "THE ANSWER",
+    "answer": "Then stop building it for the office.",
+    "alt": "Navy card, Objection 20. Question: Half our team is remote. Nobody joins anything. Answer: Then stop building it for the office."
+  },
+  {
+    "slug": "21-cant-force",
+    "eyebrowLead": "OBJECTION 21",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“We can’t force people to participate.”",
+    "label": "THE ANSWER",
+    "answer": "You don’t force it. You schedule it.",
+    "alt": "Navy card, Objection 21. Question: We can't force people to participate. Answer: You don't force it. You schedule it."
+  },
+  {
+    "slug": "22-managers-not-therapists",
+    "eyebrowLead": "OBJECTION 22",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“My managers aren’t therapists.”",
+    "label": "THE ANSWER",
+    "answer": "They don’t need to be. They need three questions.",
+    "alt": "Navy card, Objection 22. Question: My managers aren't therapists. Answer: They don't need to be. They need three questions."
+  },
+  {
+    "slug": "23-app-reviews",
+    "eyebrowLead": "OBJECTION 23",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“Our wellness app has great reviews.”",
+    "label": "THE ANSWER",
+    "answer": "Reviews measure the app. Usage measures your team.",
+    "alt": "Navy card, Objection 23. Question: Our wellness app has great reviews. Answer: Reviews measure the app. Usage measures your team."
+  },
+  {
+    "slug": "24-prove-it",
+    "eyebrowLead": "OBJECTION 24",
+    "eyebrowRest": "WHAT HR DIRECTORS ASK",
+    "question": "“Prove it works before I sign a contract.”",
+    "label": "THE ANSWER",
+    "answer": "That’s exactly what a pilot is for.",
+    "alt": "Navy card, Objection 24. Question: Prove it works before I sign a contract. Answer: That's exactly what a pilot is for."
   }
 ]

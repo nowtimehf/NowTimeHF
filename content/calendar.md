@@ -254,3 +254,37 @@ Dec 2 leg day · Dec 4 jab-cross · Dec 6 hip mobility · Dec 9 abs · Dec 11 sq
 Dec 13 4x4 breathing · Dec 16 plank · Dec 18 double-end bag · Dec 20 90-90 flow ·
 Dec 23 chair upper body (holiday travel) · Dec 25 Christmas morning mobility · Dec 27 neck reset ·
 Dec 30 wall-sit challenge.
+
+# January 2027 — theme: Q1 is when it shows up
+
+Added 2026-11-17. Mon/Wed/Fri, 13 posts, 9:15 AM ET (-05:00). Written tighter than earlier months
+for engagement, based on 2026 LinkedIn research (SocialPilot, Taplio Feb 2026 benchmarks, ZoomSphere):
+
+- **Every post has an image.** Taplio's Feb 2026 sample: image posts median ~4,358 views vs ~326 for text-only.
+  Six new objection cards (19–24); the rest reuse stat cards and two existing cards.
+- **Hook in the first line,** under ~15 words, so it lands before "see more."
+- **Short lines and white space, ~650–850 characters.** Tight, but still long enough to hold attention, since dwell time is ranked.
+- **Built for saves and real comments.** Saves and substantive comments outweigh likes. Three posts are save-this
+  lists (Jan 11, 20, 22). Every post ends on a specific question that takes a sentence to answer, not yes/no.
+- **2–3 hashtags, no external links** (posts with links reportedly see much less reach).
+- **Mike: reply to every comment in the first hour.** The first 30–60 minutes decide how far a post travels.
+
+| Date | Day | Pillar | Hook | Draft | Card | CTA |
+|---|---|---|---|---|---|---|
+| Jan 1 | Fri | Brand story | What NOW TIME stands for | `jan-no-other-way` | `now-no-other-way-card` | question |
+| Jan 4 | Mon | Business Case | "Let's revisit wellness after Q1." | `obj-19-after-q1` | `card-19-after-q1` | question |
+| Jan 6 | Wed | Engagement Gap | 76% as a headcount, not a percentage | `jan-76-percent` | `stat-01-seventy-six` | question |
+| Jan 8 | Fri | Program Design | "Half our team is remote. Nobody joins anything." | `obj-20-remote-nobody-joins` | `card-20-remote-nobody-joins` | question |
+| Jan 11 | Mon | HR Playbook | 5 questions for any wellness vendor (save) | `jan-vendor-questions` | `stat-04-eight-percent` | question |
+| Jan 13 | Wed | Program Design | "We can't force people to participate." (USMC structure) | `obj-21-cant-force` | `card-21-cant-force` | question |
+| Jan 15 | Fri | Engagement Gap | Your quietest employee hasn't told you | `jan-42-percent` | `stat-03-forty-two` | question |
+| Jan 18 | Mon | Business Case | Blue Monday is made up. The sick days aren't. | `jan-blue-monday` | `stat-05-sick-days` | question |
+| Jan 20 | Wed | HR Playbook | "My managers aren't therapists." 3 check-in questions (save) | `obj-22-managers-not-therapists` | `card-22-managers-not-therapists` | question |
+| Jan 22 | Fri | HR Playbook | The one-page report leadership reads (save) | `jan-leadership-report` | `card-11-leadership-buy-in` | question |
+| Jan 25 | Mon | Engagement Gap | "Our wellness app has great reviews." | `obj-23-app-reviews` | `card-23-app-reviews` | question |
+| Jan 27 | Wed | Program Design | "Prove it works before I sign." (Pilot Sprint) | `obj-24-prove-it` | `card-24-prove-it` | PILOT |
+| Jan 29 | Fri | Engagement Gap | January's over. Look at who never started. | `jan-who-never-started` | `card-16-january-challenge` | question |
+
+Stats used: 76% (Gallup), 6–9 months salary (SHRM), 42%/42% (Mind Share Partners), 63%/23% (Gallup),
+6–8% participation. All from the approved table. Date facts checked: Quitter's Day is not used; Blue Monday
+(Jan 18, 2027, third Monday) began as a 2005 travel-company marketing campaign.

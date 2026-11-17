@@ -435,3 +435,9 @@ Instagram `40_11-22_M03_abs_4_moves` (Dec 9), YouTube `43_11-25_M04_hip_mobility
 (Dec 19 – Jan 7 daily, files 67–86 in `content/shorts/`), all from one 14-clip iCloud album. Clip IDs confirmed
 by Mike (`content/reels/batch-2026-11-12.md`). The weekly refill queues them in order. YouTube now runs through Jan 7;
 Instagram through Jan 31; LinkedIn still ends Dec 30.
+
+## 2026-11-17 — January LinkedIn written
+
+13 LinkedIn drafts for Jan 1–29 (Mon/Wed/Fri), each with a card (6 new objection cards 19–24 in `content/visuals/`).
+See the January section of `calendar.md`. Every January draft has a `card:`, so the refill attaches an image to each.
+LinkedIn content now runs through Jan 29.

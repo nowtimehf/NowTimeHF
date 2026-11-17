@@ -24,7 +24,8 @@ const fs = require('fs');
 const path = require('path');
 
 const DIR = __dirname;
-const CHROME = '/opt/pw-browsers/chromium-1194/chrome-linux/chrome';
+const CHROME_PIN = '/opt/pw-browsers/chromium-1194/chrome-linux/chrome';
+const CHROME = fs.existsSync(CHROME_PIN) ? CHROME_PIN : undefined; // fall back to Playwright's bundled Chromium
 
 const esc = (s) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
