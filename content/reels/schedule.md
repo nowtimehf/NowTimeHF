@@ -306,3 +306,165 @@ Finish 2026 strong. Comment DONE. 👇
 Want me in your corner for 2027? VIP coaching link in bio.
 
 #WallSit #Challenge #NowTimeFitness
+
+## January 2027 — Reels from the Nov 12 footage (batch list: `batch-2026-11-12.md`)
+
+Added 2026-11-17. IDs confirmed by Mike. Files in `content/reels/` (H.264, 1080x1920, silent track, 2s trimmed off
+each end). Video URL: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/<commit>/content/reels/<file>, using the
+commit noted here once pushed. Post time and settings unchanged: 8:15 AM ET (-05:00), Reel, share to feed = true. Sun/Wed/Fri.
+
+## Jan 1 — ready — 26_Jan01_Fri_LatPulldown.mp4
+
+New year, same rule: pull the bar to your chest, not behind your neck.
+
+Grip just wider than your shoulders. Chest up, lean back slightly, and drive your elbows down to your sides. Control it on the way up.
+
+10–15 reps, 3 sets.
+
+Follow for a new correction every Friday.
+
+#LatPulldown #BackWorkout #NowTimeFitness
+
+## Jan 3 — ready — 27_Jan03_Sun_AnkleRolls.mp4
+
+Stiff ankles make everything above them work harder.
+
+Lie on your back, cross one ankle over the opposite knee, and roll the foot in a slow, full circle. 30 one way, 30 the other. Switch sides and repeat.
+
+Do it tonight before bed. 🔖
+
+#AnkleMobility #SundayReset #NowTimeFitness
+
+## Jan 6 — ready — 28_Jan06_Wed_CoreCombo.mp4
+
+Flutter kicks + bicycle crunches. Pick your version.
+
+Option 1: 10 seconds each, switch back and forth, 4 rounds.
+Option 2: Ladder. 10 flutter kicks, 10 bicycles, then 8 and 8, 6 and 6, all the way down to 2 and 2.
+
+Flutter kicks: hands under your hips, legs straight, low back pressed down. Bicycles: elbow to opposite knee, don't yank your neck.
+
+Which option are you taking? 👇
+
+#CoreWorkout #AbsWorkout #NowTimeFitness
+
+## Jan 8 — ready — 29_Jan08_Fri_CableRow.mp4
+
+If your body rocks on the row, your back isn't doing the work.
+
+Sit tall, knees soft. Pull the handle to your lower ribs, elbows tight to your sides, and squeeze your shoulder blades together. Let it out slow.
+
+10–15 reps, 3 sets. Torso stays still the whole time.
+
+Follow for a new correction every Friday.
+
+#CableRow #BackWorkout #NowTimeFitness
+
+## Jan 10 — ready — 30_Jan10_Sun_ReclinedPigeon.mp4
+
+Tight hips? This is pigeon pose without the knee pressure.
+
+On your back, cross one ankle over the opposite knee. Lace your hands behind the bottom thigh and pull it toward your chest. Head and shoulders stay down.
+
+Hold 30–60 seconds, or pull in and release for 10 reps. Then switch sides. 🔖
+
+#HipMobility #SundayReset #NowTimeFitness
+
+## Jan 13 — ready — 31_Jan13_Wed_DynamicWarmup.mp4
+
+Five moves before every workout. No equipment.
+
+Knee hug. Standing quad pull. Lunge with a twist. Staggered toe reach. Cossack squat.
+
+10 of each. Your workout will feel better from the first rep. Save this. 🔖
+
+#WarmUp #MobilityTraining #NowTimeFitness
+
+## Jan 15 — ready — 32_Jan15_Fri_HipFlexor.mp4
+
+Most people do this hip flexor stretch and feel nothing. Here's the fix.
+
+Back knee down. Tuck your pelvis under and squeeze the glute on the kneeling side. That's where the stretch turns on. Then reach the same-side arm up and over.
+
+Hold 30 seconds each side.
+
+Follow for a new correction every Friday.
+
+#HipFlexorStretch #Mobility #NowTimeFitness
+
+## Jan 17 — ready — 33_Jan17_Sun_NeckMobility.mp4
+
+Desk neck? Two minutes, standing.
+
+Chin down, then look up. Turn left, turn right. Ear to shoulder, both sides. Go slow, keep your shoulders down, and don't force the end range.
+
+10 each direction. 🔖
+
+#NeckMobility #SundayReset #NowTimeFitness
+
+## Jan 20 — ready — 34_Jan20_Wed_CoreCombo.mp4
+
+Same two moves, new rules. Flutter kicks + bicycle crunches.
+
+Option 3: 20 seconds work, 10 seconds rest, alternating moves for 4 minutes.
+Option 4: Grab a partner. They call SWITCH whenever they want. You don't stop until they say done. 60 seconds.
+
+Low back stays pressed down the whole time.
+
+Tag the person calling your switches. 👇
+
+#CoreWorkout #PartnerWorkout #NowTimeFitness
+
+## Jan 22 — ready — 35_Jan22_Fri_SideBend.mp4
+
+Your side bend should stretch two things at once. If it doesn't, check your back leg.
+
+Stagger your stance, one foot back. Reach the back-leg arm overhead and lean toward the front leg. Squeeze the back glute so the stretch runs from the hip up through the side of your back.
+
+Hold 30 seconds each side.
+
+Follow for a new correction every Friday.
+
+#Stretching #Mobility #NowTimeFitness
+
+## Jan 24 — ready — 36_Jan24_Sun_KneeTwist.mp4
+
+The low-back reset you can do on the floor.
+
+On your back, pull one knee to your chest, then lower it across your body toward the floor. Opposite arm out wide. Both shoulders stay down.
+
+Hold 30–60 seconds, or move in and out for 10 reps. Switch sides. 🔖
+
+#LowerBackStretch #SundayReset #NowTimeFitness
+
+## Jan 27 — ready — 37_Jan27_Wed_ShoulderFlow.mp4
+
+Four positions. Tight shoulders gone.
+
+Reach overhead. Palms together. Hands behind your head, elbows wide. Hands to your low back.
+
+Ribs down, no arching. 10 rounds, then go train. 🔖
+
+#ShoulderMobility #WarmUp #NowTimeFitness
+
+## Jan 29 — ready — 38_Jan29_Fri_ArmCircles.mp4
+
+Arm circles only work if they're slow.
+
+Free hand on your hip. One arm draws the biggest circle it can, forward, then backward. Your torso doesn't move. Only the shoulder does.
+
+3–5 each direction, each arm.
+
+Follow for a new correction every Friday.
+
+#ShoulderMobility #ArmCircles #NowTimeFitness
+
+## Jan 31 — ready — 39_Jan31_Sun_NeckStretch.mp4
+
+Neck and upper traps tight at the end of the week? Three stretches.
+
+Ear to shoulder, with your hand adding light pressure and the other hand behind your back. Chin to chest with your hands behind your head. Nose toward your armpit.
+
+20–30 seconds each, both sides. Light pressure only. Never pull hard. 🔖
+
+#NeckStretch #SundayReset #NowTimeFitness
