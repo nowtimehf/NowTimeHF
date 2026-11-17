@@ -310,7 +310,7 @@ Want me in your corner for 2027? VIP coaching link in bio.
 ## January 2027 — Reels from the Nov 12 footage (batch list: `batch-2026-11-12.md`)
 
 Added 2026-11-17. IDs confirmed by Mike. Files in `content/reels/` (H.264, 1080x1920, silent track, 2s trimmed off
-each end). Video URL: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/117b3973365b7620be6be3e692f9453519904949/content/reels/<file> Post time and settings unchanged: 8:15 AM ET (-05:00), Reel, share to feed = true. Sun/Wed/Fri.
+each end). Video URL: https://raw.githubusercontent.com/nowtimehf/NowTimeHF/9ea6e7597864ff85725b3287c3e5c9e9d71e7b2d/content/reels/<file> Post time and settings unchanged: 8:15 AM ET (-05:00), Reel, share to feed = true. Sun/Wed/Fri.
 
 ## Jan 1 — ready — 26_Jan01_Fri_LatPulldown.mp4
 
